@@ -1,0 +1,7 @@
+alice:GMuMeMoqUogqE
+bob:$1$kqavfSjz$vro/DEMNfXLOjzvzocJVe.
+carol$Rp56HOCefht66
+dave:$1$kqavfSjz$vro/DEMNfXLOjocJVe.
+edgar:$1$mlfaifixe$qkIXmDedUyXqGulKunRDI0
+frida:$110$VD9MCr8AX1U6OgWi$eV5MaojiM/.H79EYkRj/RgaBmg7XNAEmFVbvqBflKrD
+grady:$5$baRUfhiHm/2PEzzD$qcdhkY5VNnjgkRsVx6mojO6G/VIaJHCf6.G1cxNZlc9

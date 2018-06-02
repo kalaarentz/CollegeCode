@@ -1,0 +1,1 @@
+SELECT * FROM PlaylistTrack AS pt WHERE pt.playlistID > (SELECT trackID FROM Track);

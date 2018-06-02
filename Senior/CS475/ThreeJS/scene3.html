@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Scene 3</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<style>
+		body { font-family: Monospace; background-color: #000; color: #fff; margin: 0px; overflow: hidden; }
+		#info { color: #fff; position: absolute; top: 10px; width: 100%; text-align: center; z-index: 100; display:block; }
+		#info a, .button { color: #f00; font-weight: bold; text-decoration: underline; cursor: pointer }
+	</style>
+</head>
+
+<body>
+
+	<script src="three.js-master/build/three.min.js"></script>
+	<script src="three.js-master/examples/js/loaders/OBJLoader.js"></script>
+  <script src="three.js-master/examples/js/controls/TrackballControls.js"></script>
+	<script src="three.js-master/examples/js/Detector.js"></script>
+	<script src="three.js-master/examples/js/libs/stats.min.js"></script>
+  <script src="three.js-master/examples/js/renderers/Projector.js"></script>
+
+	<script>
+    var g = {};
+
+    const PLANE_SIZE = 30.0;
+
+		init();
+		animate();
+
+		function init() {
+			// DOM container element
+      g.container = document.createElement('div');
+			document.body.appendChild(g.container);
+
+      // renderer
+      g.renderer = new THREE.WebGLRenderer({antialias: true});
+      g.renderer.setSize(window.innerWidth, window.innerHeight);
+      g.renderer.setClearColor(new THREE.Color(0x252530));
+      g.renderer.shadowMap.enabled = true;
+      g.renderer.shadowMap.type = THREE.PCFShadowMap;
+      g.renderer.shadowMapSoft = true;
+      g.renderer.sortObjects = false;
+      g.container.appendChild(g.renderer.domElement);
+
+      // projector
+      g.raycaster = new THREE.Raycaster();
+
+      // camera
+			g.camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 300 );
+			g.camera.position.z = 40;
+
+      // trackball controls
+      g.controls = new THREE.TrackballControls(g.camera,g.container);
+      g.controls.rotateSpeed = 1.0;
+      g.controls.zoomSpeed = 1.2;
+      g.controls.panSpeed = 0.8;
+      g.controls.noZoom = false;
+      g.controls.noPan = false;
+      g.controls.staticMoving = true;
+      g.controls.dynamicDampingFactor = 0.3;
+      g.controls.keys = [65,83,68];
+      g.controls.addEventListener('change',render);
+
+			// scene
+			g.scene = new THREE.Scene();
+
+      // lights
+			var ambient = new THREE.AmbientLight(0x102030);
+			g.scene.add(ambient);
+			var directionalLight = new THREE.DirectionalLight(0xffffff);
+			directionalLight.position.set(30,-30,30);
+      directionalLight.castShadow = true;
+//      directionalLight.shadowCameraVisible = true;
+      directionalLight.shadowCameraNear = 5;
+      directionalLight.shadowCameraFar = 100;
+//      directionalLight.shadowCameraFov = 75;
+      directionalLight.shadowCameraLeft = -15;
+      directionalLight.shadowCameraRight = 15;
+      directionalLight.shadowCameraTop = 15;
+      directionalLight.shadowCameraBottom = -15;
+
+      directionalLight.shadowMapBias = 0.0039;
+      directionalLight.shadowMapDarkness = 0.5;
+      directionalLight.shadowMapWidth = 1024;
+      directionalLight.shadowMapHeight = 1024;
+			g.scene.add(directionalLight);
+
+      // plane
+      var groundgeom = new THREE.PlaneGeometry(PLANE_SIZE,PLANE_SIZE);
+      var groundmat = new THREE.MeshPhongMaterial({color: "rgb(150,140,80)"});
+      var ground = new THREE.Mesh(groundgeom,groundmat);
+      ground.receiveShadow = true;
+      g.scene.add(ground);
+
+      var sphere = new THREE.Mesh(new THREE.SphereGeometry(5,25,25), new THREE.MeshLambertMaterial({color: 0xaa00aa}));
+      sphere.position.z = 1;
+      sphere.castShadow = true;
+      sphere.receiveShadow = true;
+      g.scene.add(sphere);
+
+      // garden node
+      g.garden = new THREE.Object3D();
+      g.scene.add(g.garden);
+
+      // model
+      var manager = new THREE.LoadingManager();
+      manager.onProgress = function(item,loaded,total) {console.log(item,loaded,total); };
+      var loader = new THREE.OBJLoader(manager);
+      loader.load('flower.obj',function(mesh){console.log("flower %o",mesh); flowerModel = mesh.children[0];});
+      loader.load('stem.obj',function(mesh){console.log("stem %o",mesh); stemModel = mesh.children[0];});
+
+      // events
+      document.addEventListener('mousedown', onDocumentMouseDown, true );
+      document.addEventListener('mouseup', onDocumentMouseUp, false );
+      document.addEventListener('mousemove', onDocumentMouseMove, false );
+      window.addEventListener('resize', onWindowResize, false );
+    }
+
+    function onWindowResize() {
+      g.camera.aspect = window.innerWidth / window.innerHeight;
+      g.camera.updateProjectionMatrix();
+
+      g.renderer.setSize( window.innerWidth, window.innerHeight );
+    }
+
+    function onDocumentMouseDown(event) {
+//      console.log("mouseDown");
+      g.mouseMotion = 0;
+    }
+
+    function onDocumentMouseUp(event) {
+//      console.log("mouseup");
+      if (g.mouseMotion >= 3) return;
+      plantFlower();
+    }
+
+   function onDocumentMouseMove(event) {
+//     console.log("mouseMove");
+     g.mouseMotion += 1;
+     if (g.mouse == undefined) g.mouse = new THREE.Vector2();
+     g.mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+     g.mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+    }
+
+    function plantFlower() {
+      var flower = flowerModel.clone();
+      flower.material = flowerModel.material.clone();
+      flower.castShadow = true;
+      flower.receiveShadow = true;
+      var height = 5 + 10 * Math.random();
+      flower.position.set(0,0,height);
+      var stem = stemModel.clone();
+      stem.castShadow = true;
+      stem.receiveShadow = true;
+      stem.material.color.setRGB(0.1,0.8,0.2);
+      stem.scale.set(5,5,height);
+      var node = new THREE.Object3D();
+      node.position.set(g.plantPos.x,g.plantPos.y,0.0);
+      node.add(flower);
+      node.add(stem);
+      g.garden.add(node);
+    }
+
+    function testPlaneIntersection() {
+      if (g.mouse == undefined) return;
+
+      var vec = new THREE.Vector3(g.mouse.x,g.mouse.y,1);
+      vec.unproject(g.camera);
+      vec.sub(g.camera.position);
+      vec.normalize();
+      var k = -g.camera.position.z / vec.z;
+      var pos = new THREE.Vector3(vec.x,vec.y,vec.z);
+      pos.multiplyScalar(k);
+      pos.add(g.camera.position);
+
+      if (pos.x > -15 && pos.x < 15 && pos.y > -15 && pos.y < 15) {
+        g.plantPos = pos;
+      }
+    }
+
+    function testObjectIntersection() {
+      if (g.mouse == undefined) return;
+
+      var vec = new THREE.Vector3(g.mouse.x,g.mouse.y,1);
+      vec.unproject(g.camera);
+      g.raycaster.set(g.camera.position,vec.sub(g.camera.position).normalize());
+      var intersections = g.raycaster.intersectObjects(g.garden.children,true);
+//      console.log("intersections %d",intersections.length);
+      if (intersections.length > 0) {
+        var intersected = intersections[0].object;
+        intersected.material.color.setRGB(Math.random(),Math.random(),Math.random());
+      }
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+
+      testPlaneIntersection();
+      testObjectIntersection();
+      if (g.controls != undefined) g.controls.update();
+      render();
+   }
+
+    function render() {
+      g.renderer.render(g.scene,g.camera);
+    }
+
+  </script>
+
+</body>
+</html>

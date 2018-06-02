@@ -1,0 +1,9 @@
+$$   1) "Testing"
+   7 /    0 /    0 /    6 /    1 /    0
+$$ #-----------------------------
+# Number of strings   : 1
+# Number of spaces    : 0
+# Number of digits    : 0
+# Number of lowercase : 6
+# Number of uppercase : 1
+#-----------------------------

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>scene 1</title>
+		<style>canvas { width: 100%; height: 100% }</style>
+	</head>
+	<body>
+		<script src="three.js-master/build/three.min.js"></script>
+		<script>
+
+var camera = new THREE.PerspectiveCamera(40,window.innerWidth / window.innerHeight,0.1,1000);
+camera.position.z = 20;
+
+var renderer = new THREE.WebGLRenderer();
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setClearColor(0x202020,1);
+document.body.appendChild(renderer.domElement);
+
+var scene = new THREE.Scene();
+
+var light = new THREE.DirectionalLight( 0xffffff );
+light.position.set(0,1,1).normalize();
+scene.add(light);
+
+var geometry = new THREE.CubeGeometry(1,1,1);
+var material = new THREE.MeshPhongMaterial({color: 0x00ff00});
+var cube = new THREE.Mesh(geometry, material);
+
+scene.add(cube);
+
+var sphgeom = new THREE.SphereGeometry(1,24,12);
+var sphmat = new THREE.MeshPhongMaterial({color: 0xff0000});
+var sphere1 = new THREE.Mesh(sphgeom,sphmat);
+sphere1.position.set(0,2,0);
+
+//      var sphgeom = new THREE.SphereGeometry(1);
+//      var sphmat = new THREE.MeshLambertMaterial({color: 0xff0000});
+var sphere2 = new THREE.Mesh(sphgeom,sphmat);
+sphere2.position.set(0,-2,0);
+
+var sphere3 = new THREE.Mesh(sphgeom,sphmat);
+sphere3.position.set(0,2,0);
+
+var sphere4 = new THREE.Mesh(sphgeom,sphmat);
+sphere4.position.set(0,-2,0);
+
+//scene.add(sphere1);
+
+var node = new THREE.Object3D();
+var node1 = new THREE.Object3D();
+var node2 = new THREE.Object3D();
+
+node1.add(sphere1);
+node1.add(sphere2);
+node1.position.set(3,0,0);
+
+node2.add(sphere3);
+node2.add(sphere4);
+node2.position.set(-3,0,0);
+
+node.add(node1);
+node.add(node2);
+scene.add(node);
+
+function render() {
+	// request another invocation of this function
+  requestAnimationFrame(render);
+
+  cube.rotation.x += 0.01;
+  cube.rotation.y += 0.01;
+
+  node1.rotation.z += 0.02;
+  node2.rotation.z += 0.03;
+
+  node.rotation.z += 0.01;
+
+  renderer.render(scene,camera);
+}
+
+render();
+
+    </script>
+	</body>
+</html>

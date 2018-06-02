@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Scene 2</title>
+  <style>canvas { width: 100%; height: 100% }</style>
+</head>
+
+<body>
+  <script src="three.js-master/build/three.min.js"></script>
+  <script src="three.js-master/examples/js/loaders/OBJLoader.js"></script>
+  <script src="three.js-master/examples/js/Detector.js"></script>
+  <script src="three.js-master/examples/js/libs/stats.min.js"></script>
+  <script src="three.js-master/examples/js/controls/TrackballControls.js"></script>
+
+  <script>
+
+  var g = {};
+
+  init();
+  animate();
+
+  function init() {
+    // DOM container element
+    g.container = document.createElement('div');
+    document.body.appendChild(g.container);
+
+    // renderer
+    g.renderer = new THREE.WebGLRenderer();
+    g.renderer.setSize(window.innerWidth, window.innerHeight);
+    g.renderer.setClearColor(0x202020,1);
+    g.container.appendChild(g.renderer.domElement);
+
+    // scene
+    g.scene = new THREE.Scene();
+
+    // camera
+    g.camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 2000);
+    g.camera.position.z = 5;
+    g.scene.add(g.camera);
+
+    // trackball controls
+    g.controls = new THREE.TrackballControls(g.camera,g.container);
+    g.controls.rotateSpeed = 1.0;
+    g.controls.zoomSpeed = 1.2;
+    g.controls.panSpeed = 0.8;
+    g.controls.noZoom = false;
+    g.controls.noPan = false;
+    g.controls.staticMoving = true;
+    g.controls.dynamicDampingFactor = 0.3;
+    g.controls.keys = [65,83,68];
+    g.controls.addEventListener('change',render);
+
+    // lights
+    var ambient = new THREE.AmbientLight(0x101030);
+    g.scene.add(ambient);
+
+    var directionalLight = new THREE.DirectionalLight(0xffeedd);
+    directionalLight.position.set(1,1,1);
+    //g.scene.add(directionalLight);
+    g.camera.add(directionalLight);
+
+    // texture
+    var manager = new THREE.LoadingManager();
+    manager.onProgress = function(item,loaded,total) { console.log(item.loaded,total); };
+    var texture = new THREE.Texture();
+    var loader = new THREE.ImageLoader(manager);
+    loader.load('chicken_auv.png',
+                function(image) {texture.image = image; texture.needsUpdate = true;} );
+
+    // model
+    var loader = new THREE.OBJLoader(manager);
+    loader.load('chicken-tex.obj',
+                function(object) {
+                object.traverse( function(child) { if (child instanceof THREE.Mesh) { child.material.map = texture; } } );
+                  g.model = object;
+                  g.model.rotation.x = -Math.PI / 2.0;
+                  g.model.rotation.z = -Math.PI / 2.0;
+                  g.model.position.set(0,-0.5,-0.3);
+                  g.scene.add(g.model);
+                } );
+
+    // events
+    document.addEventListener('mousedown', onDocumentMouseDown, false );
+    document.addEventListener('mouseup', onDocumentMouseUp, false );
+    document.addEventListener('mousemove', onDocumentMouseMove, false );
+    window.addEventListener('resize', onWindowResize, false );
+
+  }
+
+  function onWindowResize() {
+    g.halfWidth = window.innerWidth / 2;
+    g.halfHeight = window.innerHeight / 2;
+
+    g.camera.aspect = window.innerWidth / window.innerHeight;
+    g.camera.updateProjectionMatrix();
+
+    renderer.setSize( window.innerWidth, window.innerHeight );
+  }
+
+  function onDocumentMouseDown(event) {
+    g.mousedown = 1;
+  }
+
+  function onDocumentMouseUp(event) {
+    g.mousedown = 0;
+  }
+
+  function onDocumentMouseMove(event) {
+    g.mouseX = ( event.clientX - g.halfWidth ) / 2;
+    g.mouseY = ( event.clientY - g.halfHeight ) / 2;
+  }
+
+  function animate() {
+    requestAnimationFrame(animate);
+    if (g.controls != undefined) g.controls.update();
+    render();
+  }
+
+  function render() {
+    g.renderer.render(g.scene,g.camera);
+  }
+
+    </script>
+	</body>
+</html>

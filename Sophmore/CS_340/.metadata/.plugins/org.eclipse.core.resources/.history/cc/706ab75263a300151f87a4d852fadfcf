@@ -1,0 +1,645 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.PriorityQueue;
+import java.util.Scanner;
+
+/**
+ * Program Description: This program will be used to make the
+ * city graph. It will implement FlightPath and will use other 
+ * files that have a list of destinations which will use the
+ * Haversine Formula.
+ *
+ * Date Last Modified: Dec 8, 2015
+ *
+ * @author: kalaarentz
+ */
+public class CityGraph implements FlightPath
+{
+	private LinkedList<Vertex> graph;
+	private boolean isCityLoaded;
+
+	public CityGraph()
+	{
+		graph = new LinkedList<>();
+		isCityLoaded = false;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#loadCities(java.lang.String, double)
+	 */
+	@Override
+	public void loadCities(String filename, double maxDist) {
+
+
+		if( maxDist < 1000 )
+		{
+			throw new IllegalArgumentException( "Max Distance is less than 1000 miles" );
+		}
+
+		try {
+
+			BufferedReader file = new BufferedReader( new FileReader( filename ) );
+
+			// need to read the line once for the first line of 
+			// "# latitude longitude" and then read it to get to
+			// the very first city
+
+			String line = file.readLine(); 
+			line = file.readLine();
+
+			while( line != null )
+			{
+				Scanner parser = new Scanner ( line );
+
+				String city = parser.next();
+				//System.out.println( city );
+
+				while( !parser.hasNextDouble() )
+				{
+					city = city + " " + parser.next();
+					//System.out.println( city );
+				}
+
+				double lon = parser.nextDouble();
+				//System.out.println( lat );
+				double lat = parser.nextDouble();
+				//System.out.println( lon );
+
+				Vertex vert = new Vertex( city, lat, lon );
+
+				graph.add( vert );
+
+				line = file.readLine();
+				parser.close();
+
+			}
+
+			file.close();
+		}
+		catch ( FileNotFoundException e ) 
+		{
+			e.printStackTrace();
+		}
+		catch ( IOException e )
+		{
+			e.printStackTrace();
+		}
+
+		isCityLoaded = true;
+		// make the connections/adjacent of each of these vertex cities
+
+		for( Vertex source : graph )
+		{
+			for( Vertex destination: graph )
+			{
+				double weight = getTrueDistance( source.getCity(), destination.getCity() );
+				if(  weight <= maxDist )
+				{
+					// since it is undirected, then the source and destination
+					source.addEdge( destination , weight);
+					destination.addEdge( source , weight );
+				}
+			}
+		}
+
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#loadCities(java.lang.String)
+	 */
+	@Override
+	public void loadCities(String filename) {
+
+		int maxDist = 2000;
+
+		try {
+
+			BufferedReader file = new BufferedReader( new FileReader( filename ) );
+
+			// need to read the line once for the first line of 
+			// "# latitude longitude" and then read it to get to
+			// the very first city
+
+			String line = file.readLine(); 
+			line = file.readLine();
+
+			while( line != null )
+			{
+				Scanner parser = new Scanner ( line );
+
+				String city = parser.next();
+				//System.out.println( city );
+
+				while( !parser.hasNextDouble() )
+				{
+					city = city + " " + parser.next();
+					//System.out.println( city );
+				}
+
+				double lon = parser.nextDouble();
+				//System.out.println( lat );
+				double lat = parser.nextDouble();
+				//System.out.println( lon );
+
+				Vertex vert = new Vertex( city, lat, lon );
+
+				graph.add( vert );
+
+				line = file.readLine();
+				parser.close();
+
+			}
+
+			file.close();
+		}
+		catch ( FileNotFoundException e ) 
+		{
+			e.printStackTrace();
+		}
+		catch ( IOException e )
+		{
+			e.printStackTrace();
+		}
+
+		isCityLoaded = true;
+		// make the connections/adjacent of each of these vertex cities
+
+		for( Vertex source : graph )
+		{
+			for( Vertex destination: graph )
+			{
+				double weight = getTrueDistance( source.getCity(), destination.getCity() );
+				if(  weight <= maxDist )
+				{
+					// since it is undirected, then the source and destination
+					source.addEdge( destination , weight);
+					destination.addEdge( source , weight );
+				}
+			}
+		}
+
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#contains(java.lang.String)
+	 */
+	@Override
+	public boolean contains(String cityName) {
+
+		if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+		else
+		{
+			for( Vertex v: graph )
+			{
+				if( v.getCity().equals( cityName ) )
+				{
+					return true;
+				}
+			}
+		}
+		return false;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#isConnected()
+	 */
+	@Override
+	public boolean isConnected() {
+		// TODO Auto-generated method stub
+
+		// if graph is empty it is considered connected
+		if( graph.isEmpty() )
+		{
+			return true;
+		}
+
+
+		return false;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#getTrueDistance(java.lang.String, java.lang.String)
+	 */
+	@Override
+	public double getTrueDistance(String citySource, String cityDestination) {
+		
+
+		// if either citySource or cityDestination are not in the graph
+		if( !contains( citySource ) || !contains( cityDestination )  )
+		{
+			throw new IllegalArgumentException( "City Source or Destination Does Not Exist" );
+		}
+		else if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+
+		Vertex orgin = getVertex( citySource );
+		Vertex destination = getVertex( cityDestination );
+
+		return getHaversineFormula( orgin.getLatitude(), orgin.getLongitude(), 
+				destination.getLatitude(), destination.getLongitude());
+	}
+
+	/**
+	 * Will return the vertex from the graph by the 
+	 * city's name.
+	 * 
+	 * @param cityName String name of the city
+	 * @return Vertex the vertex object that has all the information.
+	 */
+	private Vertex getVertex( String cityName )
+	{
+		for( Vertex v : graph )
+		{
+			if( v.getCity().equals( cityName ) )
+			{
+				return v;
+			}
+		}
+
+		return null;
+	}
+
+	/**
+	 * 	HAVERSINE FORMULA	
+	 * 	dlon = lon2 - lon1 
+		dlat = lat2 - lat1 
+		a = (sin(dlat/2))^2 + cos(lat1) * cos(lat2) * (sin(dlon/2))^2 
+		c = 2 * atan2( sqrt(a), sqrt(1-a) ) 
+		d = R * c (where R is the radius of the Earth)
+
+	 * @param lat1 origins cities latitude
+	 * @param long1 origins cities longitude
+	 * @param lat2 destination cities latitude
+	 * @param long2 destination cities longitude
+	 * @return double distance between the two cities.
+	 */
+	private double getHaversineFormula( double lat1, double long1, 
+			double lat2, double long2 )
+	{
+		lat1 = Math.toRadians( lat1 );
+		long1 = Math.toRadians( long1 );
+		lat2 = Math.toRadians( lat2 );
+		long2 = Math.toRadians( long2 );
+
+		double dLat = lat1 - lat2;
+		double dLong = long1 - long2;
+
+		double a = (Math.sin( dLat/2 ) * Math.sin( dLat/2 ))
+				+ Math.cos( lat1 ) * Math.cos( lat2 ) 
+				* ( Math.sin( dLong/2 ) * Math.sin( dLong/2 ) );
+
+		double c = 2 * Math.atan2( Math.sqrt( a ), Math.sqrt( 1-a ) );
+
+		double dist = 3961.0 * c;
+		return dist;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#getPath(java.lang.String, java.lang.String)
+	 */
+	@Override
+	public List<String> getPath(String citySource, String cityDestination) {
+		// TODO Auto-generated method stub
+
+		// EXCEPTIONS
+		// if either citySource or cityDestination are not in the graph
+		if( !contains( citySource ) || !contains( cityDestination )  )
+		{
+			throw new IllegalArgumentException( "City Source or Destination Does Not Exist" );
+		}
+		else if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+
+		// This is the Dijkstra's algorithm. It finds the 
+		// shortest path between two different cities.
+		List<Vertex> path = new LinkedList<>();
+		Vertex source = getVertex( citySource );
+		Vertex destination = getVertex( cityDestination );
+
+		// each vertex will be given a distance of Double.POSITIVE_INFINITY
+		for( Vertex v: graph )
+		{
+			v.distance = Double.POSITIVE_INFINITY;
+			// this will be used later to recognize if it has been used before
+			v.known = false;
+		}
+
+		source.distance = 0;
+
+		// Will be a priority queue to sort cities by distance
+		PriorityQueue<Vertex> listOfCities = new PriorityQueue<>();
+
+		listOfCities.add( source );
+
+		while( !listOfCities.isEmpty() )
+		{
+			Vertex v = listOfCities.poll();
+			v.known = true;
+
+			for( Vertex.VertexWithWeight vw : v.adjacent )
+			{
+				Vertex next = vw.vert;
+				if( !next.known && (v.distance + vw.weight) < next.distance )
+				{
+					next.distance = v.distance + vw.weight;
+					next.prev = v;
+					listOfCities.add(next);
+				}
+			}
+		}
+
+		path = backtrack( destination, source );
+
+		// this a linked list that will be the same order as path, but
+		// it will be the path with a list of the cities name.
+		LinkedList<String> pathOfCities = new LinkedList<>();
+
+		for( Vertex v : path )
+		{
+			pathOfCities.add( v.getCity() );
+		}
+
+		return pathOfCities;
+
+	}
+
+	/**
+	 * Helper method that uses the previous values of the nodes to generate
+	 * the back-tracking path.
+	 * 
+	 * @param destination This is the last city in the path, or your destination.
+	 * @param source This is starting city in the path or your starting city.
+	 * @return LinkedList<Vertex> either pathBackTrack or a new LinkedList
+	 * that is has no variable name.
+	 */
+	private LinkedList<Vertex> backtrack(Vertex destination, Vertex source) {
+
+		LinkedList<Vertex> pathBackTrack = new LinkedList<>();
+		Vertex tmp = destination;
+
+		while( tmp != null && tmp != source )
+		{
+			pathBackTrack.addFirst( tmp );
+			tmp = tmp.prev;
+
+			if ( pathBackTrack.size() > graph.size() )
+			{
+				return new LinkedList<Vertex>();
+			}
+		}
+
+		pathBackTrack.addFirst( source );
+
+		return pathBackTrack;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#getPathDistance(java.lang.String, java.lang.String)
+	 */
+	@Override
+	public double getPathDistance(String citySource, String cityDestination) {
+		// TODO Auto-generated method stub
+
+		// EXCEPTIONS
+		// if either citySource or cityDestination are not in the graph
+		if( !contains( citySource ) || !contains( cityDestination )  )
+		{
+			throw new IllegalArgumentException( "City Source or Destination Does Not Exist" );
+		}
+		else if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+
+		// This is the Dijkstra's algorithm. It finds the 
+		// shortest path between two different cities.
+		List<Vertex> path = new LinkedList<>();
+		Vertex source = getVertex( citySource );
+		Vertex destination = getVertex( cityDestination );
+
+		// each vertex will be given a distance of Double.POSITIVE_INFINITY
+		for( Vertex v: graph )
+		{
+			v.distance = Double.POSITIVE_INFINITY;
+			// this will be used later to recognize if it has been used before
+			v.known = false;
+		}
+
+		source.distance = 0;
+
+		// Will be a priority queue to sort cities by distance
+		PriorityQueue<Vertex> listOfCities = new PriorityQueue<>();
+
+		listOfCities.add( source );
+
+		while( !listOfCities.isEmpty() )
+		{
+			Vertex v = listOfCities.poll();
+			v.known = true;
+
+			for( Vertex.VertexWithWeight vw : v.adjacent )
+			{
+				Vertex next = vw.vert;
+				if( !next.known && (v.distance + vw.weight) < next.distance )
+				{
+					next.distance = v.distance + vw.weight;
+					next.prev = v;
+					listOfCities.add(next);
+				}
+			}
+		}
+
+		path = backtrack( destination, source );
+
+
+		return 0;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#getAllPaths(java.lang.String)
+	 */
+	@Override
+	public Map<String, List<String>> getAllPaths(String citySource) {
+		// TODO Auto-generated method stub
+
+		// EXCEPTIONS
+		// if either citySource is not in the graph
+		if( !contains( citySource ) )
+		{
+			throw new IllegalArgumentException( "City Source Does Not Exist" );
+		}
+		else if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+
+		return null;
+	}
+
+	/* (non-Javadoc)
+	 * @see FlightPath#getTour(java.lang.String, java.util.List)
+	 */
+	@Override
+	public List<String> getTour(String cityOrigin, List<String> visting) {
+		// TODO Auto-generated method stub
+
+		//EXCEPTIONS
+		// if any cities are not contained
+		if( !contains( cityOrigin ) )
+		{
+			throw new IllegalArgumentException( "City Origin does not exist!" );
+		}
+		else if( !isCityLoaded )
+		{
+			throw new IllegalStateException( "Cities have not been loaded!" );
+		}
+		else
+		{
+			// this will go through the list of visiting cities and 
+			// make sure they are in the graph
+			for( String str : visting )
+			{
+				if( !contains( str ) )
+				{
+					throw new IllegalArgumentException( "Visiting City does not exist!" );
+				}
+			}
+		}
+
+
+		return null;
+	}
+
+
+	/**
+	 * 
+	 * Program Description: Private inner class for vertices
+	 * Each vertices holds the city name, along with a list of
+	 * its neighbors or who can go to this city and its distance which
+	 * will be considered the weight of this edge.
+	 *
+	 * Date Last Modified: Dec 9, 2015
+	 *
+	 * @author: kalaarentz
+	 */
+	private class Vertex implements Comparable<Vertex>
+	{
+		private String city;
+		private double latitude;
+		private double longitude;
+
+		// variables used for the getPath() method which 
+		// will implement Dijkstra algorithm
+		private double distance;
+		private boolean known;
+		private Vertex prev;
+
+		private LinkedList<VertexWithWeight> adjacent;
+
+		Vertex( String town, double lat, double logit )
+		{
+			city = town;
+			latitude = lat;
+			longitude = logit;
+
+			// city will only be adjacent if it is under the MaxDistance 
+			adjacent = new LinkedList<>();
+
+		}
+
+		/**
+		 * Will return the name of this city, which represents this
+		 * vertex
+		 * @return String city
+		 */
+		public String getCity()
+		{
+			return city;
+		}
+
+		/**
+		 * Will return the latitude of this city.
+		 * @return double latitude
+		 */
+		public double getLatitude()
+		{
+			return latitude;
+		}
+
+		/**
+		 * Will return the longitude of this city.
+		 * @return double longitude
+		 */
+		public double getLongitude()
+		{
+			return longitude;
+		}
+
+
+		/**
+		 * 
+		 * @param town
+		 * @param distance
+		 */
+		private void addEdge( Vertex city , double weight)
+		{
+			this.adjacent.add( new VertexWithWeight( city, weight ) );
+		}
+
+		/* (non-Javadoc)
+		 * @see java.lang.Comparable#compareTo(java.lang.Object)
+		 */
+		@Override
+		public int compareTo(Vertex v) {
+
+			if( distance < v.distance )
+			{
+				return - 1;
+			}
+
+			if( distance > v.distance )
+			{
+				return 1;
+			}
+
+			return 0;
+		}
+
+		/**
+		 * 
+		 * Program Description: Inner class to the inner class of vertex
+		 * Represents the weighted edge with two elements, one for the vertex
+		 * that the edge connects this to, and one for the 
+		 *
+		 * Date Last Modified: Dec 14, 2015
+		 *
+		 * @author: kalaarentz
+		 */
+		private class VertexWithWeight
+		{
+			Vertex vert;
+			double weight;
+
+			VertexWithWeight( Vertex v, double w )
+			{
+				vert = v;
+				weight =w;
+			}
+		}
+
+	}
+
+}

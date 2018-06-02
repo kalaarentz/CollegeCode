@@ -1,0 +1,81 @@
+# Processing: sgriffin:$6$DDnQvKMhkR/OWHID$3HjGHU8GPDBbKubmkyFPzmmSpie0Whg15TnHYypQcBLgzy.i.yuugDPybcIVWE8VEhoR68cjXMHDikVxp7RQg.
+# sgriffin / SHA-512 / DDnQvKMhkR/OWHID / 3HjGHU8GPDBbKubmkyFPzmmSpie0Whg15TnHYypQcBLgzy.i.yuugDPybcIVWE8VEhoR68cjXMHDikVxp7RQg.
+#---------------------------------------------------
+# Processing: hbutler:$5$Y5RxByhSXEZ3Z8ht$vpwydab/uWIoRwPZqP8l8hRObiq5FhJNA7sfgMITLv/
+# hbutler / SHA-256 / Y5RxByhSXEZ3Z8ht / vpwydab/uWIoRwPZqP8l8hRObiq5FhJNA7sfgMITLv/
+#---------------------------------------------------
+# Processing: ft:$6$CsoellqVrhft96ym$Wfz5R0ULx/Tp1763mHUvKenZAwwbqzd7Cq.ykkhtIunpSMqcdTlzJnuaCb1m6np7FWxyXBDgmi83H0ieJ.7SU1
+Error: Username too short (ft)
+#---------------------------------------------------
+# Processing: ah:7a1jGjdGRrbho
+Error: Username too short (ah)
+#---------------------------------------------------
+# Processing: kphillips:$1$rN6M.kow$8wO9Wox3tgxIkxU3o7YKP.
+# kphillips / MD5 / rN6M.kow / 8wO9Wox3tgxIkxU3o7YKP.
+#---------------------------------------------------
+# Processing: swalker:$5$d50RPHHMe639SEIi$2kjbIh8EWV0PxkKhrzFxsAIdVPqSzfhyTctZDBhAqg7
+# swalker / SHA-256 / d50RPHHMe639SEIi / 2kjbIh8EWV0PxkKhrzFxsAIdVPqSzfhyTctZDBhAqg7
+#---------------------------------------------------
+# Processing: fphillips:$5$3ST8R8zQCFRitC3L$Uk3sDyNKi60cDMG05VVP2ok3aGAP34zw/JoKt/PMfMD
+# fphillips / SHA-256 / 3ST8R8zQCFRitC3L / Uk3sDyNKi60cDMG05VVP2ok3aGAP34zw/JoKt/PMfMD
+#---------------------------------------------------
+# Processing: ksanchez:$1$E2i3HHJF$je95NM3AlAboYWzJ5U4AK/LKJ
+Error: MD5 Password length incorrect. Expected 22, Actual 25
+#---------------------------------------------------
+# Processing: kturner:$5$RmUWNMju0iuvisBf$VZdOtU1oxrooQT1gFSRdv2ZzYgeCgv.bJ3A.RROLAzU8
+Error: SHA-256 Password length incorrect. Expected 43, Actual 44
+#---------------------------------------------------
+# Processing: bpowell:$5$D.OuC4/ZojGF1wX3$mhv.ubivvByBOmANMw21zrvIzojwOPWE69iY4VPCsw5
+# bpowell / SHA-256 / D.OuC4/ZojGF1wX3 / mhv.ubivvByBOmANMw21zrvIzojwOPWE69iY4VPCsw5
+#---------------------------------------------------
+# Processing: yrogers:Jve3e3pzPU2QI
+# yrogers / DES / Jv / e3e3pzPU2QI
+#---------------------------------------------------
+# Processing: olewis:v4beGSLjlkUXM0UQ
+Error: DES Password length incorrect. Expected 11, Actual 14
+#---------------------------------------------------
+# Processing: cwatson:$1$ZrlPXs6R$ayfvKrf05mvHRz31BFc9o1
+# cwatson / MD5 / ZrlPXs6R / ayfvKrf05mvHRz31BFc9o1
+#---------------------------------------------------
+# Processing: bmoore:3CKWG7.Aj0E8Y
+# bmoore / DES / 3C / KWG7.Aj0E8Y
+#---------------------------------------------------
+# Processing: chernandez:5G7eiLUeTAWvw
+# chernandez / DES / 5G / 7eiLUeTAWvw
+#---------------------------------------------------
+# Processing: gwalker:$6$qcaEbD27ysf0ISOe$vkLkgmSt5I1TP1dN.rUb8svjR9hU3MSqfmSTFY.xgvLgsQWHNSKkBeMgY3eD5mg1FI7sRDsLH9VqCyt/ugdUL1
+# gwalker / SHA-512 / qcaEbD27ysf0ISOe / vkLkgmSt5I1TP1dN.rUb8svjR9hU3MSqfmSTFY.xgvLgsQWHNSKkBeMgY3eD5mg1FI7sRDsLH9VqCyt/ugdUL1
+#---------------------------------------------------
+# Processing: rwatson:$1$jshurjP$VFjurniwIuVbieKCo5Y1u.
+Error: MD5 Salt length incorrect. Expected 8, Actual 7
+#---------------------------------------------------
+# Processing: prichardson:$1$pbudL1esD$S9JTl3GyMgcXlskiVI56z.
+Error: MD5 Salt length incorrect. Expected 8, Actual 9
+#---------------------------------------------------
+# Processing: ahill:$5$F5sHEjD4klCzsC/$nfDKIc3ya/hZXEMdKIOoKNYuGAfPv1iAgaL5/w.Gnu0
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 15
+#---------------------------------------------------
+# Processing: nmartinez:$5$gc1da.TGEdc46fcF3$jnltyomJaK/L71JmGfPLyJWMTSijq2VhsjvskQvK30B
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 17
+#---------------------------------------------------
+# Processing: eward:$5$/wtokL32GCvfl9$Dc6k.1AHtcvm9nLmwpV3JyoaEg5Iz6BzI7kgMY6qNy9
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 14
+#---------------------------------------------------
+# Processing: chill:$5$6EQdyEZCjTmw2rIF$06Q3F.6FhbEyhi4yXof/cpV1F8qpbLUyL/02ZF7jKNC
+# chill / SHA-256 / 6EQdyEZCjTmw2rIF / 06Q3F.6FhbEyhi4yXof/cpV1F8qpbLUyL/02ZF7jKNC
+#---------------------------------------------------
+# Processing: ulopez:$5$bUjuUBiItCMnhRiI$kqeKwqQVHu7aNQpk3RBrcHLRzOVROoVT/EMiQLvC8b8
+# ulopez / SHA-256 / bUjuUBiItCMnhRiI / kqeKwqQVHu7aNQpk3RBrcHLRzOVROoVT/EMiQLvC8b8
+#---------------------------------------------------
+# Processing: ahayes:7a1jGjdGRrbho
+# ahayes / DES / 7a / 1jGjdGRrbho
+#---------------------------------------------------
+# Processing: wdiaz:$5$hAL0CaxXvBR/liD0$XnGwqrCeAZWbMAIbJ2JspyINN5tUOQLvo9Dnt8abze1
+# wdiaz / SHA-256 / hAL0CaxXvBR/liD0 / XnGwqrCeAZWbMAIbJ2JspyINN5tUOQLvo9Dnt8abze1
+#---------------------------------------------------
+# Number of valid   : 15
+# Number of invalid : 10
+# Number of DES     : 4
+# Number of MD5     : 2
+# Number of SHA-256 : 7
+# Number of SHA-512 : 2

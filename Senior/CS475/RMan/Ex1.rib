@@ -1,0 +1,71 @@
+##RenderMan RIB-Structure 1.0
+
+# When done programatically using Renderman library
+# we start with a
+#Begin
+
+# Image options
+# output will be in Ex1.png as rgb data
+Display "Ex1.png" "file" "rgb"
+Format 1280 640 1.0
+
+# camera options
+# Clipping ...
+# DepthOfField ...
+Projection "perspective" "fov" 40
+Translate -.275 -0.1  2.75
+Rotate -100 1 0 0
+Rotate 20 0 0 1
+
+# for animation done programatically several frames
+# can be computed. use FrameBegin/End
+
+# scene description
+WorldBegin
+
+  LightSource "distantlight" 1 "from" [1 1 1] "to" [0 0 0] "intensity" 0.8
+
+  # begin an object or object group
+  AttributeBegin
+    # Color ...
+    # Surface ...
+    # Object ...
+
+    # begin transformation/object sequence
+    TransformBegin 
+      Color .0 .0 1
+      Cone 1 .1 360 
+    TransformEnd
+    TransformBegin 
+      Rotate -90 1 0 0
+      Color .0 1 .0
+      Cone 1 .1 360
+    TransformEnd
+    TransformBegin
+      Rotate 90 0 1 0
+      Color 1 .0 .0
+      Cone 1 .1 360
+    TransformEnd
+    
+    # begin another sequence - state is as before
+    TransformBegin
+      Color 1 1 1
+      Polygon "P" [.0 .0 .0    1 .0 .0    1 1 .0   .0 1 .0]
+    TransformEnd
+
+    TransformBegin
+      Color .2 .4 .6
+      Sphere .25 -.25 .25 360
+    TransformEnd
+    
+    TransformBegin
+      Color .5 .1 .7
+      Translate .5 .5 0
+      Hyperboloid .1 -0.1 0  0 .1 .25 360
+    TransformEnd
+    
+  AttributeEnd
+  
+  
+WorldEnd
+

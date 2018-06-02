@@ -1,0 +1,21 @@
+# Processing: kwhite:$1$xxQ.SdM0$ne6iT2CnhtGeNLQqDwuz81
+# kwhite / MD5 / xxQ.SdM0 / ne6iT2CnhtGeNLQqDwuz81
+#---------------------------------------------------
+# Processing: ksanchez:$1$E2i3HHJF$je95NM3AlAboYWzJ5U4AK/
+# ksanchez / MD5 / E2i3HHJF / je95NM3AlAboYWzJ5U4AK/
+#---------------------------------------------------
+# Processing: kfoster:$1$tud252Nd$Q2HYkyiRulPPY5RW.MLIl1
+# kfoster / MD5 / tud252Nd / Q2HYkyiRulPPY5RW.MLIl1
+#---------------------------------------------------
+# Processing: ajones:$1$LgDX2uVk$Vwb9OQ2LmMpS.mEJ02TW8/
+# ajones / MD5 / LgDX2uVk / Vwb9OQ2LmMpS.mEJ02TW8/
+#---------------------------------------------------
+# Processing: bmurphy:$1$npCCKcHA$DIovush6QnWpRyUOFvigF1
+# bmurphy / MD5 / npCCKcHA / DIovush6QnWpRyUOFvigF1
+#---------------------------------------------------
+# Number of valid   : 5
+# Number of invalid : 0
+# Number of DES     : 0
+# Number of MD5     : 5
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

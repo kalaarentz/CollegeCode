@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;cs220assignment2.LatinSquareModel.checkForDuplicates(...)&apos;&#x0A;- Original project: &apos;cs220assignment2&apos;&#x0A;- Destination element: &apos;cs220assignment2.LatinSquareModel.checkForDuplicates(...)&apos;&#x0A;- Original element: &apos;cs220assignment2.LatinSquareModel.solvedPuzzle()&apos;" description="Copy method" destination="/src&lt;cs220assignment2{LatinSquareModel.java[LatinSquareModel~checkForDuplicates~I~I~Z" element1="/src&lt;cs220assignment2{LatinSquareModel.java[LatinSquareModel~solvedPuzzle" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1427223042713" version="1.0"/>
+</session>

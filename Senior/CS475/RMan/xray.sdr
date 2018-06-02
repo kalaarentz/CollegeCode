@@ -1,0 +1,68 @@
+#!version 2.2.6
+surface
+#!parameters:
+uniform	float	Ka	=	1
+uniform	float	Kd	=	0.5
+uniform	float	Ks	=	0.5
+uniform	float	roughness	=	0.1
+uniform	color	specularcolor	=	1
+uniform	color	opacitycolor	=	"rgb"  [ 0 0 0 ]
+#!variables:
+uniform	vector	temporary_0
+varying	vector	o
+varying	vector	Nf
+varying	vector	temporary_1
+varying	float	temporary_2
+uniform	float	temporary_3
+varying	float	temporary_4
+varying	float	temporary_5
+varying	float	temporary_6
+varying	vector	temporary_7
+varying	vector	temporary_8
+varying	vector	temporary_9
+varying	vector	temporary_10
+varying	vector	temporary_11
+uniform	vector	temporary_12
+#!Init:
+	vfromf            	temporary_0 0 0 0
+	cfrom             	opacitycolor "rgb" temporary_0
+	return            
+#!Code:
+	normalize	("v=v")  temporary_1  N 
+	faceforward	("v=vv")  Nf  temporary_1  I 
+	movevv            	o Os
+	divff             	temporary_3 3.141592654 2
+	vufloat            temporary_2 temporary_3
+	illuminance       	 P  N  temporary_2  #!Label5 #!Label6
+#!Label5:
+	dot               	temporary_5 Cl Cl
+	vufloat            temporary_6 3
+	fegt              	temporary_4 temporary_5 temporary_6
+	if                	temporary_4 #!Label7
+	vuvector           o opacitycolor
+#!Label7:
+	endif             
+#!Label6:
+	endilluminance    
+	vfromf            	temporary_0 Ka
+	vuvector           temporary_9 temporary_0
+	ambient	("c=")  temporary_10 
+	mulvv             	temporary_8 temporary_9 temporary_10
+	vfromf            	temporary_0 Kd
+	vuvector           temporary_10 temporary_0
+	diffuse	("c=n")  temporary_11  Nf 
+	mulvv             	temporary_9 temporary_10 temporary_11
+	addvv             	temporary_7 temporary_8 temporary_9
+	mulvv             	temporary_1 Cs temporary_7
+	vfromf            	temporary_12 Ks
+	mulvv             	temporary_0 specularcolor temporary_12
+	vuvector           temporary_8 temporary_0
+	normalize	("v=v")  temporary_11  I 
+	negv              	temporary_10 temporary_11
+	vufloat            temporary_2 roughness
+	specular	("c=nvf")  temporary_9  Nf  temporary_10  temporary_2 
+	mulvv             	temporary_7 temporary_8 temporary_9
+	addvv             	Ci temporary_1 temporary_7
+	movevv            	Oi o
+	mulvv             	Ci Ci Oi
+	return            

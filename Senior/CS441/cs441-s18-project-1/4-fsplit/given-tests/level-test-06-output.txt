@@ -1,0 +1,132 @@
+# Processing: nmitchell:$1$vKJ1iOCz$a2A6jtJGjOMenCm3JORkg/
+# nmitchell / MD5 / vKJ1iOCz / a2A6jtJGjOMenCm3JORkg/
+#---------------------------------------------------
+# Processing: uflores:$6$H8LJ0VYeMDzqsMsr$qWSyyjOTZwYDbW1fGDtdlsNNhF624bg6anyaGFC4wuBhz1K8LM2wbx062WqlduDQj4aKTbxL5xfsmW1fu3SsO0
+# uflores / SHA-512 / H8LJ0VYeMDzqsMsr / qWSyyjOTZwYDbW1fGDtdlsNNhF624bg6anyaGFC4wuBhz1K8LM2wbx062WqlduDQj4aKTbxL5xfsmW1fu3SsO0
+#---------------------------------------------------
+# Processing: guest:$6$d1uKnBCQ8cYH.RdX$ZTc9M98bqfq5QBMTGfahIYtIuRecZIfL/iJTYLmM1UhbPQOTU2V50iCTORTw5WoUAZikBsR8I58nNiLMXMalg0
+# guest / SHA-512 / d1uKnBCQ8cYH.RdX / ZTc9M98bqfq5QBMTGfahIYtIuRecZIfL/iJTYLmM1UhbPQOTU2V50iCTORTw5WoUAZikBsR8I58nNiLMXMalg0
+#---------------------------------------------------
+# Processing: tcarter:F9fE9zGDKkwIo
+# tcarter / DES / F9 / fE9zGDKkwIo
+#---------------------------------------------------
+# Processing: ncollins:GONgpVzWPyWXo
+# ncollins / DES / GO / NgpVzWPyWXo
+#---------------------------------------------------
+# Processing: bhill:$5$RbxUsJqW5uBzl43z$bkT2EQ4ydpPyhYd38IMtrVBm1DEF5nD51KcnwumaGE4
+# bhill / SHA-256 / RbxUsJqW5uBzl43z / bkT2EQ4ydpPyhYd38IMtrVBm1DEF5nD51KcnwumaGE4
+#---------------------------------------------------
+# Processing: sross:$5$wx0eCaMePBDaRw/h$XlFkf3g8tB/rBoU1bP7IcpiiWZn2dj./M9M6f4tSBt6
+# sross / SHA-256 / wx0eCaMePBDaRw/h / XlFkf3g8tB/rBoU1bP7IcpiiWZn2dj./M9M6f4tSBt6
+#---------------------------------------------------
+# Processing: mcarter:$5$R0sgdfZQfOrg4hKG$xyzruqpzZgbxSC6tZyJPIPdaBWabAYoEY/4oBQXLyb7
+# mcarter / SHA-256 / R0sgdfZQfOrg4hKG / xyzruqpzZgbxSC6tZyJPIPdaBWabAYoEY/4oBQXLyb7
+#---------------------------------------------------
+# Processing: dbutler:$5$OAF4oN4sTjOrWFYE$mgWN7Ryu52LAeOWll/9NXAWtJDtw7pm8lbvXwcB27TD
+# dbutler / SHA-256 / OAF4oN4sTjOrWFYE / mgWN7Ryu52LAeOWll/9NXAWtJDtw7pm8lbvXwcB27TD
+#---------------------------------------------------
+# Processing: kharris:$1$pNMMTmXI$rzRjyYfm15xsuict2tADX1
+# kharris / MD5 / pNMMTmXI / rzRjyYfm15xsuict2tADX1
+#---------------------------------------------------
+# Processing: bhughes:WNXXM0btssZ0Y
+# bhughes / DES / WN / XXM0btssZ0Y
+#---------------------------------------------------
+# Processing: asmith:$1$BbukPlDx$NFFMv4l1PWAmNDHzKk7/P.
+# asmith / MD5 / BbukPlDx / NFFMv4l1PWAmNDHzKk7/P.
+#---------------------------------------------------
+# Processing: tcook:$6$CMbE0AemLo8txNhB$J44mpYbVHX7CwHl3PGJziaGHvMyLGl34iNwf/fdbHG.8/Jtok4u1oiNzupjrd9GivJU.7bC.d4MFOyl1mWPGv0
+# tcook / SHA-512 / CMbE0AemLo8txNhB / J44mpYbVHX7CwHl3PGJziaGHvMyLGl34iNwf/fdbHG.8/Jtok4u1oiNzupjrd9GivJU.7bC.d4MFOyl1mWPGv0
+#---------------------------------------------------
+# Processing: hmartin:$6$LFJJhC/jwdHoQHbT$4Vcm3wDIUC0URuD6l.mLXeVk.qKMwolFPi8rfTua6KT4RlY8Zthy/Cyg/SfXvm3ZxcuIZHAbvFanni8MYnW7H1
+# hmartin / SHA-512 / LFJJhC/jwdHoQHbT / 4Vcm3wDIUC0URuD6l.mLXeVk.qKMwolFPi8rfTua6KT4RlY8Zthy/Cyg/SfXvm3ZxcuIZHAbvFanni8MYnW7H1
+#---------------------------------------------------
+# Processing: qauser:y1M7YjnStzHCA
+# qauser / DES / y1 / M7YjnStzHCA
+#---------------------------------------------------
+# Processing: tbailey:$5$Z0cTdQRcBmm5m3yb$aKs6tUYg3K2xVTfx8VHrLpkdOSDEjKsKiowqTh64kED
+# tbailey / SHA-256 / Z0cTdQRcBmm5m3yb / aKs6tUYg3K2xVTfx8VHrLpkdOSDEjKsKiowqTh64kED
+#---------------------------------------------------
+# Processing: rroberts:5e2xSe8Lq7P3c
+# rroberts / DES / 5e / 2xSe8Lq7P3c
+#---------------------------------------------------
+# Processing: droberts:$6$BXsEE.IzUKK3rR6L$0IC6YsJDJstulnlafEf3yNHN66ZeTMB0FVFS5XSxFAW1wdubr5PNfOls1u7jjrQBdGWf1cNl03I2OPQ6Bhdfu.
+# droberts / SHA-512 / BXsEE.IzUKK3rR6L / 0IC6YsJDJstulnlafEf3yNHN66ZeTMB0FVFS5XSxFAW1wdubr5PNfOls1u7jjrQBdGWf1cNl03I2OPQ6Bhdfu.
+#---------------------------------------------------
+# Processing: csimmons:$6$1RetbTzm0rBdGDSr$Wt5S3mpZC9JFk8HoU2g2FcSNoFn/Zpp8.tV/iBR3314FHH4TJRn7MDwharRI0lyrGeiSD343K12e3rtKhKqsC/
+# csimmons / SHA-512 / 1RetbTzm0rBdGDSr / Wt5S3mpZC9JFk8HoU2g2FcSNoFn/Zpp8.tV/iBR3314FHH4TJRn7MDwharRI0lyrGeiSD343K12e3rtKhKqsC/
+#---------------------------------------------------
+# Processing: hnelson:$6$e/YNetGspqhgf2vR$sFolAXNSHA3pMf2CUOvZOKOXO6lyyWIRDKXP0PBTrPpcpMhzZiadqJv7Vz0t9TkOsyLy.CiDky0SPkvi18Z1j0
+# hnelson / SHA-512 / e/YNetGspqhgf2vR / sFolAXNSHA3pMf2CUOvZOKOXO6lyyWIRDKXP0PBTrPpcpMhzZiadqJv7Vz0t9TkOsyLy.CiDky0SPkvi18Z1j0
+#---------------------------------------------------
+# Processing: npeterson:AjwjLCZE/u8vw
+# npeterson / DES / Aj / wjLCZE/u8vw
+#---------------------------------------------------
+# Processing: sdiaz:sY8mil07ogQ6I
+# sdiaz / DES / sY / 8mil07ogQ6I
+#---------------------------------------------------
+# Processing: ssanders:$1$9f1Il0lE$/nigTmQBaaG/LfMZNecG/0
+# ssanders / MD5 / 9f1Il0lE / /nigTmQBaaG/LfMZNecG/0
+#---------------------------------------------------
+# Processing: hdiaz:jFr3vcP2/6Hdc
+# hdiaz / DES / jF / r3vcP2/6Hdc
+#---------------------------------------------------
+# Processing: dscott:$1$IjH4EbM2$v7s7E/6fvS.0csUtiI/Ud1
+# dscott / MD5 / IjH4EbM2 / v7s7E/6fvS.0csUtiI/Ud1
+#---------------------------------------------------
+# Processing: rrivera:$5$uTIwICC5EdXu6Eg5$We/Q7G3vfAtPe1.X.Ss5JrcM/oSf0kueMwls4p/4rQ8
+# rrivera / SHA-256 / uTIwICC5EdXu6Eg5 / We/Q7G3vfAtPe1.X.Ss5JrcM/oSf0kueMwls4p/4rQ8
+#---------------------------------------------------
+# Processing: hwatson:$5$TbHHgkv/YP3sWyEb$vY9/GiF7Z3/NKsFhzHtSQfc7m4iUYgxvFJ6Lp7CyKu0
+# hwatson / SHA-256 / TbHHgkv/YP3sWyEb / vY9/GiF7Z3/NKsFhzHtSQfc7m4iUYgxvFJ6Lp7CyKu0
+#---------------------------------------------------
+# Processing: ysmith:$6$5Xz8C6zQHN8Ng0wN$SLxNkC824qZSiXLbVCo3tOEeZYFXT3yl1eqfixmLeK5yanjgIWI2725OlzOWo6/3Ewx9wbCvAoBHslUGSp71q1
+# ysmith / SHA-512 / 5Xz8C6zQHN8Ng0wN / SLxNkC824qZSiXLbVCo3tOEeZYFXT3yl1eqfixmLeK5yanjgIWI2725OlzOWo6/3Ewx9wbCvAoBHslUGSp71q1
+#---------------------------------------------------
+# Processing: kjames:$5$hy58yPiZvt876RZt$is6EoV72BTmQPAn5kgafsO/uohr8W1qs0ExX6kch.k/
+# kjames / SHA-256 / hy58yPiZvt876RZt / is6EoV72BTmQPAn5kgafsO/uohr8W1qs0ExX6kch.k/
+#---------------------------------------------------
+# Processing: dpatterson:$1$xW7FRB1D$LlV0SEP9yL.gI.Z9YB0xD.
+# dpatterson / MD5 / xW7FRB1D / LlV0SEP9yL.gI.Z9YB0xD.
+#---------------------------------------------------
+# Processing: oyoung:$6$5ew7ZaZvVfEWLyP3$kDMrEaeQoNquorDdPpCsgH9GhVlpSCzVny/5ayKbC9GIqdQDrlx6JWkegFediZiFFxd1vkmyq/VLva1YswIXo.
+# oyoung / SHA-512 / 5ew7ZaZvVfEWLyP3 / kDMrEaeQoNquorDdPpCsgH9GhVlpSCzVny/5ayKbC9GIqdQDrlx6JWkegFediZiFFxd1vkmyq/VLva1YswIXo.
+#---------------------------------------------------
+# Processing: khernandez:$1$1XA1/u.t$9YAhKY8xGRkVyQufNToIe1
+# khernandez / MD5 / 1XA1/u.t / 9YAhKY8xGRkVyQufNToIe1
+#---------------------------------------------------
+# Processing: fgonzalez:aE1wx/L98hypA
+# fgonzalez / DES / aE / 1wx/L98hypA
+#---------------------------------------------------
+# Processing: ataylor:$1$zJG3jTxc$9E75IojVkYxzAOf.KpJk/0
+# ataylor / MD5 / zJG3jTxc / 9E75IojVkYxzAOf.KpJk/0
+#---------------------------------------------------
+# Processing: panderson:$6$N/iZAIPKbsh2Oo4y$1SSMs9TmOzeb47godVHe6MWip6ENBdUWIrfP7fCUO1jxB6t3dpnzwQN/JqppulHsVJyepWNnteG2rflhU9r1b1
+# panderson / SHA-512 / N/iZAIPKbsh2Oo4y / 1SSMs9TmOzeb47godVHe6MWip6ENBdUWIrfP7fCUO1jxB6t3dpnzwQN/JqppulHsVJyepWNnteG2rflhU9r1b1
+#---------------------------------------------------
+# Processing: ujones:$6$IfhOIl4EH2UCVBSV$d76M.H2wo0aie7j4L3bHEBp6In8KDMF7jdybt.C4yR17dRJK.PL.EVVvqlCdDfmDzl.fKE84QfIGYg3xq008Q.
+# ujones / SHA-512 / IfhOIl4EH2UCVBSV / d76M.H2wo0aie7j4L3bHEBp6In8KDMF7jdybt.C4yR17dRJK.PL.EVVvqlCdDfmDzl.fKE84QfIGYg3xq008Q.
+#---------------------------------------------------
+# Processing: bcook:$1$0PMTjfDX$Ksw/DaUErlKiKM5YdtyQq0
+# bcook / MD5 / 0PMTjfDX / Ksw/DaUErlKiKM5YdtyQq0
+#---------------------------------------------------
+# Processing: ojenkins:$5$SsER13wAR8o99Wdr$gCSRi7xq5Uv8WMSxBYNwkOipxBKlF3EtCsCMYUy/.N3
+# ojenkins / SHA-256 / SsER13wAR8o99Wdr / gCSRi7xq5Uv8WMSxBYNwkOipxBKlF3EtCsCMYUy/.N3
+#---------------------------------------------------
+# Processing: wbell:$5$PN1cKCr8569YnkRr$DfPWs1fmNHItpZbWVIEpg14FGIbMrtlkgvFu6tzclg6
+# wbell / SHA-256 / PN1cKCr8569YnkRr / DfPWs1fmNHItpZbWVIEpg14FGIbMrtlkgvFu6tzclg6
+#---------------------------------------------------
+# Processing: flong:$5$9GMxTVDZV4adl6Xy$EPbheX/9OMzpaKk8E0me0uFd7wyvtmJ2n5.KQX8VOQA
+# flong / SHA-256 / 9GMxTVDZV4adl6Xy / EPbheX/9OMzpaKk8E0me0uFd7wyvtmJ2n5.KQX8VOQA
+#---------------------------------------------------
+# Processing: fperez:$1$0PFrUUax$D2lHabBTX6pfLzsrbh6hz1
+# fperez / MD5 / 0PFrUUax / D2lHabBTX6pfLzsrbh6hz1
+#---------------------------------------------------
+# Processing: thayes:$1$OvBE2IeX$GSrRwfrfYuTFcgO8ZUb1H1
+# thayes / MD5 / OvBE2IeX / GSrRwfrfYuTFcgO8ZUb1H1
+#---------------------------------------------------
+# Number of valid   : 42
+# Number of invalid : 0
+# Number of DES     : 9
+# Number of MD5     : 11
+# Number of SHA-256 : 11
+# Number of SHA-512 : 11

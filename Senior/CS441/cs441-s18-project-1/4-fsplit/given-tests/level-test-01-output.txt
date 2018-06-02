@@ -1,0 +1,21 @@
+# Processing: wsimmons:o9Sdk0HXK9GBA
+# wsimmons / DES / o9 / Sdk0HXK9GBA
+#---------------------------------------------------
+# Processing: gcarter:61zQttvLF0M0I
+# gcarter / DES / 61 / zQttvLF0M0I
+#---------------------------------------------------
+# Processing: nbaker:Z/wu5cOvPiQWI
+# nbaker / DES / Z/ / wu5cOvPiQWI
+#---------------------------------------------------
+# Processing: gfoster:xzRdc7hP4Sks6
+# gfoster / DES / xz / Rdc7hP4Sks6
+#---------------------------------------------------
+# Processing: jnelson:QiIougVzH/H42
+# jnelson / DES / Qi / IougVzH/H42
+#---------------------------------------------------
+# Number of valid   : 5
+# Number of invalid : 0
+# Number of DES     : 5
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

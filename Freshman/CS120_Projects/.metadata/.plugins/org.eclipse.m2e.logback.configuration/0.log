@@ -1,0 +1,43 @@
+2014-09-04 20:34:02,887 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2014-09-04 20:34:02,957 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:53816
+2014-09-04 20:36:11,480 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2014-09-17 13:23:50,199 [main] WARN  o.e.r.i.c.rcp.TypeBindingAnalyzer - Can't handle %s as parent of completion location.
+2014-09-17 15:14:37,855 [main] WARN  o.e.r.i.c.rcp.TypeBindingAnalyzer - Can't handle %s as parent of completion location.
+2014-09-19 12:47:58,028 [Recommenders-Timeout-Manager] ERROR o.e.r.i.rcp.JavaElementSelections - Failed to resolve selection in '=cs120assignment2/src<{GradeCalc.java' at offset 1748
+org.eclipse.jdt.core.JavaModelException: Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:158) ~[org.eclipse.jdt.core_3.10.0.v20140604-1726.jar:na]
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:377) ~[org.eclipse.jdt.core_3.10.0.v20140604-1726.jar:na]
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:371) ~[org.eclipse.jdt.core_3.10.0.v20140604-1726.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromTypeRootInEditor(JavaElementSelections.java:146) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:128) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:111) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.handleSelectionInEditor(JavaElementSelectionService.java:108) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.access$1(JavaElementSelectionService.java:105) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService$1.run(JavaElementSelectionService.java:82) [org.eclipse.recommenders.rcp_2.1.0.v20140610-1852.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_20]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [na:1.8.0_20]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_20]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_20]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_20]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_20]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_20]
+2014-10-30 14:39:05,469 [main] WARN  o.e.r.i.c.rcp.TypeBindingAnalyzer - Can't handle %s as parent of completion location.
+2014-12-02 22:21:50,998 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@linkplain}'). Returning original proposal instead.
+2014-12-02 22:21:51,012 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@code}'). Returning original proposal instead.
+2014-12-02 22:21:51,013 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@return'). Returning original proposal instead.
+2014-12-02 22:21:51,014 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@serialData'). Returning original proposal instead.
+2014-12-02 22:21:51,015 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@docRoot}'). Returning original proposal instead.
+2014-12-02 22:21:51,016 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@inheritDoc}'). Returning original proposal instead.
+2014-12-02 22:21:51,017 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@param'). Returning original proposal instead.
+2014-12-02 22:21:51,018 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@deprecated'). Returning original proposal instead.
+2014-12-02 22:21:51,019 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@link}'). Returning original proposal instead.
+2014-12-02 22:21:51,020 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@literal}'). Returning original proposal instead.
+2014-12-02 22:21:51,021 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@see'). Returning original proposal instead.
+2014-12-02 22:21:51,022 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.javadoc.JavadocInlineTagCompletionProposal' ('{@value}'). Returning original proposal instead.
+2014-12-02 22:21:51,023 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@since'). Returning original proposal instead.
+2014-12-02 22:21:51,024 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@exception'). Returning original proposal instead.
+2014-12-02 22:21:51,025 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@category'). Returning original proposal instead.
+2014-12-02 22:21:51,026 [main] WARN  o.e.r.c.r.p.ProcessableProposalFactory - Unknown JDT proposal type 'class org.eclipse.jdt.internal.ui.text.java.LazyJavaCompletionProposal' ('@throws'). Returning original proposal instead.
+2014-12-02 22:42:56,825 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2014-12-02 22:42:56,902 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:52872
+2014-12-02 23:23:02,155 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}

@@ -1,0 +1,9 @@
+    1: Second {
+    2:   int x,y;
+    3:   int z, w;
+    4:   x := 5 * (y - 2);
+    5:   z := +4 - 3;
+         - -- B
+    -A CurToken: 8 -- Prog> StmtSeq> StmtSeq> StmtSeq> StmtSeq> Stmt> Assign> Expr> Term> Factor -- No option in switch - Factor()
+
+    -B Parse Unsuccessful

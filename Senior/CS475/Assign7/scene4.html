@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<!--
+Author : Kala Arentz
+Created: December 3, 2017
+Resources: https://threejs.org/docs/#api/math/Vector3
+https://github.com/mrdoob/three.js/blob/master/examples/webgldeferred_animation.html
+
+-->
+<html lang="en">
+
+<head>
+	<title>Assigment 7</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<style>
+		body { font-family: Monospace; background-color: #000; color: #fff; margin: 0px; overflow: hidden; }
+		#info { color: #fff; position: absolute; top: 10px; width: 100%; text-align: center; z-index: 100; display:block; }
+		#info a, .button { color: #f00; font-weight: bold; text-decoration: underline; cursor: pointer }
+	</style>
+</head>
+
+<body>
+	<div style="color:white;text-align:center;text-transform: uppercase;">click the screen to add spheres and flowers</div>
+	<script src="three.js-master/build/three.min.js"></script>
+	<script src="three.js-master/examples/js/loaders/OBJLoader.js"></script>
+	<script src="three.js-master/examples/js/loaders/MTLLoader.js"></script>
+  <script src="three.js-master/examples/js/controls/OrbitControls.js"></script>
+	<script src="three.js-master/examples/js/Detector.js"></script>
+	<script src="three.js-master/examples/js/libs/stats.min.js"></script>
+  <script src="three.js-master/examples/js/renderers/Projector.js"></script>
+
+	<script>
+    var g = {};
+
+    var PLANE_HEIGHT = window.innerHeight;
+		var PLANE_WIDTH = window.innerWidth;
+
+		var isSphere = true;
+
+		init();
+		animate();
+
+		function init() {
+
+			g.container = document.createElement('div');
+			document.body.appendChild(g.container);
+
+			// renderer
+      g.renderer = new THREE.WebGLRenderer({antialias: true});
+      g.renderer.setSize(window.innerWidth, window.innerHeight);
+      g.renderer.setClearColor(new THREE.Color(0x252530));
+      g.renderer.shadowMap.enabled = true;
+      g.renderer.shadowMap.type = THREE.PCFShadowMap;
+      g.renderer.shadowMapSoft = true;
+      g.renderer.sortObjects = false;
+      g.container.appendChild(g.renderer.domElement);
+
+      // projector
+      g.raycaster = new THREE.Raycaster();
+
+      // camera
+			g.camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 300 );
+			g.camera.position.z = 40;
+      g.camera.up = new THREE.Vector3(0,0,1);
+
+      // orbit controls
+      g.controls = new THREE.OrbitControls(g.camera,g.container);
+
+			// scene
+			g.scene = new THREE.Scene();
+
+      // animatables list
+      g.animations = [];
+
+			// lights
+			var ambient = new THREE.AmbientLight(0x304050);
+			g.scene.add(ambient);
+
+			var dirLight1 = new THREE.DirectionalLight(0xffffff,1.0);
+			dirLight1.position.set(30,-30,30);
+      dirLight1.castShadow = true;
+//      dirLight1 = true;
+      dirLight1.shadowCameraNear = 5;
+      dirLight1.shadowCameraFar = 100;
+//      dirLight1 = 75;
+      dirLight1.shadowCameraLeft = -15;
+      dirLight1.shadowCameraRight = 15;
+      dirLight1.shadowCameraTop = 15;
+      dirLight1.shadowCameraBottom = -15;
+      dirLight1.shadowMapBias = 0.0039;
+      dirLight1.shadowMapDarkness = 0.5;
+      dirLight1.shadowMapWidth = 1024;
+      dirLight1.shadowMapHeight = 1024;
+			g.scene.add(dirLight1);
+
+			// spheres or flowers
+			g.spheres = new THREE.Object3D();
+			g.scene.add(g.spheres);
+
+			g.flowers = new THREE.Object3D();
+			g.scene.add(g.flowers);
+
+			// model
+			var manager = new THREE.LoadingManager();
+			manager.onProgress = function(item,loaded,total){console.log(item,loaded,total);};
+			var loader = new THREE.OBJLoader(manager);
+			loader.load('Objects/sphere.obj',function(mesh){console.log("sphere %o",mesh); sphereModel = mesh.children[0];});
+			loader.load('Objects/flower.obj',function(mesh){console.log("flower %o",mesh); flowerModel = mesh.children[0];});
+
+			// events
+      document.addEventListener('mousedown', onDocumentMouseDown, true );
+      document.addEventListener('mouseup', onDocumentMouseUp, false );
+      document.addEventListener('mousemove', onDocumentMouseMove, false );
+      window.addEventListener('resize', onWindowResize, false );
+    }
+
+    function onWindowResize() {
+      g.camera.aspect = window.innerWidth / window.innerHeight;
+      g.camera.updateProjectionMatrix();
+
+			PLANE_HEIGHT = window.innerHeight;
+			PLANE_WIDTH = window.innerWidth;
+      g.renderer.setSize( window.innerWidth, window.innerHeight );
+    }
+
+    function onDocumentMouseDown(event) {
+      //console.log("mouseDown");
+      g.mouseMotion = 0;
+    }
+
+    function onDocumentMouseUp(event) {
+			var pos = testPlaneIntersection();
+			if (pos) placeObjectsOn(pos);
+    }
+
+		function placeObjectsOn(obj) {
+			// alternate between sphere and flower obj files
+			var animatedObj = {};
+			if( isSphere ) {
+				animatedObj = sphereModel.clone();
+				animatedObj.material = new THREE.MeshPhongMaterial();
+				animatedObj.material.shininess = 70;
+				animatedObj.material.color.setHex(Math.random() * 0xffffff);
+				animatedObj.castShadow = true;
+				animatedObj.reciveShadow = true;
+				animatedObj.scale.set(2,2,2);
+				animatedObj.name = "sphere";
+				isSphere = false;
+			} else {
+				animatedObj = flowerModel.clone();
+				animatedObj.material = new THREE.MeshPhongMaterial();
+				animatedObj.material.shininess = 70;
+				animatedObj.material.color.setHex(Math.random() * 0xffffff);
+				animatedObj.castShadow = true;
+				animatedObj.reciveShadow = true;
+				animatedObj.scale.set(2,2,2);
+				animatedObj.name = "flower";
+				isSphere = true;
+			}
+
+
+			if(obj instanceof THREE.Vector3 ) {
+				animatedObj.position.set(obj.x,obj.y,obj.z);
+
+				if( animatedObj.name === "sphere" ) {
+					g.spheres.add(animatedObj);
+				} else {
+					g.flowers.add(animatedObj);
+				}
+				g.animations.push(animatedObj);
+			}
+		}
+
+		function testPlaneIntersection() {
+      if (g.mouse == undefined) return;
+
+      var vec = new THREE.Vector3(g.mouse.x,g.mouse.y,1);
+      vec.unproject(g.camera);
+      vec.sub(g.camera.position);
+      vec.normalize();
+      var k = -g.camera.position.z / vec.z;
+      var pos = vec;
+      pos.multiplyScalar(k);
+      pos.add(g.camera.position);
+
+      if (pos.x > -PLANE_WIDTH && pos.x < PLANE_WIDTH && pos.y > -PLANE_HEIGHT && pos.y < PLANE_HEIGHT) {
+        pos.z = 0.0;
+        return pos;
+      }
+
+      return null;
+    }
+
+    function onDocumentMouseMove(event) {
+//     console.log("mouseMove");
+      g.mouseMotion += 1;
+      if (g.mouse == undefined) g.mouse = new THREE.Vector2();
+      g.mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+      g.mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+    }
+
+		function updateAnimation() {
+			var time = Date.now() * 0.0005;
+
+			for(var i = 0; i < g.animations.length; i ++ ) {
+				var curObj = g.animations[i];
+				var x = Math.sin( time + i * 7.0 ) * 45;
+				var y = Math.cos( time + i * 5.0 ) * 45 + 20;
+				var z = Math.cos( time + i * 3.0 ) * 45;
+				curObj.position.set(x,y,z);
+
+				if(curObj.name === "flower" ) {
+					curObj.rotation.x += 0.05;
+					curObj.rotation.y += 0.05;
+					curObj.rotation.z += 0.05;
+				}
+			}
+		}
+
+		function animate() {
+      requestAnimationFrame(animate);
+			updateAnimation();
+      render();
+   }
+
+		function render() {
+      g.renderer.render(g.scene,g.camera);
+    }
+
+  </script>
+
+</body>
+</html>

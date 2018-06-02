@@ -1,0 +1,36 @@
+# Processing: nrobinson:$6$Jhf7x6mVEZQYH7lQ$sjF.HhYosbfoYfoxidzFEnkUD61SKO0D5oUDuBadUSFk0AbU/Q.OiYxUn6WhhIMmtJxTUSawgRsDjP6om8lc8/
+# nrobinson / SHA-512 / Jhf7x6mVEZQYH7lQ / sjF.HhYosbfoYfoxidzFEnkUD61SKO0D5oUDuBadUSFk0AbU/Q.OiYxUn6WhhIMmtJxTUSawgRsDjP6om8lc8/
+#---------------------------------------------------
+# Processing: uprice:$6$ppiARNl1jfK1Gf2P$4/mHcwikEs.F.HfRtb3RoEw3MPOEtxndRJcXCgt3Qz.krE0CHSbvDFA4OvWQQj/L7p6pZDvAytSrr3ekXF8551
+# uprice / SHA-512 / ppiARNl1jfK1Gf2P / 4/mHcwikEs.F.HfRtb3RoEw3MPOEtxndRJcXCgt3Qz.krE0CHSbvDFA4OvWQQj/L7p6pZDvAytSrr3ekXF8551
+#---------------------------------------------------
+# Processing: wmorgan:$1$Ic44.CW1$fpImgxt30n6ZZbWjpJSG6.
+# wmorgan / MD5 / Ic44.CW1 / fpImgxt30n6ZZbWjpJSG6.
+#---------------------------------------------------
+# Processing: dyoung:$5$pZ8NcNaRl7mlP8J/$dq8mcKVsTX6qcIv/KPStIqMOr8H8KuZ2LSvI7AuKck1
+# dyoung / SHA-256 / pZ8NcNaRl7mlP8J/ / dq8mcKVsTX6qcIv/KPStIqMOr8H8KuZ2LSvI7AuKck1
+#---------------------------------------------------
+# Processing: uadams:$1$lqsI4dx8$f2TRyu3CmmDP3SAhgHOSE/
+# uadams / MD5 / lqsI4dx8 / f2TRyu3CmmDP3SAhgHOSE/
+#---------------------------------------------------
+# Processing: gflores:Rb/rjFQNmbq7Y
+# gflores / DES / Rb / /rjFQNmbq7Y
+#---------------------------------------------------
+# Processing: yphillips:D/.R7q81JWCMI
+# yphillips / DES / D/ / .R7q81JWCMI
+#---------------------------------------------------
+# Processing: madams:$5$19bwmUOObm5ic8HU$07VZ7auVpUqxeMz/GUHj8pMCYBMQBaoh3N4nhJ5WrN7
+# madams / SHA-256 / 19bwmUOObm5ic8HU / 07VZ7auVpUqxeMz/GUHj8pMCYBMQBaoh3N4nhJ5WrN7
+#---------------------------------------------------
+# Processing: ediaz:WxrvRRy0xztao
+# ediaz / DES / Wx / rvRRy0xztao
+#---------------------------------------------------
+# Processing: kwilliams:$6$Vxp2Pb1wc8sw4NRX$s0eydeXSzj1aZ6FG03wWRwMc0J8J2yESMDzfOIleT78EQi.IqA6.FpcpeYVaTNSOuhqWQD9HlBKPi9NjeUtEm0
+# kwilliams / SHA-512 / Vxp2Pb1wc8sw4NRX / s0eydeXSzj1aZ6FG03wWRwMc0J8J2yESMDzfOIleT78EQi.IqA6.FpcpeYVaTNSOuhqWQD9HlBKPi9NjeUtEm0
+#---------------------------------------------------
+# Number of valid   : 10
+# Number of invalid : 0
+# Number of DES     : 3
+# Number of MD5     : 2
+# Number of SHA-256 : 2
+# Number of SHA-512 : 3

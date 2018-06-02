@@ -1,0 +1,39 @@
+/*
+Author: Kala Arentz
+
+Date: May 5, 2015
+
+Purpose:
+
+*/
+package cs220lab6;
+
+public class Oven {
+
+	private int internalTemp; 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public String bake( String item, int bakeTemp, int bakeMinutes )
+	{
+		internalTemp = bakeTemp;
+		
+		try
+		{
+			Thread.sleep( 100 * bakeMinutes);
+		}
+		catch( InterruptedException e )
+		{
+			System.out.println(" Pizza baking was interrupted!" );
+		}
+		
+		String outcome = "Baked " + item + " at " + bakeTemp + " for " 
+		   + bakeMinutes;
+		
+		internalTemp = 0;
+		
+		return outcome;
+	}
+}

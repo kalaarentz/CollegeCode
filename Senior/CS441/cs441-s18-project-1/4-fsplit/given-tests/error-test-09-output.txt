@@ -1,0 +1,27 @@
+# Processing: :$5$frsRrNwhJQSm0hqm$FENCI8wYkMXO1rb0AaRtnUuyLx62pLABXIcToHbfml2
+Error: Input line missing the ':' separator. Could not find username/hash
+#---------------------------------------------------
+# Processing: b:$5$LmP/d5k8xam8pW9F$43nrLayanCmTjv/vbSTbL3OvSOHfbJZ0CZyQsMZtpC7
+Error: Username too short (b)
+#---------------------------------------------------
+# Processing: ft:$6$CsoellqVrhft96ym$Wfz5R0ULx/Tp1763mHUvKenZAwwbqzd7Cq.ykkhtIunpSMqcdTlzJnuaCb1m6np7FWxyXBDgmi83H0ieJ.7SU1
+Error: Username too short (ft)
+#---------------------------------------------------
+# Processing: ah:7a1jGjdGRrbho
+Error: Username too short (ah)
+#---------------------------------------------------
+# Processing: a:7a1jGjdGRrbho
+Error: Username too short (a)
+#---------------------------------------------------
+# Processing: c:$1$ZrlPXs6R$ayfvKrf05mvHRz31BFc9o1
+Error: Username too short (c)
+#---------------------------------------------------
+# Processing: cw:$1$ZrlPXs6R$ayfvKrf05mvHRz31BFc9o1
+Error: Username too short (cw)
+#---------------------------------------------------
+# Number of valid   : 0
+# Number of invalid : 7
+# Number of DES     : 0
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

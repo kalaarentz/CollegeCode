@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Survey</title></head>
+    <body>
+        <section>
+           <h1>Medical Survey</h1>
+            <p>This survey collects information that is only used 
+                internally to improve products and services that 
+                better meet the needs of our clients. The infromation
+                entered on this survey is not provided to third parties 
+                without the written consent of the individual completing 
+                the survey.
+            </p>
+            <form action="http://138.49.184.152:3000/meds" method="post">
+                <fieldset>
+                    <legend>Personal</legend>
+                    <table>
+                        <tr>
+                            <td>First Name</td>
+                            <td>
+                                <input type="text" name="fn">
+                            </td>
+                            <td>Gender</td>
+                            <td>
+                                <input type="radio" name="sex" id="girl">
+                                <label for="girl">Female</label>
+                                <input type="radio" name="sex" id="boy">
+                                <label for="boy">Male</label>
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>Last Name</td>
+                            <td><input type="text" name="ln"></td>
+                            <td>Citizenship</td>
+                            <td>
+                                <select name="citizen">
+                                    <option value="US" selected>US</option>
+                                    <option value="CANADA">CANADA</option>
+                                    <option value="MEXICO">MEXICO</option>
+                                </select>
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>Address</td>
+                            <td colspan="3">
+                                <textarea name="addr" rows="5" cols="60">
+                                </textarea>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+                
+                <fieldset>
+                    <legend>Medical History</legend>
+                    <input type="checkbox" name="med" value="sp" id="sp">
+                    <label for="sp">Smallpox</label>
+                    <input type="checkbox" name="med" value="mumps" id="mumps">
+                    <label for="mumps">Mumps</label>
+                    <input type="checkbox" name="med" value="rsv" id="rsv">
+                    <label for="rsv">RSV</label>
+                    <input type="checkbox" name="med" value="dia" id="dia">
+                    <label for="dia">Diabetes</label>
+                </fieldset>
+                
+                <input type="submit">
+            </form>
+        </section>
+    </body>
+</html>

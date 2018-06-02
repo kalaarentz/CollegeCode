@@ -1,0 +1,37 @@
+import java.awt.Color;
+import java.util.Random;
+
+import javax.swing.JFrame;
+
+public class ChaseBlock extends Rectangle
+{
+	private Color[] randColor = {Color.pink, Color.blue, Color.red, Color.GREEN};
+	private String[] randDirection = {"LEFT", "RIGHT", "UP", "DOWN"};
+	private String direction;
+	private int winSize;
+
+	public ChaseBlock(int x, int i, int blockSize, int windowSize) 
+	{
+		super(x,i,blockSize,blockSize);
+		Random rand = new Random();
+		int idx = rand.nextInt((3-0)+1) + 0;
+		setBackground(randColor[idx]);
+		
+		winSize = windowSize;
+		
+	}
+
+	public void checkCollision( ChaseBlock chaseBlock) 
+	{
+		int x1, x2, y1, y2;
+		x1 = chaseBlock.getX();
+		y1 = chaseBlock.getY();
+		System.out.println("ChaseBlock1 : " + x1 + " : " + y1);
+		//return false;
+	}
+
+	public void move() 
+	{
+		
+	}
+}

@@ -1,0 +1,11 @@
+$$   1) "Testing 123, Testing 123"
+  24 /    3 /    6 /   12 /    2 /    1
+$$   2) "123 aZc ?$; AbE"
+  15 /    3 /    3 /    3 /    3 /    3
+$$ #-----------------------------
+# Number of strings   : 2
+# Number of spaces    : 6
+# Number of digits    : 9
+# Number of lowercase : 15
+# Number of uppercase : 5
+#-----------------------------

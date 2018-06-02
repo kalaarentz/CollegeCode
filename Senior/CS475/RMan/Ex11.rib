@@ -1,0 +1,106 @@
+##RenderMan RIB-Structure 1.0
+
+# When done programatically using Renderman library
+# we start with a
+#Begin
+
+# Image options
+# output will be in Demo.tiff as rgb data
+Display "Ex11.png" "file" "rgb"
+#Display "Ex11-frames/Ex11-FRAME.png" "file" "rgb"
+Format 1000 800 1.0
+
+Declare "txtscale" "float"
+
+# camera options
+# Clipping ...
+# DepthOfField ...
+Projection "perspective" "fov" 40
+Translate 0 0  10
+Rotate -115 1 0 0
+Rotate 30 0 0 1
+Translate -1 -1 -1
+
+# for animation done programatically several frames
+# can be computed. use FrameBegin/End
+
+# scene description
+WorldBegin
+
+TransformBegin
+ConcatTransform [ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 ]
+LightSource "pointlight" 1 "intensity" 100 "lightcolor" [ 1 1 1 ] "from" [ 0 0 10 ]
+TransformEnd
+
+TransformBegin
+ConcatTransform [ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 ]
+LightSource "pointlight" 2 "intensity" 100 "lightcolor" [ 1 1 1 ] "from" [ 6 6 6 ]
+TransformEnd
+
+TransformBegin
+ConcatTransform [ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 ]
+LightSource "distantlight" 3 "intensity" 1 "lightcolor" [ 1 1 1 ] "from" [ -1 1 1 ] "to" [0 0 0]
+TransformEnd
+
+TransformBegin
+ConcatTransform [ 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 ]
+LightSource "ambientlight" 4 "intensity" .1 "lightcolor" [ 1 1 1 ]
+TransformEnd
+
+  # begin an object or object group
+  AttributeBegin
+    # Color ...
+    # Surface ...
+    TransformBegin
+      Color 1 1 1
+      Polygon "P" [-5 -5 .0  5 -5 .0   5 5 .0   -5 5 .0]
+    TransformEnd
+
+		TransformBegin
+        Surface "wood" "Ka" 0.2 "Kd" 0.8 "Ks" 0.3 "txtscale" 0.3
+        SolidBegin "difference"
+          Color 1 0 0
+          Opacity 1.0 1.0 1.0
+          SolidBegin "primitive"
+            Hyperboloid 3 0 0   0 2 3   360
+            Disk 0 3 360
+            Disk 3 2 360
+          SolidEnd
+          SolidBegin "primitive"
+            Translate 2 2 0
+            Cylinder 1.5 -1 4 360
+            Disk -1 1.5 360
+            Disk 4 1.5 360
+          SolidEnd
+        SolidEnd
+		TransformEnd
+
+    TransformBegin
+#      Translate POS
+#      Translate 1.2 1.2 0
+#      Rotate ANGLE 0 0 1
+#      Translate -1.2 -1.2 0
+      Translate 1.4 1.4 0
+      Surface "wood" "Ka" 0.2 "Kd" 0.8 "Ks" 0.3 "txtscale" 0.3
+      SolidBegin "intersection"
+        Color 1 0 0
+        Opacity 1.0 1.0 1.0
+        SolidBegin "primitive"
+          Hyperboloid 3 0 0   0 2 3   360
+          Disk 0 3 360
+          Disk 3 2 360
+        SolidEnd
+        SolidBegin "primitive"
+          Translate 2 2 0
+          Cylinder 1.5 -1 4 360
+          Disk -1 1.5 360
+          Disk 4 1.5 360
+        SolidEnd
+      SolidEnd
+    TransformEnd
+
+  AttributeEnd
+
+
+WorldEnd
+

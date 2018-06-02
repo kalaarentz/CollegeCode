@@ -1,0 +1,78 @@
+#!version 2.2.6
+surface
+#!parameters:
+uniform	float	Ks	=	.5
+uniform	float	Kd	=	.5
+uniform	float	Ka	=	.1
+uniform	float	rough	=	.1
+uniform	float	density	=	1
+uniform	float	freq	=	20
+uniform	color	spec	=	 [ 1 1 1 ]
+#!variables:
+varying	vector	Nf
+varying	vector	temporary_0
+varying	float	temporary_1
+varying	float	temporary_2
+varying	float	temporary_3
+varying	float	temporary_4
+varying	float	temporary_5
+varying	float	temporary_6
+varying	float	temporary_7
+varying	float	temporary_8
+uniform	vector	temporary_9
+varying	vector	temporary_10
+varying	vector	temporary_11
+varying	vector	temporary_12
+varying	vector	temporary_13
+varying	vector	temporary_14
+varying	vector	temporary_15
+varying	vector	temporary_16
+uniform	vector	temporary_17
+#!Init:
+	return            
+#!Code:
+	normalize	("v=v")  temporary_0  N 
+	faceforward	("v=vv")  Nf  temporary_0  I 
+	vufloat            temporary_6 freq
+	mulff             	temporary_5 t temporary_6
+	vufloat            temporary_6 3.141592654
+	mulff             	temporary_4 temporary_5 temporary_6
+	vufloat            temporary_8 freq
+	mulff             	temporary_7 s temporary_8
+	vufloat            temporary_8 3.141592654
+	mulff             	temporary_6 temporary_7 temporary_8
+	sin	("f=f")  temporary_5  temporary_6 
+	addff             	temporary_3 temporary_4 temporary_5
+	cos	("f=f")  temporary_2  temporary_3 
+	vufloat            temporary_3 0
+	flt               	temporary_1 temporary_2 temporary_3
+	if                	temporary_1 #!Label4
+	vfromf            	temporary_9 1.0
+	vuvector           Oi temporary_9
+#!Label4:
+	else              	#!Label3
+	vfromf            	temporary_9 0.0
+	vuvector           Oi temporary_9
+#!Label3:
+	endif             
+	vfromf            	temporary_9 Ka
+	vuvector           temporary_13 temporary_9
+	ambient	("c=")  temporary_14 
+	mulvv             	temporary_12 temporary_13 temporary_14
+	vfromf            	temporary_9 Kd
+	vuvector           temporary_14 temporary_9
+	normalize	("v=v")  temporary_16  Nf 
+	diffuse	("c=n")  temporary_15  temporary_16 
+	mulvv             	temporary_13 temporary_14 temporary_15
+	addvv             	temporary_11 temporary_12 temporary_13
+	mulvv             	temporary_10 Cs temporary_11
+	vfromf            	temporary_17 Ks
+	mulvv             	temporary_9 spec temporary_17
+	vuvector           temporary_12 temporary_9
+	negv              	temporary_14 I
+	vufloat            temporary_1 rough
+	specular	("c=nvf")  temporary_13  Nf  temporary_14  temporary_1 
+	mulvv             	temporary_11 temporary_12 temporary_13
+	addvv             	temporary_0 temporary_10 temporary_11
+	mulvv             	Ci Oi temporary_0
+	return            

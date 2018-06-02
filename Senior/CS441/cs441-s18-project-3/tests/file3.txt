@@ -1,0 +1,39 @@
+ls > hello.txt
+ls > hello.txt
+ls > hello.txt
+jobs
+history
+ls > hello.txt
+pwd > hello.txt
+ls > hello.txt
+jobs
+history
+ls > hello.txt
+ls > hello.txt
+ls > hello.txt
+jobs
+history
+ls > hello.txt
+pwd > hello.txt
+ls > hello.txt
+jobs
+history
+ls > hello.txt
+ls > hello.txt
+pwd > hello.txt
+jobs
+history
+ls > hello.txt
+ls > hello.txt
+ls > hello.txt
+jobs
+history
+ls > hello.txt
+ls > hello.txt
+ls > hello.txt
+history
+pwd > hello.txt
+pwd > hello.txt
+pwd > hello.txt
+jobs
+history

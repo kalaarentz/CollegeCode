@@ -1,0 +1,30 @@
+
+public class ClassB extends ClassA {
+	private int y;
+	
+	public ClassB(int x2, int yin ) {
+		super(x2);
+		y = yin;
+	}
+	
+	public int getY() {
+		return y;
+	}
+	
+	public int getValue() {
+		return x + y;
+	}
+	
+	public String getString() {
+		return "BYE";
+	}
+	
+	public int callToSuper() {
+		return super.getValue();
+	}
+	
+	public String callToSuperString() {
+		return super.getString();
+	}
+
+}

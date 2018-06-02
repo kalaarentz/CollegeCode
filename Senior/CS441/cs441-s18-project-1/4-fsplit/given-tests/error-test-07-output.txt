@@ -1,0 +1,42 @@
+# Processing: nrodriguez:$1$yOfRJ9$ZYOWuCfYqoJCueDzBRj9T0
+Error: MD5 Salt length incorrect. Expected 8, Actual 6
+#---------------------------------------------------
+# Processing: sturner:$1$bG2fxodad.$GOvkou/xMtffke4Rp6CC/1
+Error: MD5 Salt length incorrect. Expected 8, Actual 10
+#---------------------------------------------------
+# Processing: rwatson:$1$jshurjP$VFjurniwIuVbieKCo5Y1u.
+Error: MD5 Salt length incorrect. Expected 8, Actual 7
+#---------------------------------------------------
+# Processing: prichardson:$1$pbudL1esD$S9JTl3GyMgcXlskiVI56z.
+Error: MD5 Salt length incorrect. Expected 8, Actual 9
+#---------------------------------------------------
+# Processing: ahill:$5$F5sHEjD4klCzsC/$nfDKIc3ya/hZXEMdKIOoKNYuGAfPv1iAgaL5/w.Gnu0
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 15
+#---------------------------------------------------
+# Processing: nmartinez:$5$gc1da.TGEdc46fcF3$jnltyomJaK/L71JmGfPLyJWMTSijq2VhsjvskQvK30B
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 17
+#---------------------------------------------------
+# Processing: eward:$5$/wtokL32GCvfl9$Dc6k.1AHtcvm9nLmwpV3JyoaEg5Iz6BzI7kgMY6qNy9
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 14
+#---------------------------------------------------
+# Processing: ygray:$5$JcyaneNeaavWsJoth8$SoVDco8ut.vjO47pfcxTdhaljVkW3w8x5OmUFr.kiU7
+Error: SHA-256 Salt length incorrect. Expected 16, Actual 18
+#---------------------------------------------------
+# Processing: jbailey:$6$1D4yC8v7R9.xDwF$7RFYsd.WpWdjwbsqgiG9nC/k62xkD/Y4Bwr44h7gAiz1s1q2JMQwqazPbWTWlRLHkZX4BYyIRzsmATVL06Fy40
+Error: SHA-512 Salt length incorrect. Expected 16, Actual 15
+#---------------------------------------------------
+# Processing: tprice:$6$ZvFc6ps1bCUygRjKG$d0n9GJauU..IanXmGIE01xVI9UqtV3W4doH7BVFv4JQ1jxOZh2/6dHrxcwENEFojRaOWFHe1NgEYVBnS0gM5/1
+Error: SHA-512 Salt length incorrect. Expected 16, Actual 17
+#---------------------------------------------------
+# Processing: arogers:$6$P.beGQyrCE.i7o$FpiPP8bMqOBGVA3gTmefxTmyiJvQWK55doyMPoUQW96jGafwEmoU3tRls7YPU4w1MFqzuEoMDvW9hUqIuwZOo1
+Error: SHA-512 Salt length incorrect. Expected 16, Actual 14
+#---------------------------------------------------
+# Processing: fmorris:$6$CI//HEaao2aGRbzR/E$7DSKPWp0p1t4EaMr4N.cvJ.O0vEiLPkLhkrrqe.uCSTer9kQDP3EKJpS02t2MxgO1EW//wp/pYdUPRrpHJ5vd0
+Error: SHA-512 Salt length incorrect. Expected 16, Actual 18
+#---------------------------------------------------
+# Number of valid   : 0
+# Number of invalid : 12
+# Number of DES     : 0
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

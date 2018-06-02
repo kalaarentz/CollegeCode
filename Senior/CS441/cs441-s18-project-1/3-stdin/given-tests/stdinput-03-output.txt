@@ -1,0 +1,31 @@
+$$   1) "Testing 123, Testing 123"
+  24 /    3 /    6 /   12 /    2 /    1
+$$   2) "123 aZc ?$; AbE"
+  15 /    3 /    3 /    3 /    3 /    3
+$$   3) "Let's check some spaces!"
+  24 /    3 /    0 /   18 /    1 /    2
+$$   4) "  "
+   2 /    2 /    0 /    0 /    0 /    0
+$$   5) "The following has some tabs!"
+  28 /    4 /    0 /   22 /    1 /    1
+$$   6) "		"
+   2 /    2 /    0 /    0 /    0 /    0
+$$   7) "The following is an empty line..."
+  33 /    5 /    0 /   24 /    1 /    3
+$$   8) ""
+   0 /    0 /    0 /    0 /    0 /    0
+$$   9) "abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz "
+ 999 /   37 /    0 /  962 /    0 /    0
+$$  10) "1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890- 1234567890-"
+1007 /   83 /  840 /    0 /    0 /   84
+$$  11) "!@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ !@#$%^&*()"
+1000 /   30 /    0 /    0 /    0 /  970
+$$  12) "!@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890"
+ 979 /   39 /  100 /  260 /  260 /  320
+$$ #-----------------------------
+# Number of strings   : 12
+# Number of spaces    : 211
+# Number of digits    : 949
+# Number of lowercase : 1301
+# Number of uppercase : 268
+#-----------------------------

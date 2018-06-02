@@ -1,0 +1,77 @@
+137#CS#442#3#Structures of Compilers#
+182#CS#553#3#Introduction to Theory of Computation#
+349#CS#449#3#Advances in Software Engineering#
+748#CS#499#2#Research in Computer Science#(Range of Credits: 1-3) 
+889#CS#519#3#Topics in Computer Science#(Range of Credits: 1-3) 
+896#CS#370#3#Computer Architecture#
+1124#CS#395#2#Independent Study#(Range of Credits: 1-3) 
+1213#CS#441#3#Operating System Concepts#
+1334#CS#554#3#Digital Image Processing#
+1453#CS#453#3#Introduction to Theory of Computation#
+1467#CS#456#3#Secure Software Development#
+1540#CS#202#3#Introduction to Web Design#
+1872#CS#451#3#User Interface Design#
+2010#CS#455#3#Fundamentals of Information Security#
+2113#CS#564#3#Advanced Database Management Systems#
+2423#CS#551#3#User Interface Design#
+2635#CS#353#3#Analysis of Algorithm Complexity#
+2685#CS#499#3#Research in Computer Science#(Range of Credits: 1-3) 
+2800#CS#419#2#Topics in Computer Science#(Range of Credits: 1-3) 
+3137#CS#452#3#Artificial Intelligence and Pattern Recognition#
+3263#CS#340#3#Software Design III: Abstract Data Types#
+3276#CS#549#3#Advances in Software Engineering#
+3290#CS#572#3#Internet of Things#
+3296#CS#421#3#Programming Language Concepts#
+3425#CS#364#3#Introduction to Database Management Systems#
+3932#CS#519#1#Topics in Computer Science#(Range of Credits: 1-3) 
+3951#CS#499#1#Research in Computer Science#(Range of Credits: 1-3) 
+4104#CS#464#3#Advanced Database Management Systems#
+4350#CS#543#3#Topics in Operating Systems#
+4356#CS#475#3#Computer Graphics and Modeling#
+4425#CS#272#3#Digital Circuit Design for Microcontrollers I#
+4932#CS#103#1#Elementary Database Principles and Design#
+5049#CS#225#3#Discrete Computational Structures#
+5607#CS#418#3#Mobile Application Development#
+5676#CS#502#3#Web Application Development#
+5782#CS#571#3#Data Communications#
+5836#CS#120#4#Software Design I#(General Education) 
+5838#CS#454#3#Digital Image Processing#
+5916#CS#227#1#Competitive Programming#
+6405#CS#101#4#Introduction to Computing#(General Education) 
+7129#CS#521#3#Programming Language Concepts#
+7185#CS#402#3#Web Application Development#
+7223#CS#395#1#Independent Study#(Range of Credits: 1-3) 
+7240#CS#419#1#Topics in Computer Science#(Range of Credits: 1-3) 
+7718#CS#556#3#Secure Software Development#
+7913#CS#270#3#Assembler Programming and Introduction to Computer Organization#
+7957#CS#541#3#Operating System Concepts#
+7986#CS#224#2#Introduction to Programming Language#(Range of Credits: 1-3) 
+8432#CS#570#3#Parallel and Distributed Computing#
+8557#CS#542#3#Structures of Compilers#
+8957#CS#552#3#Artificial Intelligence and Pattern Recognition#
+9025#CS#471#3#Data Communications#
+9186#CS#510#3#Free and Open Source Software Development#
+9343#CS#224#3#Introduction to Programming Language#(Range of Credits: 1-3) 
+9794#CS#372#3#Digital Circuit Design for Microcontrollers II#
+10092#CS#470#3#Parallel and Distributed Computing#
+10187#CS#395#3#Independent Study#(Range of Credits: 1-3) 
+10375#CS#555#3#Fundamentals of Information Security#
+10462#CS#342#3#Software Testing Techniques#
+10494#CS#410#3#Free and Open Source Software Development#
+10815#CS#104#1#Elementary Spreadsheet Principles and Design#
+10900#CS#224#1#Introduction to Programming Language#(Range of Credits: 1-3) 
+11003#CS#431#3#Introduction to Robotics#
+11200#CS#419#3#Topics in Computer Science#(Range of Credits: 1-3) 
+11319#CS#476#3#Data Visualization#
+11590#CS#531#3#Introduction to Robotics#
+11661#CS#341#3#Software Design IV: Software Engineering#
+11890#CS#575#3#Computer Graphics and Modeling#
+12077#CS#546#3#Object-Oriented Software Development#
+12229#CS#472#3#Internet of Things#
+12723#CS#518#3#Mobile Application Development#
+12764#CS#519#2#Topics in Computer Science#(Range of Credits: 1-3) 
+12834#CS#576#3#Data Visualization#
+13077#CS#351#3#Simulation#
+14109#CS#446#3#Object-Oriented Software Development#
+14514#CS#443#3#Topics in Operating Systems#
+14645#CS#220#4#Software Design II#

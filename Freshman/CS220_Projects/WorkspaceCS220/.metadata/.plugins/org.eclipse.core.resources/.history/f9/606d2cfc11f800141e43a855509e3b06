@@ -1,0 +1,38 @@
+/*
+Author: Kala Arentz
+
+Date: May 11, 2015
+
+Purpose:
+
+*/
+package finalExam;
+
+import java.util.Iterator;
+
+public class WrtingCode implements Iterable< E >{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+	}
+
+	private double  iteratesObject( Object input )
+	{
+		
+		double sums = 0.0;
+		for(  )
+		{
+			sums += nums;
+		}
+		
+		return sums;
+	}
+
+	@Override
+	public Iterator< E > iterator() {
+		// TODO Auto-generated method stub
+		return new Iterator< E >();
+	}
+}

@@ -1,0 +1,1000 @@
+106#ECO#336#3#Women in the U.S. Economy#(General Education) 
+110#SOC#399#3#SOC/ARC/ANT Forum#(Cross Listed: ANT/ARC/SOC) 
+115#MKT#351#3#Sustainability in Marketing#
+119#BIO#495#2#Service Learning in Biology#(Range of Credits: 1-3) 
+120#MUA#206#1#Applied Horn#
+123#CST#370#3#Broadcast Media Writing#
+126#BIO#529#3#Evolution#
+132#CLI#410#3#Clinical Hematology#
+135#BIO#356#2#Curriculum and Assessment in Math and Science#(Cross Listed: BIO/CHM/PHY) 
+137#CS#442#3#Structures of Compilers#
+138#PHY#453#2#Topics in Physics and Astronomy#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+144#EDS#494#9#Student Teaching: Early Adolescence-Adolescence/Early Childhood Adolescence#(Range of Credits: 3-15) 
+148#ERS#207#3#Multicultural Literature of the United States#(General Education) (Cross Listed: ENG/ERS) 
+154#EFN#424#3#Theory and Practice of Cooperative Learning#
+161#ESC#560#3#Environmental Hazards and Land Use#(Cross Listed: ESC/GEO) 
+162#FIN#499#3#Independent Study#(Range of Credits: 1-3) 
+168#ARC#372#3#History of Women in the Ancient World#(Cross Listed: ARC/HIS) 
+172#ARC#409#1#Readings and Research in Archaeology#(Range of Credits: 1-3) 
+174#BIO#405#2#Aquatic and Wetland Vascular Plants#
+181#CHM#518#3#Biochemistry II: Metabolism and Genetic Information#
+182#CS#553#3#Introduction to Theory of Computation#
+189#HED#539#1#Teaching Stress Management and Relaxation Skills#
+195#CI#499#2#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+197#ARC#402#4#Field Methods in Archaeology#(Range of Credits: 3-8) 
+201#ECO#409#3#Econometric Methods#
+207#ESS#324#2#Independent Study in Exercise and Sport Science#(Range of Credits: 1-3) 
+210#MGT#484#3#International Human Resource Management#
+211#WGS#301#3#Women in the Modern United States: 1890-Present#(Cross Listed: HIS/WGS) 
+213#ARC#399#3#SOC/ARC/ANT Forum#(Cross Listed: ANT/ARC/SOC) 
+216#ARC#591#3#Archaeology Field School for Teachers#
+219#GEO#576#1#Geography/Earth Science Topics for Teachers#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+220#ESS#450#8#Exercise and Sport Science Internship#(Range of Credits: 8-12) 
+225#SOC#375#3#Lesbian Studies#(Cross Listed: SOC/WGS) 
+226#POL#326#3#Mock Trial I: Trial Advocacy#
+228#ENG#327#3#Publishing in a Digital Age#
+234#RT#499#2#Independent Study in Radiation Therapy#(Range of Credits: 1-3) 
+235#ESS#321#2#Evaluation in Health Education and Physical Education#
+239#ESC#426#4#Soil Morphology and Genesis#(Cross Listed: ESC/GEO) 
+242#ART#450#1#Internship in Art#(Range of Credits: 1-3) 
+248#CHI#202#4#Intermediate Chinese II#(General Education) 
+255#FIN#460#3#Seminar in Risk and Insurance#
+258#HIS#450#8#History Internship/Field Experience#(Range of Credits: 3-12) 
+264#ESC#590#2#Independent Study#(Cross Listed: ESC/GEO) (Range of Credits: 2-3) 
+271#ANT#499#2#Seminar in Anthropology#(Range of Credits: 2-3) 
+278#SOC#202#3#Contemporary Global Issues#(General Education) (Cross Listed: ANT/SOC) 
+282#ECE#327#1#Field Experience: Kindergarten#
+284#PHY#498#1#Physics and Astronomy Research#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+290#ESC#476#3#Geography/Earth Science Topics for Teachers#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+292#RTH#490#1#Workshop in Therapeutic Recreation#(Range of Credits: 1-3) 
+298#PSY#318#3#Psychology of Women#(General Education) 
+299#BIO#447#3#Standard Methods\Quality Assurance Water Analyses#
+305#SPE#546#3#Methods in Cross-Categorical Special Education-Middle Childhood/Early Adolescence#
+312#ESS#412#3#Issues and Philosophies in Teaching Physical Education#
+313#PHY#450#8#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+314#BIO#467#2#Neurobiology Laboratory Techniques#
+315#HED#335#3#Human Ecology and Environmental Health#
+319#SPE#531#3#Language Development and Communication Disorders#
+324#ESC#427#3#Water Resources#(Cross Listed: ESC/GEO) 
+330#PHY#302#3#Optics#
+336#HP#350#1#Topics in Clinical Science#(Range of Credits: 1-3) 
+343#PHY#550#11#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+345#GEO#595#2#Seminar in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+349#CS#449#3#Advances in Software Engineering#
+350#RT#472#6#Clinical Practicum II#
+356#RTH#497#2#Special Projects in Therapeutic Recreation#(Range of Credits: 1-3) 
+362#HED#205#3#Introduction to Health and Wellness Education#
+369#HIMT#340#3#Ethical Issues, Security Management and Compliance#(Cross Listed: HIMT/IS) 
+375#ERS#362#3#Hmong Americans#(Cross Listed: ANT/ERS/SOC) 
+380#MUS#134#1#Jazz Ensemble I#
+385#MGT#308#3#Behavior and Theory in Organizations#
+387#SPE#461#1#Clinical in Special Education#
+391#FRE#326#1#Current Events#
+398#GER#598#3#Independent Study#(Range of Credits: 1-3) 
+400#MTH#395#2#Special Topics in Mathematics#(Range of Credits: 1-3) 
+402#FIN#370#3#Corporation Finance#
+407#ARC#335#3#Human Skeletal Anatomy and the Anthropological Study of the Dead#(Cross Listed: ANT/ARC) 
+412#PHY#450#7#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+416#HIS#335#3#History of China#
+419#CST#337#3#Communication and Race#
+422#ART#379#1#Applied Photography#
+428#HED#585#1#Confrontations of Death#(Range of Credits: 1-3) 
+434#SPA#460#3#Introduction to Hispanic Linguistics#
+440#HIS#340#3#Origins of Cities#(Cross Listed: ARC/HIS) 
+445#AST#498#1#Physics and Astronomy Research#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+448#WGS#300#3#Independent Study#(Range of Credits: 1-3) 
+451#PSY#442#3#Racism and Oppression#(Cross Listed: ERS/PSY) 
+453#ESC#576#3#Geography/Earth Science Topics for Teachers#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+457#POL#221#3#The American Legal System#
+458#CHM#489#1#Independent Study#(Range of Credits: 1-2) 
+461#POL#499#3#Independent Study in Political Science#(Range of Credits: 1-3) 
+465#ESC#270#1#Geographic Themes#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+470#CI#110#1#Tutoring Principles and Practice#
+471#GEO#590#3#Independent Study#(Cross Listed: ESC/GEO) (Range of Credits: 2-3) 
+474#RUS#101#4#Elementary Russian I#
+475#ART#216#3#Introduction to Ceramics#
+482#CST#371#3#Audience Research#
+489#HIS#347#3#A History of Greater Mexico#
+496#PUB#450#9#Internship in Public Administration#(Range of Credits: 1-12) 
+501#MKT#400#3#Marketing Forum#(Range of Credits: 1-3) 
+505#ESL#155#14#Special Topics in ESL#(Range of Credits: 1-16) 
+511#MS#101#2#Introduction to the Army Profession#
+514#ART#318#3#Intermediate Printmaking: Lithography#
+515#HIS#378#3#History of the U.S. West#
+519#PSY#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+523#ESS#259#3#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+525#FRE#321#3#Studies in Francophone Civilizations#
+529#ARC#415#3#Advanced Research Applications in Archaeology#
+530#GEO#401#1#Focus on Geography: A Capstone Course#(Cross Listed: ESC/GEO) 
+537#REC#591#1#Workshops in Recreation and Parks#(Range of Credits: 1-3) 
+544#PHL#201#3#Introduction to Ethics#
+551#CI#670#3#Symposium in Education#(Range of Credits: 1-3) 
+552#EFN#205#3#Understanding Human Differences#(General Education) 
+557#ART#425#3#Perspectives in Art#(Range of Credits: 1-3) 
+558#PHY#476#4#Advanced Optics#
+560#BIO#307#3#Ecology#
+562#CST#415#3#Advanced Topics in Advocacy and Communication Criticism#
+569#RTH#580#3#Leisure Education#
+576#ACC#301#3#Taxation for Non-Accountants#
+581#PHY#450#10#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+583#ART#316#3#Intermediate Ceramics#
+590#SOC#486#1#Teaching Apprenticeship in Sociology#(Range of Credits: 1-2) 
+592#ECO#300#3#Economic Issues in Public Policy#
+595#INS#425#2#Interdisciplinary Seminar International Studies#(Range of Credits: 2-3) 
+602#AST#550#7#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+603#ART#222#3#Metalsmithing for Non-Art Majors#
+609#MIC#100#4#Microbes and Society#(General Education) 
+615#ACC#450#5#College of Business Administration Internship#(Range of Credits: 1-6) 
+616#NMT#423#1#Radiopharmacy#(Range of Credits: 1-3) 
+620#SHE#575#3#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+627#SHE#494#10#Student Teaching: Early Childhood-Adolescence#(Range of Credits: 3-15) 
+633#PSY#510#3#Advanced Developmental Psychology#
+638#SPA#328#1#Reading for Language Proficiency#
+641#CHM#424#3#Spectroscopy#
+646#RTH#400#3#Child Life Theory and Practice#
+653#SPA#598#2#Independent Study#(Range of Credits: 1-3) 
+660#SOC#335#3#Collective Behavior#
+662#HED#412#1#Women's Health Issues#(Range of Credits: 1-3) 
+665#HIS#382#3#Imperialism in Asia and the Pacific#
+669#HIS#450#5#History Internship/Field Experience#(Range of Credits: 3-12) 
+672#ENG#210#3#Literature of Black America#(General Education) (Cross Listed: ENG/ERS) 
+677#RTH#496#1#Orientation to Internship in Therapeutic Recreation#
+679#ESS#400#3#Pharmacology in Athletic Training#
+682#ARC#409#3#Readings and Research in Archaeology#(Range of Credits: 1-3) 
+686#RT#350#3#Patient Care Issues#
+692#HIS#363#3#Modern South Asia#
+697#SHE#495#11#Teaching Internship#(Range of Credits: 3-15) 
+698#GER#599#3#Independent Study#(Range of Credits: 1-3) 
+704#PHL#341#3#Environmental Ethics#
+706#ART#377#3#Color Photography#
+710#EFN#499#3#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+713#ESC#545#3#Advanced Remote Sensing#(Cross Listed: ESC/GEO) 
+715#SPA#498#3#Independent Study#(Range of Credits: 1-3) 
+721#ARC#509#2#Readings and Research in Archaeology#(Range of Credits: 1-3) 
+728#HIS#497#3#Individual Study in History#(Range of Credits: 1-3) 
+731#MGT#452#4#College of Business Administration International Internship#(Range of Credits: 1-6) 
+738#MLG#304#4#Heritage Language: Advanced#(General Education) 
+744#EDS#494#10#Student Teaching: Early Adolescence-Adolescence/Early Childhood Adolescence#(Range of Credits: 3-15) 
+748#CS#499#2#Research in Computer Science#(Range of Credits: 1-3) 
+750#GEO#560#3#Environmental Hazards and Land Use#(Cross Listed: ESC/GEO) 
+752#PSY#491#3#Contemporary Topics in Psychology: Advanced#(Range of Credits: 1-3) 
+756#SPA#598#1#Independent Study#(Range of Credits: 1-3) 
+758#EDM#540#3#Children's Literature#(Cross Listed: EDM/ENG) 
+761#HIS#450#3#History Internship/Field Experience#(Range of Credits: 3-12) 
+762#SHE#558#2#Imagery Techniques for Health Promotional Skill Development#(Range of Credits: 1-2) 
+764#HIS#372#3#History of Women in the Ancient World#(Cross Listed: ARC/HIS) 
+766#GEO#499#1#Undergraduate Research#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+769#NMT#399#1#Applied Research Writing in Nuclear Medicine Technology#
+776#SOC#338#3#Sociological Aspects of Work and Life#(Cross Listed: SOC/WGS) 
+781#SHE#458#1#Imagery Techniques for Health Promotional Skill Development#(Range of Credits: 1-2) 
+784#MUS#423#1#Women's Chorus IV#
+789#ESC#495#3#Seminar in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+790#RTH#319#3#Leadership and Supervision in Therapeutic Recreation#
+792#ERS#510#3#Contemporary Issues in Minority Cultures#
+793#RTH#497#1#Special Projects in Therapeutic Recreation#(Range of Credits: 1-3) 
+794#ENG#449#3#Forms of Poetry#
+800#ESS#460#3#Exercise Science Clinical Forum#(Range of Credits: 1-3) 
+806#SHE#494#5#Student Teaching: Early Childhood-Adolescence#(Range of Credits: 3-15) 
+812#ESC#545#3#Advanced Remote Sensing#(Cross Listed: ESC/GEO) 
+817#CLI#495#2#Independent Study in Medical Laboratory Science#(Range of Credits: 1-3) 
+820#HED#508#1#Microcomputer Applications in Health Education#(Range of Credits: 1-2) 
+822#ENG#334#3#Language Study for Teachers#
+829#ESC#222#4#Landforms: Processes and Regions#
+835#SHE#252#2#Introductory Content in Health Education#
+838#SPA#421#3#Latin American Literature II#
+842#CHM#301#5#Analytical Chemistry#
+844#TSL#550#3#TESOL National/International Internship Program#(Range of Credits: 1-3) 
+848#SOC#105#3#Introduction to LGBT Studies#(Cross Listed: SOC/WGS) 
+849#SPA#491#3#Films and Literature#
+851#PSY#403#3#Advanced Psychopathology#
+856#IS#499#1#Independent Study#(Range of Credits: 1-3) 
+862#CST#301#3#Theories of Communication#
+864#ART#513#2#Independent Study#(Range of Credits: 1-3) 
+865#ESS#320#3#Field Experience in Exercise Science or Sport Management#
+869#AST#553#2#Topics in Physics and Astronomy#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+870#RTH#402#3#Helping Children Cope with Grief and Loss#
+874#HIS#295#3#Pyramids, Temples and Towns! The Archaeology of Ancient Egypt#(Cross Listed: ARC/HIS) 
+877#RTH#583#3#Leisure Counseling in Therapeutic Recreation#
+883#CI#695#1#Supervision of Student Teaching#(Range of Credits: 1-3) 
+889#CS#519#3#Topics in Computer Science#(Range of Credits: 1-3) 
+890#ARC#368#3#History of Babylonian Language and Culture I#(Cross Listed: ARC/HIS) 
+893#ARC#598#3#Seminar in Archaeology#(Range of Credits: 1-3) 
+896#CS#370#3#Computer Architecture#
+902#CST#273#2#Applied Audio#(Range of Credits: 1-3) 
+909#ESS#201#1#Safety, First Aid and CPR#
+915#MKT#479#3#Marketing Management#
+921#ANT#450#13#Internship in Anthropology#(Range of Credits: 3-15) 
+925#DOS#412#1#Simulation for Medical Dosimetrists#
+929#FRE#499#1#Independent Study#(Range of Credits: 1-3) 
+931#TSL#463#3#Teaching English to Speakers of Other Languages (TESOL) Methods#
+938#ENG#541#3#Adolescent Literature#(Cross Listed: EDM/ENG) 
+944#PUB#450#4#Internship in Public Administration#(Range of Credits: 1-12) 
+950#INS#300#13#Foreign Study#(Range of Credits: 3-16) 
+955#CHI#320#3#Introduction to Chinese Civilization#(General Education) 
+957#ECO#574#2#Economic Forum#(Range of Credits: 1-3) 
+961#MIC#560#1#Symposium Microbiology#(Range of Credits: 1-3) 
+963#HIMT#420#3#Health Care Systems: Project Management#(Cross Listed: HIMT/IS) 
+968#CST#310#3#Debate#
+973#POL#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+975#EDM#340#3#Children's Literature#(Cross Listed: EDM/ENG) 
+982#PSY#259#2#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+985#PUB#450#1#Internship in Public Administration#(Range of Credits: 1-12) 
+991#HED#412#2#Women's Health Issues#(Range of Credits: 1-3) 
+998#ART#272#3#Photography and Imaging I#
+999#RTH#203#3#Outdoor Recreation Skills for Persons with Special Need#
+1003#ECO#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+1007#ECO#306#3#History of Economic Thought#
+1009#PSY#285#3#Culture and Mental Health#(General Education) 
+1011#SOC#405#3#Quantitative Social Research Seminar#
+1016#EDS#494#12#Student Teaching: Early Adolescence-Adolescence/Early Childhood Adolescence#(Range of Credits: 3-15) 
+1018#REC#499#2#Seminar in Recreation#(Range of Credits: 1-3) 
+1024#ESC#211#3#Global Warming and Climate Change#(General Education) 
+1031#MGT#414#3#Crisis and Contingency Management#
+1033#IS#490#3#Capstone Project#(Cross Listed: HIMT/IS) 
+1034#SPE#483#11#Student Teaching Cross-Categorical Special Education: Middle Childhood-Early Adolescence#
+1037#MUA#214#1#Applied Piano#
+1038#SOC#409#3#Readings and Research in Sociology#(Range of Credits: 1-3) 
+1040#ARC#450#7#Internship in Archaeology#(Range of Credits: 1-15) 
+1044#ESL#155#1#Special Topics in ESL#(Range of Credits: 1-16) 
+1047#DOS#442#1#Dosimetric Quality Assurance#
+1052#ENG#434#3#Chinese Discourse#
+1056#GEO#460#3#Environmental Hazards and Land Use#(Cross Listed: ESC/GEO) 
+1061#ESS#552#2#7 Habits of Highly Effective People#
+1065#NMT#427#3#Application of Computers to Nuclear Medicine#(Range of Credits: 1-5) 
+1069#WGS#250#2#Topics in Women's Studies#(Range of Credits: 1-3) 
+1075#CST#334#3#Gender Communication#
+1081#ARC#493#3#Wisconsin Archaeology for Teachers#
+1085#HIS#305#3#History of Motherhood in the United States#(Cross Listed: HIS/WGS) 
+1089#ARC#375#3#Iran before Islam#(Cross Listed: ARC/HIS) 
+1096#CHE#350#3#Biometry and Research Design#
+1100#ARC#250#3#Museum Studies#
+1106#ENG#306#3#Writing in Education#
+1113#HED#571#2#Health Education Responsibilities, Competency and Certification#
+1116#WGS#212#3#Search for Economic Justice#
+1117#MKT#362#3#Buyer Behavior#
+1124#CS#395#2#Independent Study#(Range of Credits: 1-3) 
+1126#POL#433#3#Women and Politics in Asia#
+1129#MIC#428#2#Fermentation Microbiology Laboratory#
+1136#HP#310#3#Pathophysiology#(Cross Listed: HP/RT) 
+1141#HIS#403#3#Exhibition Development and Design#
+1143#SOC#320#3#Demography#
+1147#ART#378#3#Advanced Digital Photography and Imaging#
+1152#MUS#480#3#Independent Study of Music#(Range of Credits: 1-3) 
+1156#GEO#345#3#Remote Sensing#(Cross Listed: ESC/GEO) 
+1157#ESC#595#1#Seminar in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+1161#SPA#403#3#Studies in Hispanic Literature#
+1168#ARC#353#3#Maya Civilization#(Cross Listed: ANT/ARC/HIS) 
+1174#SOC#363#3#American Indians and the Environment#(Cross Listed: ERS/SOC) 
+1181#NMT#495#1#Special Topics in Nuclear Medicine#(Range of Credits: 1-3) 
+1182#ESS#499#3#Seminar in Physical Education#
+1189#CHM#330#3#Industrial Chemistry#
+1196#INS#300#9#Foreign Study#(Range of Credits: 3-16) 
+1200#FIN#540#3#Multinational Financial Management#
+1205#HIS#200#3#Historiography and Historical Methods#
+1207#MUS#206#1#Concert Choir II#
+1213#CS#441#3#Operating System Concepts#
+1216#BIO#542#3#Plant Microbe Interactions#(Cross Listed: BIO/MIC) 
+1218#ENG#220#3#Women and Popular Culture#(General Education) 
+1220#SOC#328#3#Environmental Sociology#
+1223#SOC#450#5#Internship in Sociology#(Range of Credits: 3-15) 
+1226#PHY#421#3#Advanced Mechanics#
+1232#NMT#407#3#Clinical Instrumentation and Techniques#(Range of Credits: 2-5) 
+1233#PSY#422#3#Death, Grief, and Bereavement#(Cross Listed: PSY/SOC) 
+1239#NMT#402#2#Clinical Correlation: Anatomy, Physiology and Pathology#(Range of Credits: 1-4) 
+1242#HIS#349#3#History of Modern Europe (20th Century)#
+1243#ARC#303#3#Archaeology Lab Methods#
+1250#GEO#455#3#Web Mapping#(Cross Listed: ESC/GEO) 
+1253#INS#300#14#Foreign Study#(Range of Credits: 3-16) 
+1257#GEO#470#3#Special Topics in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+1258#PHL#335#3#Multicultural Philosophy in the United States#(General Education) 
+1263#EDS#512#5#Teaching Reading and Literacy#
+1270#HIS#374#3#Ancient Turkey#(Cross Listed: ARC/HIS) 
+1276#POL#371#3#Constitutional Law II: The First Amendment#
+1277#PSY#360#3#Cross Cultural Human Development#
+1280#THA#470#2#Symposium in Theatre Arts#(Range of Credits: 1-3) 
+1287#IS#451#6#CBA Management Information Systems Internship#(Range of Credits: 1-6) 
+1294#ESS#259#1#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+1298#MTH#498#2#Independent Study#(Range of Credits: 1-3) 
+1303#HIS#345#3#U.S. - Latin American Relations#
+1309#MGT#483#3#Human Resource Development#
+1311#CST#275#1#Applied Television#(Range of Credits: 1-3) 
+1314#PSY#481#1#Individual Projects in Psychology#(Range of Credits: 1-3) 
+1321#MIC#260#3#Topics in Microbiology#(Range of Credits: 1-3) 
+1324#HIMT#370#3#Health Care Systems: Analysis and Design#(Cross Listed: HIMT/IS) 
+1328#PSY#431#3#The Study of Consciousness#
+1330#MUS#317#3#Musical Classroom#(General Education) 
+1334#CS#554#3#Digital Image Processing#
+1337#SPA#499#3#Independent Study#(Range of Credits: 1-3) 
+1338#BIO#306#4#Genetics#
+1340#HWM#480#3#Employee Benefits for Wellness Managers#
+1342#CLI#395#2#Urinalysis and Body Fluids#
+1345#PSY#405#2#Teaching Apprenticeship in Psychology#(Range of Credits: 1-2) 
+1347#ESS#225#3#Introduction to Physical Education Teaching Methodology#
+1348#AST#450#15#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1353#PHL#307#3#19th Century Continental Philosophy#
+1359#MGT#400#1#Management Forum#(Range of Credits: 1-3) 
+1361#POL#222#3#Law, Governance and Politics#
+1367#RTH#498#13#Internship in Therapeutic Recreation#(Range of Credits: 12-16) 
+1370#GEO#490#2#Independent Study#(Cross Listed: ESC/GEO) (Range of Credits: 2-3) 
+1373#CHM#104#5#General Chemistry II#
+1377#ANT#102#4#Introduction to Physical Anthropology#(General Education) 
+1379#ESC#570#2#Special Topics in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+1383#PSY#459#3#Genes and Behavior#
+1386#BIO#506#4#Parasitology#
+1390#POL#345#3#International Law#
+1393#TSL#350#3#ESL Program Development#(Range of Credits: 1-6) 
+1395#ESS#432#3#Financial Aspects of Sport#
+1397#SOC#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+1398#ARC#499#3#Senior Project/Thesis in Archaeology#
+1404#MUS#403#2#Symphonic Literature#
+1411#FIN#450#2#College of Business Administration Internship#(Range of Credits: 1-6) 
+1412#MTH#543#3#Categorical Data Analysis#
+1415#NMT#409#3#Mathematical Evaluation of Clinical Data#(Range of Credits: 1-3) 
+1417#FRE#491#3#Films and Literature#
+1419#BIO#540#2#Bioinformatics#(Cross Listed: BIO/MIC) 
+1420#THA#110#2#Theatre Appreciation#(General Education) 
+1422#ECO#307#3#Intro to Econometrics, Forecasting & Time Series#
+1429#ENG#481#3#Seminar in Literature and Culture#
+1435#RTH#260#1#Assistive Devices & Resources in Therapeutic Recreation#(Range of Credits: 1-2) 
+1441#HWM#315#3#Resource Management for Wellness Managers#
+1447#POL#304#3#Politics and the Media#
+1453#CS#453#3#Introduction to Theory of Computation#
+1458#POL#446#3#Model UN: International Diplomacy#
+1463#NMT#419#2#Clinical Radiation Biology#(Range of Credits: 1-3) 
+1467#CS#456#3#Secure Software Development#
+1474#PUB#346#3#Ethics Management in Government#
+1478#CHE#575#2#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+1482#HIS#450#4#History Internship/Field Experience#(Range of Credits: 3-12) 
+1487#PSY#357#3#Adolescence#
+1493#HIMT#435#3#Data Communications and Computer Networks in Health Care#(Cross Listed: HIMT/IS) 
+1498#MTH#545#3#Correlation and Regression Analysis#
+1505#PHY#204#4#General Physics II#
+1508#ECE#580#1#Developing Creative Activities for Young Children#(Range of Credits: 1-3) 
+1510#HIS#409#3#20th Century Civil Rights Movement#(Cross Listed: ERS/HIS) 
+1516#POL#353#3#Modern and Contemporary Political Theory#
+1520#PSY#301#3#Theory of Knowledge#(Cross Listed: PHL/PSY) 
+1527#HED#549#1#Value Development for Health#
+1530#ENG#495#3#Advanced Study of Major Authors#
+1537#HED#447#1#The Body/Mind Connection in Health#
+1540#CS#202#3#Introduction to Web Design#
+1542#ESS#324#3#Independent Study in Exercise and Sport Science#(Range of Credits: 1-3) 
+1547#HED#517#1#Understanding Child Abuse#
+1551#HIS#388#3#Comparative Slave Systems#
+1552#POL#450#5#Internship in Political Science#(Range of Credits: 1-12) 
+1554#REC#581#3#Outdoor Pursuits#(Range of Credits: 1-3) 
+1555#REC#497#3#Special Projects in Recreation Management#(Range of Credits: 1-3) 
+1561#ACC#438#3#Principles of Auditing#
+1565#HP#350#3#Topics in Clinical Science#(Range of Credits: 1-3) 
+1566#SPA#201#4#Intermediate Spanish I#(General Education) 
+1568#BIO#560#3#Symposium in Biology#(Range of Credits: 1-4) 
+1574#BIO#476#3#Ecosystem Ecology#
+1576#MIC#525#5#Bacterial Physiology#
+1582#THA#450#11#Internship in Theatre Arts#(Range of Credits: 3-15) 
+1587#WGS#333#3#The Gendered Body in History and Today#
+1593#ENG#210#3#Literature of Black America#(General Education) (Cross Listed: ENG/ERS) 
+1595#EDM#341#3#Adolescent Literature#(Cross Listed: EDM/ENG) 
+1601#BIO#566#3#Human Molecular Genetics#
+1603#GEO#331#3#Geography of the Middle East, Central and South Asia#
+1605#SHE#558#1#Imagery Techniques for Health Promotional Skill Development#(Range of Credits: 1-2) 
+1610#AST#466#3#Cosmology and the Structure of The Universe#(Cross Listed: AST/PHY) 
+1613#SOC#343#3#American Indian Contemporary Issues#(Cross Listed: ERS/SOC) 
+1617#SOC#486#2#Teaching Apprenticeship in Sociology#(Range of Credits: 1-2) 
+1621#POL#244#3#International Relations#(General Education) 
+1625#PHY#460#3#Condensed Matter Physics#
+1632#HIS#497#1#Individual Study in History#(Range of Credits: 1-3) 
+1639#THA#450#5#Internship in Theatre Arts#(Range of Credits: 3-15) 
+1640#GER#598#1#Independent Study#(Range of Credits: 1-3) 
+1644#CST#450#6#Internship in Communication Studies#(Range of Credits: 1-6) 
+1651#ECO#120#3#Global Macroeconomics#(General Education) 
+1657#FRE#331#3#French Phonetics#
+1663#GEO#555#3#Web Mapping#(Cross Listed: ESC/GEO) 
+1665#THA#450#6#Internship in Theatre Arts#(Range of Credits: 3-15) 
+1669#PHL#349#3#Asian Philosophy#
+1671#INS#350#6#Independent Foreign Research#(Range of Credits: 1-6) 
+1672#BUS#205#3#The Legal & Ethical Environment of Business#
+1675#DOS#514#3#Physics Fundamentals for Medical Dosimetrists#
+1677#NMT#413#4#Clinical Nuclear Practicum II#(Range of Credits: 3-9) 
+1682#BIO#450#1#Internship in Biology#(Range of Credits: 1-3) 
+1689#HED#230#2#Nutrition for Fitness and Health#
+1694#BIO#105#4#General Biology#(General Education) 
+1700#AST#466#3#Cosmology and the Structure of The Universe#(Cross Listed: AST/PHY) 
+1703#THA#331#3#Theatre Technology#
+1710#AST#550#13#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1717#BIO#421#3#Comparative Vertebrate Endocrinology#
+1720#MLG#398#2#World Languages: Advanced#(Range of Credits: 1-4) 
+1726#CLI#499#3#Independent Research in Clinical Lab Science#(Range of Credits: 1-3) 
+1732#PHY#550#11#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1734#CLI#499#1#Independent Research in Clinical Lab Science#(Range of Credits: 1-3) 
+1736#ARC#492#3#Archaeology Analysis Procedures for Teachers#
+1741#MTH#496#1#Special Topics in Statistics#(Range of Credits: 1-3) 
+1743#ART#331#3#Art of the United States#
+1750#ESS#450#9#Exercise and Sport Science Internship#(Range of Credits: 8-12) 
+1752#GEO#450#7#Geography Internship#(Cross Listed: ESC/GEO) (Range of Credits: 3-12) 
+1759#REC#320#3#Principles and Practices of Tourism#
+1764#EDS#522#2#Teaching Mathematics Methods-Early Childhood-Middle Childhood-Early Adolescence#
+1767#REC#481#2#Outdoor Pursuits#(Range of Credits: 1-3) 
+1770#ART#418#3#Advanced Printmaking#
+1772#THA#420#2#Directing#(Range of Credits: 1-3) 
+1778#PSY#450#3#Fieldwork Experience in Psychology: Undergraduate Internship#(Range of Credits: 2-3) 
+1780#ARC#404#3#Environmental Archaeology#
+1787#HIS#355#3#England to 1603#
+1788#CHM#469#4#Teaching and Learning Science in the Secondary School#(Cross Listed: BIO/CHM/PHY) 
+1791#SHE#210#4#Introduction to Coordinated School Health Programs#
+1792#ART#408#3#Advanced Computer Graphic Design#
+1793#PSY#359#1#Aging and the Elderly#
+1797#MUS#213#1#Class Guitar#
+1801#ERS#321#3#American Indian Thought#(Cross Listed: ERS/PHL) 
+1805#CHI#305#3#Introduction to Modern Chinese Literature#(General Education) 
+1806#MIC#120#1#Introduction to the Microbial Sciences#
+1808#ESS#130#2#Officiating Athletics#(Range of Credits: 1-2) 
+1815#ESS#560#3#Exercise Science Clinical Forum#(Range of Credits: 1-3) 
+1820#PSY#356#3#The School-aged Child#
+1826#MGT#450#4#College of Business Administration Internship#(Range of Credits: 1-6) 
+1828#MIC#260#1#Topics in Microbiology#(Range of Credits: 1-3) 
+1833#ENG#471#3#American Romanticism#
+1836#CLI#455#6#Clinical Hematology/Hemostasis#
+1842#BIO#436#1#Molecular Biology Laboratory#
+1845#EDS#493#8#Student Teaching: Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#(Range of Credits: 3-15) 
+1846#REC#581#1#Outdoor Pursuits#(Range of Credits: 1-3) 
+1853#ECO#376#3#Economics of Art and Entertainment#(General Education) (Cross Listed: ECO/THA) 
+1860#HED#412#3#Women's Health Issues#(Range of Credits: 1-3) 
+1867#REC#202#2#Leisure, Nature, and Contemplative Experiences#
+1872#CS#451#3#User Interface Design#
+1876#MGT#452#5#College of Business Administration International Internship#(Range of Credits: 1-6) 
+1877#POL#201#3#Introduction to Political Science#
+1880#ESL#255#7#Special Topics in ESL#(Range of Credits: 1-16) 
+1881#ESC#499#1#Undergraduate Research#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+1882#RUS#102#4#Elementary Russian II#(General Education) 
+1889#PHY#450#13#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1894#CHE#575#3#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+1900#ESS#536#3#Assessment and Program Evaluation in Adapted Physical Education#
+1902#AST#450#12#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1905#ESS#523#2#Individual and Social Factors in Physical Education#
+1907#ESS#450#11#Exercise and Sport Science Internship#(Range of Credits: 8-12) 
+1910#SOC#322#3#Criminology#
+1915#EDS#445#2#Field Experience II - Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#
+1919#FRE#450#1#National/International Intern Program#(Range of Credits: 1-4) 
+1922#ENG#500#3#Workshop#(Range of Credits: 1-3) 
+1928#CI#499#4#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+1934#ENG#205#3#Western Literature I#(General Education) 
+1938#SOC#363#3#American Indians and the Environment#(Cross Listed: ERS/SOC) 
+1942#ERS#442#3#Racism and Oppression#(Cross Listed: ERS/PSY) 
+1946#DOS#422#2#Radiation Dose Calculations#
+1952#CST#333#3#Lying and Deception in Human Interaction#
+1957#HED#512#3#Women's Health Issues#(Range of Credits: 1-3) 
+1962#MTH#175#4#Applied Calculus#(General Education) 
+1963#ART#372#3#Photography and Imaging II#
+1965#EDS#494#4#Student Teaching: Early Adolescence-Adolescence/Early Childhood Adolescence#(Range of Credits: 3-15) 
+1966#PHL#330#3#Philosophy of Food: The Dining Experience#
+1970#ESC#345#3#Remote Sensing#(Cross Listed: ESC/GEO) 
+1973#ENG#361#3#Old and Middle English Literature#
+1978#MUA#308#1#Applied Trombone#
+1983#BIO#321#3#Ornithology#
+1987#PHY#550#7#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+1988#WGS#210#3#Women's Voices / Women's Culture#(General Education) 
+1992#ACC#535#3#Governmental and Institutional Accounting#
+1993#MIC#560#3#Symposium Microbiology#(Range of Credits: 1-3) 
+1996#RT#310#3#Pathophysiology#(Cross Listed: HP/RT) 
+2000#BIO#450#2#Internship in Biology#(Range of Credits: 1-3) 
+2003#ART#214#3#Introduction to Sculpture#
+2010#CS#455#3#Fundamentals of Information Security#
+2015#CHM#407#3#Biophysical Chemistry#
+2018#PUB#450#5#Internship in Public Administration#(Range of Credits: 1-12) 
+2019#SOC#450#13#Internship in Sociology#(Range of Credits: 3-15) 
+2022#EFN#499#1#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+2023#IB#499#1#Independent Study#(Range of Credits: 1-3) 
+2024#BIO#464#3#Stream and Watershed Ecology#
+2029#ART#320#3#Intermediate Metalsmithing: Forging and Raising#
+2034#POL#450#7#Internship in Political Science#(Range of Credits: 1-12) 
+2037#ECO#202#3#Contemporary Global Issues#(General Education) 
+2042#RT#431#3#Radiation Therapy Physics#
+2048#MUS#434#1#Jazz Ensemble IV#
+2053#ANT#450#8#Internship in Anthropology#(Range of Credits: 3-15) 
+2057#THA#422#3#Acting IV: Audition Techniques#
+2060#HPR#106#2#Introduction to Health Related Careers#(Cross Listed: HP/HPR) 
+2062#SHE#495#13#Teaching Internship#(Range of Credits: 3-15) 
+2067#ESS#326#2#Clinical Experience in Teaching Physical Education II#
+2072#EDS#493#3#Student Teaching: Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#(Range of Credits: 3-15) 
+2075#GEO#270#2#Geographic Themes#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+2080#ESL#255#4#Special Topics in ESL#(Range of Credits: 1-16) 
+2082#CI#495#1#Supervision of Student Teaching#(Range of Credits: 1-3) 
+2083#ESC#385#3#Introduction to Geographic Information System and Science#(Cross Listed: ESC/GEO) 
+2087#ESS#310#2#Teaching Outdoor Activities in Physical Ed#
+2094#GER#599#1#Independent Study#(Range of Credits: 1-3) 
+2097#HIS#295#3#Pyramids, Temples and Towns! The Archaeology of Ancient Egypt#(Cross Listed: ARC/HIS) 
+2101#SOC#321#3#Delinquency#
+2107#AST#450#6#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2113#CS#564#3#Advanced Database Management Systems#
+2114#RTH#401#2#Child Life Facilitation of Psychosocial Support#
+2119#MTH#549#3#Applied Multivariate Statistics#
+2120#GEO#570#2#Special Topics in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+2124#RTH#332#3#Therapeutic Recreation for Persons With Physical Disabilities#
+2131#ESC#390#3#Geographic Field Methods#(Cross Listed: ESC/GEO) 
+2132#ESL#150#4#ESL Speaking/Listening#
+2133#PHL#310#3#Metaphysics#
+2137#BIO#432#2#Biology of Cancer#
+2140#ESS#435#1#Sports for Persons with Disabilities#
+2144#PSY#442#3#Racism and Oppression#(Cross Listed: ERS/PSY) 
+2149#ESC#355#3#Map Design and Geovisualization#(Cross Listed: ESC/GEO) 
+2152#POL#598#3#Honors/Graduate Reading & Research in Political Science#(Range of Credits: 2-3) 
+2155#TSL#450#2#TESOL National/International Internship Program#(Range of Credits: 1-3) 
+2162#ANT#290#3#Andean Anthropology#
+2169#ECO#450#5#College of Business Administration Internship#(Range of Credits: 1-6) 
+2174#RTH#491#1#Workshop in Therapeutic Recreation#(Range of Credits: 1-3) 
+2176#MIC#479#1#Microbiology Laboratory Assistant#(Range of Credits: 1-2) 
+2182#THA#310#3#The Singer/Actor#(Cross Listed: MUS/THA) 
+2185#ERS#100#3#Introduction to Ethnic and Racial Studies#(General Education) 
+2191#ERS#490#3#Ethnic and Racial Studies Seminar#
+2192#ANT#409#3#Readings and Research in Anthropology#(Range of Credits: 1-3) 
+2196#MLG#345#3#Intercultural Interactions#
+2201#BIO#422#3#Ichthyology#
+2205#SPA#420#3#Latin American Literature I#
+2209#ENG#206#3#Western Literature II#(General Education) 
+2210#EDS#500#2#Continuing Education Professional Development#(Range of Credits: 1-3) 
+2212#PHY#335#4#Electronics#
+2218#ENG#332#3#Modern English Grammars#
+2219#MUA#314#1#Applied Piano#
+2225#FIN#450#5#College of Business Administration Internship#(Range of Credits: 1-6) 
+2229#CMP#490#3#Senior Computational Science Project#(Range of Credits: 2-3) 
+2230#EFN#575#3#Special Topics Seminar in Education#(Range of Credits: 1-3) 
+2235#REC#450#16#Internship#
+2240#ESS#401#2#Teaching Dance#
+2243#ARC#479#1#Archaeology/Anthropology Laboratory Assistant#(Cross Listed: ANT/ARC) (Range of Credits: 1-2) 
+2250#MUA#202#1#Applied Oboe#
+2255#ECO#499#2#Independent Study#(Range of Credits: 1-3) 
+2257#INS#525#2#Interdisciplinary Seminar International Studies#(Range of Credits: 2-3) 
+2262#SHE#460#1#Health Promotion and Preference#(Range of Credits: 1-2) 
+2269#RDG#475#1#Special Topics Seminar in Reading Education#(Range of Credits: 1-3) 
+2276#WGS#259#1#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+2280#CHM#524#3#Spectroscopy#
+2283#NMT#398#2#Research Writing in Nuclear Medicine Technology#
+2289#TSL#350#1#ESL Program Development#(Range of Credits: 1-6) 
+2296#MGT#412#3#Emergent Leadership and Team Development#
+2301#SOC#311#3#Rural and Urban Communities#
+2306#ECE#212#3#Child Growth and Development for Early Childhood-Middle Childhood Educators#
+2308#PSY#205#3#Effective Behavior#
+2315#POL#202#3#Contemporary Global Issues#(General Education) 
+2321#ENG#470#3#Seminar in American Literature#
+2322#ECE#400#2#Student Teaching: Early Childhood#(Range of Credits: 2-4) 
+2323#ESS#421#3#Sport Operations Management/Event and Venue Management#
+2329#MUS#360#1#Vocal Jazz III#
+2330#ENG#370#3#Early American Literature#
+2333#CST#380#3#Communicating Leadership#
+2336#PHY#450#4#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2343#MTH#311#3#Number Theory#
+2349#POL#376#3#Constitutional Law VII: Administrative Law#
+2350#CHM#314#2#Advanced Physical Chemistry Laboratory#
+2351#ART#414#3#Advanced Sculpture#
+2355#SHE#507#3#Health Education in the Elementary School#
+2356#ARC#445#3#Research Methods in Archaeology#
+2360#BIO#469#4#Teaching and Learning Science in the Secondary School#(Cross Listed: BIO/CHM/PHY) 
+2361#POL#451#3#Internship in Criminal Justice#
+2365#ARC#330#3#Pastoralism: Past and Present#(Cross Listed: ANT/ARC) 
+2369#HIS#390#3#Public History Research#
+2375#CHE#440#3#Program Development in Community Health Education#
+2381#BIO#490#3#Current Topics in Biology Education#(Range of Credits: 1-3) 
+2385#GER#498#3#Independent Study#(Range of Credits: 1-3) 
+2387#CST#376#3#Remote Video Operations#
+2389#PSY#485#1#Appraising Psychology Seminar#
+2395#MTH#136#4#Mathematics for Elementary Teachers II#(General Education) 
+2397#PSY#316#3#Child Abuse and Neglect#(Range of Credits: 1-3) 
+2400#SHE#410#6#Application of Curriculum Processes & Instructional Techniques#
+2405#TSL#350#5#ESL Program Development#(Range of Credits: 1-6) 
+2409#SPE#540#3#Collaboration and Transition: From School to Community#
+2416#HIS#340#3#Origins of Cities#(Cross Listed: ARC/HIS) 
+2419#HIS#366#3#Ancient Israel#(Cross Listed: ARC/HIS) 
+2423#CS#551#3#User Interface Design#
+2424#EDS#494#11#Student Teaching: Early Adolescence-Adolescence/Early Childhood Adolescence#(Range of Credits: 3-15) 
+2431#ARC#399#3#SOC/ARC/ANT Forum#(Cross Listed: ANT/ARC/SOC) 
+2438#MUS#337#1#Music Reading & Aural Skills III#
+2443#PHY#498#2#Physics and Astronomy Research#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+2444#MLG#299#3#Foreign Literature in Translation#(General Education) 
+2451#PSY#308#2#Research Apprenticeship#(Range of Credits: 1-2) 
+2454#EDS#414#1#Foundations of Reading Seminar#
+2461#ESS#448#3#Promotion and Development of Fitness and Sport Programs#
+2465#CHM#356#2#Curriculum and Assessment in Math and Science#(Cross Listed: BIO/CHM/PHY) 
+2466#IS#451#1#CBA Management Information Systems Internship#(Range of Credits: 1-6) 
+2473#SPE#475#2#Special Topics Seminar in Special Education#(Range of Credits: 1-3) 
+2480#MGT#452#6#College of Business Administration International Internship#(Range of Credits: 1-6) 
+2486#MUA#215#1#Applied Guitar#
+2493#MUS#458#1#Choral Union IV#
+2494#TSL#498#2#Independent Study#(Range of Credits: 1-3) 
+2498#HIS#379#3#African Environmental History#
+2503#FIN#450#3#College of Business Administration Internship#(Range of Credits: 1-6) 
+2509#PHY#343#3#Thermodynamics#
+2515#THA#342#3#Sound Design and Engineering#
+2520#CI#499#1#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+2521#ECO#450#1#College of Business Administration Internship#(Range of Credits: 1-6) 
+2525#PSY#291#3#Contemporary Topics in Psychology#(Range of Credits: 1-3) 
+2532#POL#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+2536#ESC#221#4#Introduction to Climate Systems#
+2538#ENG#341#3#Adolescent Literature#(Cross Listed: EDM/ENG) 
+2540#POL#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+2543#CST#330#3#Nonverbal Communication#
+2548#PUB#450#3#Internship in Public Administration#(Range of Credits: 1-12) 
+2554#DOS#418#1#Professionalism and Mentoring in Medical Dosimetry#
+2561#HIS#367#3#Ancient Egypt#(Cross Listed: ARC/HIS) 
+2568#MTH#499#3#Research Topics#(Range of Credits: 1-3) 
+2570#ESL#255#11#Special Topics in ESL#(Range of Credits: 1-16) 
+2575#EDS#495#15#Teaching Internship#(Range of Credits: 3-15) 
+2576#EDS#493#6#Student Teaching: Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#(Range of Credits: 3-15) 
+2580#HED#577#3#Grant-seeking in Health, Human Services and Education Programs#
+2582#WGS#201#1#Social Justice and Peer Education#(Cross Listed: HED/WGS) 
+2585#MIC#407#4#Pathogenic Bacteriology#
+2589#ARC#320#3#Historical Archaeology#
+2591#ESS#259#1#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+2597#ANT#354#3#Peoples and Cultures of Latin America#(Cross Listed: ANT/SOC) 
+2598#THA#470#3#Symposium in Theatre Arts#(Range of Credits: 1-3) 
+2605#GEO#530#3#Fluvial Geomorphology#(Cross Listed: ESC/GEO) 
+2612#HIMT#370#3#Health Care Systems: Analysis and Design#(Cross Listed: HIMT/IS) 
+2618#SPE#499#1#Individual Study#(Range of Credits: 1-3) 
+2622#ARC#450#1#Internship in Archaeology#(Range of Credits: 1-15) 
+2626#BIO#522#3#Ichthyology#
+2631#NMT#421#1#Therapeutic Radionuclides#
+2635#CS#353#3#Analysis of Algorithm Complexity#
+2638#GEO#570#3#Special Topics in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+2645#WGS#370#3#The History of Black Women's Activism#(Cross Listed: HIS/WGS) 
+2649#PSY#212#3#Lifespan Development#
+2653#EDS#495#8#Teaching Internship#(Range of Credits: 3-15) 
+2660#WGS#259#2#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+2661#PHL#205#3#History of Ancient Philosophy#
+2667#RDG#328#3#Reading in the Content Areas#
+2670#INS#252#1#Cross-Cultural Reentry From Study Abroad#(General Education) 
+2677#CYC#450#3#Internship in Child/Youth Care#(Range of Credits: 1-6) 
+2678#ARC#100#3#Archaeology: Discovering Our Past#(General Education) 
+2685#CS#499#3#Research in Computer Science#(Range of Credits: 1-3) 
+2688#SHE#492#1#Student Teaching/Intern Seminar#
+2689#ESL#100#4#ESL Speaking#
+2694#PHY#550#3#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2701#ARC#594#2#Applied Archaeology for Teachers#(Range of Credits: 1-3) 
+2706#SPE#584#11#Student Teaching Cross-Categorical Special Education: Early Adolescence-Adolescence#
+2711#CHE#475#1#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+2717#MGT#385#3#Human Resources: Employment#
+2718#EDS#422#2#Teaching Mathematics Methods-Early Childhood-Middle Childhood-Early Adolescence#
+2724#POL#361#3#Research Methods in Politics and Government#
+2728#HIS#497#2#Individual Study in History#(Range of Credits: 1-3) 
+2729#ESS#325#4#Secondary Methods, Assessment and Clinical in Physical Education#
+2736#CI#670#2#Symposium in Education#(Range of Credits: 1-3) 
+2739#ERS#343#3#American Indian Contemporary Issues#(Cross Listed: ERS/SOC) 
+2742#NMT#412#9#Clinical Nuclear Practicum I#(Range of Credits: 3-9) 
+2747#ART#314#3#Intermediate Sculpture#
+2751#THA#240#3#Rendering for Theatre#
+2755#CI#670#1#Symposium in Education#(Range of Credits: 1-3) 
+2758#POL#205#3#Women and Politics#(General Education) 
+2761#MTH#461#3#Mathematical Physics#(Cross Listed: MTH/PHY) 
+2764#ESS#116#2#Water Safety Instruction#
+2768#MGT#393#3#Production and Operations Management#
+2774#RT#310#3#Pathophysiology#(Cross Listed: HP/RT) 
+2778#PHL#496#3#Integrative Seminar#
+2785#MLG#202#4#World Languages: Intermediate II#(General Education) 
+2792#PHY#550#14#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2797#GEO#401#1#Focus on Geography: A Capstone Course#(Cross Listed: ESC/GEO) 
+2800#CS#419#2#Topics in Computer Science#(Range of Credits: 1-3) 
+2802#PSY#259#1#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+2804#CST#321#3#Conflict Management and Negotiation#
+2810#PHL#425#3#Wilderness Philosophy#
+2815#PHY#450#7#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2819#ESS#322#4#Elementary Methods, Assessment and Clinical in Physical Education#
+2821#ART#376#3#Portraiture in Photography#
+2828#MUS#160#1#Vocal Jazz I#
+2831#BIO#560#4#Symposium in Biology#(Range of Credits: 1-4) 
+2838#PHY#550#13#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+2841#FRE#202#3#Intermediate French II#(General Education) 
+2846#MIC#350#3#Bacterial Diversity#
+2851#MUA#307#1#Applied Trumpet#
+2856#GEO#347#3#Geoarchaeology#(Cross Listed: ARC/ESC/GEO) 
+2863#HIS#407#3#State and Society#
+2869#HIS#356#3#History of Mexico#
+2872#EDS#309#2#Education In a Global Society (Early Adolescence-Adolescence)#
+2878#ECO#330#3#Labor Economics#
+2881#ARC#347#3#Geoarchaeology#(Cross Listed: ARC/ESC/GEO) 
+2885#CHE#498#4#Community Health Education Preceptorship#(Range of Credits: 1-15) 
+2891#PHY#553#2#Topics in Physics and Astronomy#(Cross Listed: AST/PHY) (Range of Credits: 1-3) 
+2896#MUA#209#1#Applied Euphonium#
+2902#BIO#590#2#Current Topics in Biology Education#(Range of Credits: 1-3) 
+2907#REC#499#1#Seminar in Recreation#(Range of Credits: 1-3) 
+2913#ARC#509#3#Readings and Research in Archaeology#(Range of Credits: 1-3) 
+2920#HIS#450#7#History Internship/Field Experience#(Range of Credits: 3-12) 
+2926#EFN#575#2#Special Topics Seminar in Education#(Range of Credits: 1-3) 
+2930#ESL#155#12#Special Topics in ESL#(Range of Credits: 1-16) 
+2931#PSY#320#3#Human Motivation#
+2935#IB#450#1#International Business Internship#(Range of Credits: 1-6) 
+2942#SPA#598#3#Independent Study#(Range of Credits: 1-3) 
+2948#SOC#105#3#Introduction to LGBT Studies#(Cross Listed: SOC/WGS) 
+2955#MTH#505#3#Statistical Methods#
+2961#EDS#495#7#Teaching Internship#(Range of Credits: 3-15) 
+2968#SHE#495#8#Teaching Internship#(Range of Credits: 3-15) 
+2973#BIO#260#3#Special Topics in Biology#(Range of Credits: 1-3) 
+2977#FIN#556#3#Real Estate Principles#
+2982#MGT#450#2#College of Business Administration Internship#(Range of Credits: 1-6) 
+2987#HIS#315#3#History of Feminist Thought#(Cross Listed: HIS/WGS) 
+2992#ART#250#3#Studio Art for Non-Art Majors#
+2996#INS#350#2#Independent Foreign Research#(Range of Credits: 1-6) 
+2998#AST#450#8#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3004#MIC#450#3#Internship in Microbiology#(Range of Credits: 1-3) 
+3005#SHE#575#1#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+3010#EDS#495#4#Teaching Internship#(Range of Credits: 3-15) 
+3011#ESL#255#8#Special Topics in ESL#(Range of Credits: 1-16) 
+3013#ERS#500#2#Individual Study in Ethnic and Racial Studies#(Range of Credits: 1-3) 
+3017#FIN#380#3#Principles of Investment#
+3019#GEO#560#3#Environmental Hazards and Land Use#(Cross Listed: ESC/GEO) 
+3020#SPE#431#3#Language Development and Communication Disorders#
+3027#REC#497#2#Special Projects in Recreation Management#(Range of Credits: 1-3) 
+3032#ESS#259#3#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+3036#BIO#528#3#Advanced Nutrition for the Health Professions#
+3039#CST#350#3#Organizational Communication#
+3042#MTH#442#3#Mathematical Statistics II#
+3045#HIS#305#3#History of Motherhood in the United States#(Cross Listed: HIS/WGS) 
+3049#HIS#348#3#Renaissance and Reformation#
+3053#ANT#266#3#Anthropology of Food#
+3054#ENG#207#3#Multicultural Literature of the United States#(General Education) (Cross Listed: ENG/ERS) 
+3058#BIO#304#3#Plant Biology#
+3059#EDS#521#3#Teaching General Science Methods-Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#
+3063#ECO#435#3#Law and Economics#
+3065#ENG#311#3#Critical Theory#
+3066#ECO#450#2#College of Business Administration Internship#(Range of Credits: 1-6) 
+3068#FRE#303#3#Advanced French I#
+3075#HP#106#2#Introduction to Health Related Careers#(Cross Listed: HP/HPR) 
+3080#EFN#499#1#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+3081#EDS#495#11#Teaching Internship#(Range of Credits: 3-15) 
+3087#ARC#335#3#Human Skeletal Anatomy and the Anthropological Study of the Dead#(Cross Listed: ANT/ARC) 
+3089#BIO#567#2#Neurobiology Laboratory Techniques#
+3090#ESC#460#3#Environmental Hazards and Land Use#(Cross Listed: ESC/GEO) 
+3092#PUB#342#3#Urban Administration#
+3095#CHE#475#2#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+3100#HED#523#1#Sexual Health Promotion Persons with Disabilities#
+3105#MGT#485#3#Collective Bargaining#
+3110#ECE#213#3#Introduction to Early Childhood Education#
+3114#TSL#350#2#ESL Program Development#(Range of Credits: 1-6) 
+3115#CST#450#4#Internship in Communication Studies#(Range of Credits: 1-6) 
+3117#TSL#400#4#Teaching English to Speakers of Other Languages (TESOL) Policies and Program Models#
+3118#PUB#450#8#Internship in Public Administration#(Range of Credits: 1-12) 
+3125#ENG#450#3#English Internship#(Range of Credits: 2-6) 
+3131#PHY#432#3#Advanced Electrodynamics#
+3136#THA#210#3#Foundations of Theatrical Production#
+3137#CS#452#3#Artificial Intelligence and Pattern Recognition#
+3142#CHM#356#2#Curriculum and Assessment in Math and Science#(Cross Listed: BIO/CHM/PHY) 
+3144#ART#419#3#Individual Problems in Printmaking#
+3149#GEO#450#7#Geography Internship#(Cross Listed: ESC/GEO) (Range of Credits: 3-12) 
+3151#BIO#333#3#Radiation Biology#
+3153#ERS#210#3#Literature of Black America#(General Education) (Cross Listed: ENG/ERS) 
+3160#PHY#472#3#Particle Physics#
+3163#FIN#362#3#Commercial Property/Liability Insurance and Risk Management#
+3167#THA#450#13#Internship in Theatre Arts#(Range of Credits: 3-15) 
+3169#NMT#405#3#Radiation Protection#(Range of Credits: 2-3) 
+3171#CST#332#3#Intercultural Communication#
+3176#FRE#301#3#Sound, Speech, and Proficiency#
+3178#POL#333#3#Asian Government and Politics#
+3182#BIO#210#3#Animal Biology#
+3185#GEO#476#3#Geography/Earth Science Topics for Teachers#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+3187#EDS#413#3#Teaching Social Studies: Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#
+3194#MTH#443#3#Categorical Data Analysis#
+3196#PSY#259#3#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+3199#MKT#365#3#Promotions and Advertising Management#
+3205#PHL#321#3#American Indian Thought#(Cross Listed: ERS/PHL) 
+3206#ESS#407#3#Sport Management and Society#
+3210#CYC#450#6#Internship in Child/Youth Care#(Range of Credits: 1-6) 
+3217#BIO#466#3#Human Molecular Genetics#
+3224#THA#220#3#Acting I: Fundamentals#
+3229#DOS#443#1#Seminar in Medical Dosimetry#
+3235#THA#330#3#Scene Painting#
+3240#RT#370#2#Health Care Systems and Human Resources in Radiation Therapy#
+3243#PSY#302#3#Environmental Issues: Applied Psychology#
+3247#HIS#414#3#History of Modern Ireland#
+3252#PSY#301#3#Theory of Knowledge#(Cross Listed: PHL/PSY) 
+3255#RT#474#4#Clinical Practicum IV#
+3261#PHY#450#10#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3263#CS#340#3#Software Design III: Abstract Data Types#
+3264#HWM#385#3#Marketing and Communication for Wellness Managers#
+3270#MKT#440#3#Comparative Marketing Systems#
+3276#CS#549#3#Advances in Software Engineering#
+3281#PSY#100#3#General Psychology#(General Education) 
+3288#ANT#499#3#Seminar in Anthropology#(Range of Credits: 2-3) 
+3290#CS#572#3#Internet of Things#
+3296#CS#421#3#Programming Language Concepts#
+3303#CHE#498#8#Community Health Education Preceptorship#(Range of Credits: 1-15) 
+3308#MTH#207#5#Calculus I#(General Education) 
+3309#ART#162#3#Drawing Foundations#
+3312#MIC#299#1#Introduction to Microbiology Research#(Range of Credits: 1-2) 
+3319#SPE#583#11#Student Teaching Cross-Categorical Special Education: Middle Childhood-Early Adolescence#
+3324#CHE#553#1#Cultural Issues in Health Education: Ethnic, Racial, Religious, and Familial Groups#(Range of Credits: 1-3) 
+3330#ESS#486#2#Athletic Training Clinical V#
+3336#BIO#435#3#Molecular Biology#
+3337#EDS#421#3#Teaching General Science Methods-Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#
+3340#RUS#305#3#Golden Age Russian Literature and Culture#(General Education) 
+3344#HP#310#3#Pathophysiology#(Cross Listed: HP/RT) 
+3345#ECE#401#7#Student Teaching: Kindergarten#(Range of Credits: 4-8) 
+3346#SPA#202#4#Intermediate Spanish II#(General Education) 
+3347#HIS#101#3#Global Origins of the Modern World#(General Education) 
+3352#SPA#101#4#Elementary Spanish I#
+3358#PHL#300#3#Topics in Philosophy#
+3359#ENG#403#3#Individual Projects#(Range of Credits: 1-3) 
+3364#HWM#300#3#Introduction to Human Health#
+3367#ENG#340#3#Children's Literature#(Cross Listed: EDM/ENG) 
+3372#SPE#214#3#Teaching and Learning about Deafness and Communication II#
+3373#REC#495#2#Independent Study in Recreation#(Range of Credits: 1-3) 
+3376#WGS#360#3#Hip Hop Culture, Race, and Gender#
+3381#ARC#340#3#Origins of Cities#(Cross Listed: ARC/HIS) 
+3388#SPE#530#1#Seminar in Special Education#
+3389#HIS#332#3#Ancient Rome and the Mediterranean#(Cross Listed: ARC/HIS) 
+3395#DOS#516#1#Fundamentals of Radiation Safety#
+3397#CHE#475#3#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+3399#MIC#479#2#Microbiology Laboratory Assistant#(Range of Credits: 1-2) 
+3400#BIO#440#2#Bioinformatics#(Cross Listed: BIO/MIC) 
+3401#MLG#335#3#Service Learning in Latin America#
+3405#MUS#237#1#Music Reading & Aural Skills I#
+3410#HIS#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+3413#RTH#327#3#Therapeutic Recreation Populations II#
+3416#ARC#305#3#Indigenous Agricultural Societies: Past & Present#(Cross Listed: ANT/ARC) 
+3423#BIO#536#1#Molecular Biology Laboratory#
+3425#CS#364#3#Introduction to Database Management Systems#
+3432#ENG#313#3#Prose Style and Editing#
+3437#NMT#412#5#Clinical Nuclear Practicum I#(Range of Credits: 3-9) 
+3439#MUA#309#1#Applied Euphonium#
+3446#WGS#338#3#Sociological Aspects of Work and Life#(Cross Listed: SOC/WGS) 
+3448#ENG#467#3#Victorian Poets#
+3451#CHI#398#1#Directed Studies#(Range of Credits: 1-3) 
+3452#PSY#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+3457#ESS#309#2#Strength Training Clinical#
+3461#RDG#475#2#Special Topics Seminar in Reading Education#(Range of Credits: 1-3) 
+3462#ESC#570#1#Special Topics in Geography/Earth Science#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+3464#PSY#315#3#Behavior Modification#
+3466#HIS#301#3#Women in the Modern United States: 1890-Present#(Cross Listed: HIS/WGS) 
+3472#THA#271#2#Singing for the Stage#(Range of Credits: 1-2) 
+3479#MUS#462#1#Chamber Choir IV#
+3483#CI#695#2#Supervision of Student Teaching#(Range of Credits: 1-3) 
+3484#GEO#525#3#Biogeography#(Cross Listed: ESC/GEO) 
+3485#ANT#450#3#Internship in Anthropology#(Range of Credits: 3-15) 
+3491#SOC#216#3#Society and Schools#
+3492#HED#595#3#Independent Study in Health Education#(Range of Credits: 1-3) 
+3496#MUS#230#1#Jazz Orchestra II#
+3497#ESL#201#4#ESL Reading#
+3504#ANT#450#12#Internship in Anthropology#(Range of Credits: 3-15) 
+3505#CHE#466#1#Worksite Health Promotion#(Range of Credits: 1-3) 
+3509#GEO#450#11#Geography Internship#(Cross Listed: ESC/GEO) (Range of Credits: 3-12) 
+3513#MIC#554#2#Mechanisms of Microbial Pathogenicity#
+3519#RT#390#2#Medical Imaging#
+3524#ECO#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+3529#PHY#474#4#Advanced Computational Physics#
+3532#PHY#450#11#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3536#PSY#440#3#Psychopharmacology#
+3541#ECO#474#3#Economic Forum#(Range of Credits: 1-3) 
+3546#PHY#450#3#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3547#ART#375#3#Special Projects in Photography#
+3553#MUS#372#3#General Music in the Middle/Senior High School#
+3555#MGT#449#3#Administrative Policy Determination#
+3561#SOC#450#11#Internship in Sociology#(Range of Credits: 3-15) 
+3568#NUT#200#3#Human Nutrition#
+3571#CST#430#3#Advanced Topics in Interpersonal Communication#
+3578#ARC#340#3#Origins of Cities#(Cross Listed: ARC/HIS) 
+3581#ANT#346#3#Ethnoarchaeology and Experimental Archaeology#(Cross Listed: ANT/ARC) 
+3584#PSY#415#3#Multicultural Counseling#(Cross Listed: ERS/PSY) 
+3585#PHY#155#4#Solar System Astronomy#(General Education) (Cross Listed: AST/PHY) 
+3591#POL#450#8#Internship in Political Science#(Range of Credits: 1-12) 
+3598#HIMT#490#3#Capstone Project#(Cross Listed: HIMT/IS) 
+3601#DOS#515#1#Computers & Networking in Radiation Oncology#
+3606#HIS#322#3#History of Public Education in United States#
+3607#ENG#482#3#Advanced Study of Women's Literature#
+3611#ESS#442#2#Aging and Physical Activity#
+3614#FIN#426#3#Real Estate Finance#
+3620#INS#300#7#Foreign Study#(Range of Credits: 3-16) 
+3627#CLI#540#1#Clinical Parasitology#
+3634#ESS#259#2#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+3637#THA#320#3#Acting II: Characterization#
+3639#ESS#259#2#Girls and Women in Sport#(Cross Listed: ESS/PSY/WGS) (Range of Credits: 1-3) 
+3640#AST#450#11#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3647#SHE#495#7#Teaching Internship#(Range of Credits: 3-15) 
+3649#HED#495#2#Independent Study in Health Education#(Range of Credits: 1-3) 
+3650#ENG#356#3#European Literature in Translation#
+3655#FIN#575#3#Investment Analysis and Portfolio Management#
+3661#GEO#455#3#Web Mapping#(Cross Listed: ESC/GEO) 
+3666#SPA#410#3#Advanced Conversation#
+3668#SHE#494#12#Student Teaching: Early Childhood-Adolescence#(Range of Credits: 3-15) 
+3674#ENG#050#3#Fundamentals of Composition#
+3675#ARC#396#3#Ancient Syria#(Cross Listed: ARC/HIS) 
+3678#FIN#485#3#Problems and Cases in Finance#
+3680#PSY#200#1#Orientation to the Psychology Major#
+3683#NMT#423#3#Radiopharmacy#(Range of Credits: 1-3) 
+3687#HIS#396#3#Ancient Syria#(Cross Listed: ARC/HIS) 
+3690#MUS#219#1#MannerChoir II#
+3691#INS#360#1#International Service Learning#(Range of Credits: 1-3) 
+3697#CST#374#3#Television Workshop#(Range of Credits: 1-3) 
+3704#CHE#498#13#Community Health Education Preceptorship#(Range of Credits: 1-15) 
+3707#MIC#461#1#Capstone in Microbiology#
+3710#PHL#497#1#Apprenticeship in Philosophy#(Range of Credits: 1-3) 
+3713#ESS#287#2#Athletic Training Clinical II#
+3714#SOC#354#3#Peoples and Cultures of Latin America#(Cross Listed: ANT/SOC) 
+3721#PHY#550#4#Physics and Astronomy Internship#(Cross Listed: AST/PHY) (Range of Credits: 3-15) 
+3726#CI#499#6#Individual Study#(Cross Listed: CI/EFN) (Range of Credits: 1-6) 
+3733#ENV#450#3#Internship in Environmental Studies#
+3737#EDS#308#3#Foundations of Literacy#
+3742#CHM#405#2#Advanced Organic Synthesis#
+3743#GEO#450#3#Geography Internship#(Cross Listed: ESC/GEO) (Range of Credits: 3-12) 
+3749#NMT#495#3#Special Topics in Nuclear Medicine#(Range of Credits: 1-3) 
+3753#IS#451#3#CBA Management Information Systems Internship#(Range of Credits: 1-6) 
+3754#SOC#390#3#Early Sociological Theory#
+3759#ARC#285#3#Archaeology of Mexico and Central America#
+3763#SOC#261#3#Technology in Society#(General Education) 
+3765#SOC#307#3#International Development and Culture Change#(Cross Listed: ANT/SOC) 
+3771#EFN#586#1#Multicultural Education#(Range of Credits: 1-3) 
+3774#CST#460#3#Plan/Implementing/Evaluation Public Relations Campaign#
+3779#HWM#350#3#Research and Statistics for Wellness Managers#
+3782#MGT#408#3#The Global Responsibility of Business#
+3784#RTH#404#3#Coping with Pediatric Disabling Conditions#
+3791#IS#490#3#Capstone Project#(Cross Listed: HIMT/IS) 
+3797#CST#374#1#Television Workshop#(Range of Credits: 1-3) 
+3800#CLI#480#3#Laboratory Management and Education#
+3806#PSY#347#3#Empathic Listening Skills#
+3808#NMT#418#2#Clinical Procedures Review#(Range of Credits: 1-3) 
+3812#SPA#427#1#Spanish Grammar for Teachers#
+3816#CHI#102#4#Elementary Chinese II#(General Education) 
+3823#MUA#216#1#Applied Violin#
+3828#MUS#342#1#Keyboard Accompanying#
+3830#MUS#310#3#The Singer/Actor#(Cross Listed: MUS/THA) 
+3834#ESC#250#3#Maps and GIS#(Cross Listed: ESC/GEO) 
+3841#ENG#215#3#African American Authors#(General Education) (Cross Listed: ENG/ERS) 
+3845#MUS#229#1#Woodwind Techniques III#
+3850#PHL#494#3#Advanced Topics in Philosophy#
+3851#MLG#398#1#World Languages: Advanced#(Range of Credits: 1-4) 
+3858#ARC#374#3#Ancient Turkey#(Cross Listed: ARC/HIS) 
+3865#POL#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+3866#ESC#425#3#Biogeography#(Cross Listed: ESC/GEO) 
+3872#CLI#465#2#Clinical Immunology#
+3878#PSY#481#3#Individual Projects in Psychology#(Range of Credits: 1-3) 
+3885#ART#405#3#Advanced Painting#
+3886#HIS#386#3#Women and Gender in Africa#
+3889#ANT#250#3#Women and Society#
+3895#PHY#374#4#Computational Physics#
+3897#ECO#312#3#American Economic Development#
+3903#ECO#450#6#College of Business Administration Internship#(Range of Credits: 1-6) 
+3908#WGS#230#3#Women's Diversity: Race, Class, and Culture#(General Education) 
+3915#REC#520#3#Revenue Management in Recreation Enterprises#
+3916#HIS#314#3#The Holocaust#
+3922#MTH#547#3#Nonparametric Statistics#
+3924#CYC#450#5#Internship in Child/Youth Care#(Range of Credits: 1-6) 
+3931#AST#363#1#Astrophysics Laboratory#(Cross Listed: AST/PHY) 
+3932#CS#519#1#Topics in Computer Science#(Range of Credits: 1-3) 
+3936#HIS#300#2#Topics in History#(Range of Credits: 1-3) 
+3940#MUS#432#2#Counterpoint#
+3943#WGS#316#3#Gender, Sexuality, and Social Change in Religion#(Cross Listed: SOC/WGS) 
+3949#HIS#352#3#History of Modern Germany#
+3951#CS#499#1#Research in Computer Science#(Range of Credits: 1-3) 
+3952#CST#280#3#Introduction to Communication and Leadership#
+3959#HIS#368#3#History of Babylonian Language and Culture I#(Cross Listed: ARC/HIS) 
+3963#ESL#200#4#ESL Speaking/Listening#
+3964#HED#547#1#The Body/Mind Connection in Health#
+3965#ESC#576#2#Geography/Earth Science Topics for Teachers#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+3971#FRE#325#3#Modern and Contemporary France#
+3972#HIS#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+3974#CHE#340#3#Epidemiology and Community Health Problems#
+3979#ESL#101#4#ESL Reading#
+3981#SOC#420#3#Health Care and Illness#
+3982#PHL#302#3#Symbolic Logic#
+3987#ESL#255#6#Special Topics in ESL#(Range of Credits: 1-16) 
+3988#WGS#240#3#Contemporary Women's Issues#
+3992#ERS#351#3#Ethnic and Racial Relations#
+3995#HIS#250#3#The Asian World#
+3999#PHL#206#3#History of Modern Philosophy#
+4004#MKT#400#1#Marketing Forum#(Range of Credits: 1-3) 
+4006#CHM#521#2#Advanced Topics in Chemistry#(Range of Credits: 1-3) 
+4010#SOC#324#3#Criminal Justice#
+4015#SOC#310#3#Social Stratification#
+4016#FIN#400#1#Finance Forum#(Range of Credits: 1-3) 
+4019#HIS#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+4021#CHE#498#6#Community Health Education Preceptorship#(Range of Credits: 1-15) 
+4026#PSY#210#3#Developmental Psychology#
+4028#CLI#495#3#Independent Study in Medical Laboratory Science#(Range of Credits: 1-3) 
+4033#EDS#452#3#Teaching in Schools#
+4040#GER#598#2#Independent Study#(Range of Credits: 1-3) 
+4047#ESC#450#11#Geography Internship#(Cross Listed: ESC/GEO) (Range of Credits: 3-12) 
+4048#ESL#255#12#Special Topics in ESL#(Range of Credits: 1-16) 
+4054#POL#307#3#Political Language and Communications#
+4058#SOC#408#4#Teaching and Learning History & Social Studies in the Secondary School#(Cross Listed: ECO/GEO/HIS/POL/PSY/SOC) 
+4061#ESC#499#2#Undergraduate Research#(Cross Listed: ESC/GEO) (Range of Credits: 1-3) 
+4062#EDS#493#5#Student Teaching: Early Childhood-Middle Childhood/Middle Childhood-Early Adolescence#(Range of Credits: 3-15) 
+4068#CHM#431#3#Advanced Inorganic Chemistry#
+4071#PHL#311#3#Philosophy of Language#
+4072#SHE#575#2#Workshop in Health Education#(Cross Listed: CHE/SHE) (Range of Credits: 1-3) 
+4075#MUS#322#3#Choral Techniques#
+4079#PHY#469#4#Teaching and Learning Science in the Secondary School#(Cross Listed: BIO/CHM/PHY) 
+4086#HP#105#3#Analysis of Health, Wellness and Disease for the Health Care Consumer#(General Education) 

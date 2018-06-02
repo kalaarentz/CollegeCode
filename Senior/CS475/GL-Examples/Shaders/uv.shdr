@@ -1,0 +1,81 @@
+///VERT
+#version 410
+
+precision highp float;
+
+layout(location=0) in vec3 position;
+layout(location=1) in vec3 normal;
+layout(location=2) in vec2 uv;
+
+uniform mat4 proj;
+uniform mat4 modelview;
+
+out vec3 fragpos;
+out vec3 fragnorm;
+out vec2 fraguv;
+
+void main(void) {
+  fragpos = position;
+  fragnorm = normal;
+  fraguv = uv;
+
+  gl_Position = proj * modelview * vec4(position, 1.0);
+}
+
+
+///FRAG
+#version 410
+precision highp float;
+
+in vec3 fragpos;
+in vec3 fragnorm;
+in vec2 fraguv;
+
+uniform vec3 lightpos;
+uniform vec4 material;
+uniform vec3 color;
+uniform mat4 modelview;
+uniform float stripewidth;
+uniform int stripecnt;
+uniform int vstripe;
+
+out vec3 outcolor;
+
+// assume lightpos is at infinity, eye is at origin
+void main(void) {
+  vec3 transposition = vec3(modelview * vec4(fragpos,1));
+  vec3 transnormal = normalize(transpose(inverse(mat3(modelview))) * fragnorm);
+
+  float ambient = material[0];
+
+  float diffcmp = max(0.0, dot(transnormal, normalize(lightpos)));
+  float diffuse = material[1] * diffcmp;
+
+  vec3 reflvec = reflect(-normalize(lightpos),transnormal);
+  vec3 eyedir = normalize(-transposition);
+  float specdot = max(0.0, dot(eyedir,reflvec));
+  float speccmp = pow(specdot,material[3]);
+  vec3 specclr = vec3(diffuse > 0);
+  float specular = material[2] * speccmp;
+
+  vec3 uvcolor = color;
+  float ll = 0.5 - stripewidth/2.0 - 0.03;
+  float lu = 0.5 - stripewidth/2.0 + 0.03;
+  float ul = 0.5 + stripewidth/2.0 - 0.03;
+  float uu = 0.5 + stripewidth/2.0 + 0.03;
+  float b1 = smoothstep(ll,lu,fract(stripecnt*fraguv[0]));
+  float b2 = 1 - smoothstep(ul,uu,fract(stripecnt*fraguv[0]));
+  float b = b1*b2;
+
+  if (vstripe > 0) {
+    b1 = smoothstep(ll,lu,fract(stripecnt*fraguv[1]));
+    b2 = 1 - smoothstep(ul,uu,fract(stripecnt*fraguv[1]));
+    b = b1*b2 * b;
+  }
+
+  uvcolor = (1-b) * color + b * vec3(1,1,1);
+
+  outcolor = clamp(uvcolor * (ambient + diffuse) + specclr * specular,0,1);
+}
+
+///END

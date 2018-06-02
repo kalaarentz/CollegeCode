@@ -1,0 +1,96 @@
+body {
+    background-color : darkorange;
+}
+header {
+    background-color : darkgreen;
+    border-bottom : 4px solid black;
+    border-color : black;
+    margin : 15px;
+}
+header h1 {
+    color : white;
+    padding-top : 10px;
+    padding-left : 15px;
+    margin-bottom : -3px;
+}
+#logo {
+    background : url(george.jpg); 
+    width : 100px; 
+    height : 100px;
+    display : block;
+    float : right;
+    border-radius : 45%
+}
+footer {
+    background-color : darkgreen;
+    border-top : 4px solid black;
+    border-color : black;
+    padding : 5px;
+    margin : 15px;
+}
+span.subtitle{
+    color : grey;
+    font-size : 175%;
+    padding-left : 15px;
+}
+header span.author{
+    color : lawngreen
+}
+#navbar ol {
+    list-style-type : none;
+    margin-top : -1px;
+}
+#navbar ol li{
+    display : inline;
+}
+#navbar ol li a{
+    color : yellow;
+    text-decoration : none;
+}
+#navbar ol li a:hover{
+    background-color : black;
+}
+#navbar ol li:nth-of-type(2n)::before{
+    content : " > ";
+    color : white;
+}
+#navbar ol li:nth-of-type(2n)::after{
+    content : " > ";
+    color : white;
+}
+article.blog {
+    padding : 10px;
+    margin : 15px;
+    background-color : yellow;
+    border-radius : 15px;
+}
+article.blog:not([id]){
+    color : grey;
+}
+article.blog:not([id]) div.blog-content{
+    display : none;
+}
+article.blog h1 {
+    font-size : 250%;
+    margin-bottom : -1px;
+}
+div.blog-header span.date {
+    display : block;
+    color : grey;
+    font-family : monospace;
+}
+div.blog-header span.author{
+    display : block;
+    font-style : normal;
+}
+div.blog-summary {
+    margin : 7px;
+    padding : 10px;
+    background-color : lightyellow;
+    font-style : italic;
+    font-weight : 600;
+}
+span.crossref {
+    border-bottom-style : dotted;
+    border-bottom-color : aqua;
+}

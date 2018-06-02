@@ -1,0 +1,126 @@
+import java.awt.Color;
+import java.awt.Component;
+import java.awt.Container;
+import java.util.Arrays;
+
+import javax.sound.sampled.Line;
+import javax.swing.JComponent;
+import javax.swing.JTextField;
+
+public class Driver extends ThreeButtons {
+
+	private ThreeButtonFrame window;
+	private Oval spot;
+
+	private int x = 250;
+	private int y = 200;
+	public static void main(String[] args ) {
+		Driver d = new Driver();
+//		int[] x = {4,-5,78,34,0,-56};
+//
+//		System.out.println(Arrays.toString(x));
+//		selectionSort(x);
+//		System.out.println(Arrays.toString(x));
+//		
+//		int[] z = {4,-5,78,34,0,-56};
+//		System.out.println(Arrays.toString(x));
+//		selectionSortDescending(x);
+//		System.out.println(Arrays.toString(x));
+		
+		Component c1, c2 = null;
+		Container b1, b2;
+		JComponent j1 = null, j2;
+		Line line1, line2;
+		Rectangle rect1, rect2;
+		Oval oval1 = null, oval2;
+		System.out.println( c2 instanceof Container );
+		System.out.println( oval1 instanceof Oval );
+		System.out.println( c2 instanceof JComponent );
+		System.out.println( j1 instanceof Component );
+	}
+
+	public Driver() {
+
+
+		//		ClassA a = new ClassA(1);
+		//		ClassB b = new ClassB(2,3);
+		//		ClassA c = b;
+		//		//ClassB d = a;
+		//
+		//		int x = a.getValue();
+		//		int y = b.getValue();
+		//		int z = c.getValue();
+		//
+		//		System.out.println("x: " + x);
+		//		System.out.println("y: " + y);
+		//		System.out.println("z: " + z);
+		//
+		//		System.out.println("call to super from B: " + b.callToSuper());
+		//		System.out.println("getString from B: " + b.getString());
+		//		System.out.println("getString from B: " + b.callToSuperString());
+
+		//		window = new ThreeButtonFrame("Diamond Star");
+		//		spot = new Oval( x,y, 100, 100);
+		//		spot.setBackground( Color.green );
+		//		window.add(spot, 0);
+		//		window.repaint();
+		//		
+		//		JTextField text = new JTextField("Hello");
+		//		text.setBounds(0,40,50,50);
+		//		window.add(text,0);
+		//		
+		//		String s1 = text.getText();
+
+	}
+	@Override
+	public void leftAction() {
+		// TODO Auto-generated method stub
+		x = x-10;
+		spot.setBounds(x, 200,100,100);
+	}
+
+	@Override
+	public void midAction() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void rightAction() {
+		// TODO Auto-generated method stub
+		x = x+10;
+		spot.setBounds(x, 200,100,100);
+	}
+
+
+	public static void selectionSort(int[] arr){  
+		for (int i = 0; i < arr.length - 1; i++)  
+		{  
+			int index = i;  
+			for (int j = i + 1; j < arr.length; j++){  
+				if (arr[j] < arr[index]){  
+					index = j;//searching for lowest index  
+				}  
+			}  
+			int smallerNumber = arr[index];   
+			arr[index] = arr[i];  
+			arr[i] = smallerNumber;  
+		}  
+	}   
+	
+	public static void selectionSortDescending(int[] arr){  
+		for (int i = 0; i < arr.length - 1; i++)  
+		{  
+			int index = i;  
+			for (int j = i + 1; j < arr.length; j++){  
+				if (arr[j] > arr[index]){  
+					index = j; 
+				}  
+			}  
+			int smallerNumber = arr[index];   
+			arr[index] = arr[i];  
+			arr[i] = smallerNumber;  
+		}  
+	} 
+
+}

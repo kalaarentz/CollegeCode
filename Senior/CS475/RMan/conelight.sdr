@@ -1,0 +1,60 @@
+#!version 2.2.6
+light
+#!parameters:
+uniform	float	ringangle
+uniform	float	ringwidth	=	0.01
+uniform	float	coneangle
+uniform	point	from	=	 [ 1 1 1 ]
+uniform	point	to	=	 [ 0 0 0 ]
+uniform	color	lightcolor	=	"rgb"  [ 1 1 1 ]
+uniform	float	intensity	=	1
+#!variables:
+uniform	vector	temporary_0
+varying	vector	axis
+varying	vector	pv
+varying	float	d
+varying	float	i
+varying	float	pa
+uniform	vector	temporary_1
+varying	vector	temporary_2
+varying	float	temporary_3
+varying	vector	temporary_4
+varying	vector	temporary_5
+varying	float	temporary_6
+varying	float	temporary_7
+#!Init:
+	divff             	ringangle 3.141592654 12
+	divff             	coneangle 3.141592654 4
+	vfromf            	temporary_0 1 1 1
+	cfrom             	lightcolor "rgb" temporary_0
+	return            
+#!Code:
+	subvv             	temporary_1 to from
+	normalize	("v=v")  temporary_0  temporary_1 
+	vuvector           axis temporary_0
+	vuvector           temporary_2 from
+	vufloat            temporary_3 coneangle
+	illuminate        	 temporary_2  axis  temporary_3  #!Label4
+	vuvector           temporary_5 from
+	subvv             	temporary_4 P temporary_5
+	normalize	("v=v")  pv  temporary_4 
+	dot               	temporary_6 pv axis
+	acos	("f=f")  pa  temporary_6 
+	vufloat            temporary_7 ringangle
+	subff             	temporary_6 temporary_7 pa
+	abs	("f=f")  d  temporary_6 
+	vufloat            temporary_7 ringwidth
+	flt               	temporary_6 d temporary_7
+	if                	temporary_6 #!Label6
+	vfromf            	temporary_1 intensity
+	mulvv             	temporary_0 temporary_1 lightcolor
+	vuvector           Cl temporary_0
+#!Label6:
+	else              	#!Label5
+	vfromf            	temporary_0 0
+	vuvector           Cl temporary_0
+#!Label5:
+	endif             
+#!Label4:
+	endilluminate     
+	return            

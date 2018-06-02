@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Card Board</title>
+    <script src="js/cardboard_core.js"></script>
+    <link href="css/cardboard.css" rel="stylesheet" />
+    <script src="js/cardboard.js"></script>
+  </head>
+  <body>
+    <div id="header" class="header">
+      Card Board
+      <span class="profile">jdoe@uwlax.edu</span>
+    </div>
+
+    <div id="topbar">
+      <input type="text" placeholder="description" id="description" class="input"/>
+      <input type="url" placeholder="url" id="url" class="input"/>
+      <input type="button" id="addButton" value="Add Card" onclick="addCard();" />
+    </div>
+    
+    
+    <div id="container">
+    </div>
+    
+    <div class="footer" id="footer">
+      &copy; The Card Board Team
+    </div>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+
+
+all: ex-1.exe
+
+CPPFLAGS=/I ..\SDL2-2.0.5\include /D Windows /EHsc
+
+main.obj:       main.cpp appCtl.h
+appCtl.obj:     appCtl.cpp appCtl.h draw.h trackball.h model.h stdModels.h
+draw.obj:       draw.cpp draw.h model.h
+trackball.obj:  trackball.cpp trackball.h
+
+SDL2.dll:
+    copy ..\SDL2-2.0.5\lib\x86\SDL2.dll
+
+assign-2.exe:	main.obj appCtl.obj trackball.obj draw.obj model.obj stdModels.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib opengl32.lib SDL2main.lib
+
+
+clean:
+    del *.obj *.exe SDL2.dll

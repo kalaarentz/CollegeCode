@@ -1,0 +1,39 @@
+#
+# [YOUR NAME]
+# [DATE LAST MODIFIED]
+#
+CC=gcc
+CFLAGS=-Wall -g -O0
+LDFLAGS=-lm
+
+#
+# List all of the binary programs you want to build here
+# Separate each program with a single space
+#
+PROGS=fsplit
+
+#
+# First target: all
+# Compile all programs
+#
+all: $(PROGS)
+
+#
+# Compile Program 1
+#
+fsplit: fsplit.c fsplit.h
+	$(CC) -o fsplit fsplit.c $(CFLAGS) 
+
+
+#
+# Cleanup the files that we have created
+#
+clean:
+	$(RM) $(PROGS)
+	$(RM) -rf *.o *.dSYM
+	$(RM) test_out
+
+#
+# Tests
+#
+include given-tests/Makefile

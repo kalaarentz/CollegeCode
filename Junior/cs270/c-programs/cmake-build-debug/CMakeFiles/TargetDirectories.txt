@@ -1,0 +1,3 @@
+/Users/kalaarentz/Desktop/cs270/c-programs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kalaarentz/Desktop/cs270/c-programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kalaarentz/Desktop/cs270/c-programs/cmake-build-debug/CMakeFiles/c_programs.dir

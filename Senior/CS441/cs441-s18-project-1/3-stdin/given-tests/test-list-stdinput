@@ -1,0 +1,7 @@
+./stdinput,given-tests/stdinput-00-input.txt,given-tests/stdinput-00-output.txt,1
+./stdinput,given-tests/stdinput-01-input.txt,given-tests/stdinput-01-output.txt,1
+./stdinput,given-tests/stdinput-02-input.txt,given-tests/stdinput-02-output.txt,1
+./stdinput,given-tests/stdinput-03-input.txt,given-tests/stdinput-03-output.txt,1
+./stdinput,given-tests/stdinput-04-input.txt,given-tests/stdinput-04-output.txt,1
+./stdinput,given-tests/stdinput-05-input.txt,given-tests/stdinput-05-output.txt,1
+./stdinput,given-tests/stdinput-06-input.txt,given-tests/stdinput-06-output.txt,1

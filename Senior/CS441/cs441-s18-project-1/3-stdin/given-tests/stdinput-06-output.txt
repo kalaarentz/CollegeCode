@@ -1,0 +1,7 @@
+$$ #-----------------------------
+# Number of strings   : 0
+# Number of spaces    : 0
+# Number of digits    : 0
+# Number of lowercase : 0
+# Number of uppercase : 0
+#-----------------------------

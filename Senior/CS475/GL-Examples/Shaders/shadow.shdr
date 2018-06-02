@@ -1,0 +1,91 @@
+///VERT
+#version 410
+
+precision highp float;
+
+layout(location=0) in vec3 position;
+layout(location=1) in vec3 normal;
+
+uniform mat4 projVS;
+uniform mat4 viewVS;
+uniform mat4 projLS;
+uniform mat4 viewLS;
+uniform mat4 model;
+
+out vec3 fragpos;
+out vec3 fragnorm;
+out vec4 fragposLS;
+
+void main(void) {
+  vec4 posM = model * vec4(position,1.0);
+  vec4 posMV = viewVS * posM;
+  gl_Position = projVS * posMV;
+  fragpos = vec3(posMV);
+  fragnorm = transpose(inverse(mat3(viewVS * model))) * normal;
+  fragposLS = projLS * viewLS * posM;
+}
+
+
+///FRAG
+#version 410
+precision highp float;
+
+in vec3 fragpos;
+in vec3 fragnorm;
+in vec4 fragposLS;
+
+uniform vec3 lightpos;
+uniform vec4 material;
+uniform vec3 color;
+uniform bool depthonly;
+uniform sampler2D shadowMap;
+
+out vec3 outcolor;
+
+// assume lightpos is at infinity, eye is at origin
+void main(void) {
+
+  if (depthonly) {
+    //gl_FragDepth = gl_FragCoord.z;
+    outcolor = vec3(gl_FragCoord.z);
+    return;
+  }
+
+  vec3 normal = normalize(fragnorm);
+  vec3 lightdir = normalize(lightpos);
+
+  float ambient = material[0];
+
+  float diffcmp = max(0.0, dot(normal, lightdir));
+  float diffuse = material[1] * diffcmp;
+
+  vec3 reflvec = reflect(-lightdir,normal);
+  vec3 eyedir = normalize(-fragpos.xyz);
+  float specdot = max(0.0, dot(eyedir,reflvec));
+  float speccmp = pow(specdot,material[3]);
+  vec3 specclr = vec3(diffuse > 0);
+  float specular = material[2] * speccmp;
+
+  vec3 shadowpos = fragposLS.xyz / fragposLS.w;
+  shadowpos = shadowpos * 0.5 + 0.5;
+  float currentdepth = shadowpos.z;
+  float bias = 0.00001;
+
+  float notshadow = 0.0;
+  vec2 texelSize = 1.0 / textureSize(shadowMap,0);
+  for (int u = -2; u <= 2; u++) {
+    for (int v = -2; v <= 2; v++) {
+      float nearestdepth = texture(shadowMap,shadowpos.xy + vec2(u,v) * texelSize).r;
+      notshadow += float(currentdepth - bias <= nearestdepth);
+    }
+  }
+  notshadow /= 25.0;
+
+//  float nearestdepth = texture(shadowMap,shadowpos.xy).r; // use as sampler2DShadow
+//  float notshadow = float(currentdepth - bias <= nearestdepth);
+
+
+  outcolor = clamp(color * ambient + color * notshadow * diffuse + notshadow * specclr * specular,0,1);
+}
+
+///END

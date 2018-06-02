@@ -1,0 +1,28 @@
+
+
+all: ex-1.exe
+
+CPPFLAGS=/I ..\SDL2-2.0.5\include /I ..\glew-2.1.0\include /D Windows /EHsc
+
+main.o:					main.cpp appCtl.h
+appCtl.o:		  	appCtl.cpp appCtl.h trackball.h
+draw.o:			  	draw.cpp draw.h model.h
+model.o:				model.cpp model.h
+OBJModel.o:			OBJModel.cpp OBJModel.h model.h
+stdModels.o:		stdModels.cpp stdModels.h model.h
+trackball.o:		trackball.cpp trackball.h
+shaderUtil.o:   shaderUtil.cpp shaderUtil.h
+matrixUtil.o:   matrixUtil.cpp matrixUtil.h
+
+
+dll:
+    copy ..\SDL2-2.0.5\lib\x86\SDL2.dll
+    copy ..\glew-2.1.0\bin\Release\Win32\glew32.dll
+
+assign-3.exe:	main.obj appCtl.obj trackball.obj draw.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+all:  assign-3
+
+clean:
+    del *.obj *.exe SDL2.dll

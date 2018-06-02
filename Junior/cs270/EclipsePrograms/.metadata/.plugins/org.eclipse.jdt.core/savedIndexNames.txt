@@ -1,0 +1,8 @@
+INDEX VERSION 1.127+/Users/kalaarentz/Desktop/Fall_2016/cs270/EclipsePrograms/.metadata/.plugins/org.eclipse.jdt.core
+404596501.index
+1081461093.index
+4291878294.index
+1429501193.index
+643513239.index
+1499811056.index
+260394461.index

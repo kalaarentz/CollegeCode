@@ -1,0 +1,10 @@
+div.off {
+    display : none;
+}
+img.deleteButtonImage {
+    height : 20px;
+    width : 20px;
+}
+table.table-striped tr:nth-child(even) {
+    background-color : lightgrey;
+}

@@ -1,0 +1,64 @@
+// assume
+// - lightpos is at infinity, i.e. same direction for all points
+// - local eye is at origin
+// - color is vec3 to simplify code, i.e. no alpha possible
+///VERT
+#version 150
+
+precision highp float;
+
+in vec3 position;
+in vec3 normal;
+
+uniform mat4 proj;
+uniform mat4 modelview;
+
+out vec3 fragpos;
+out vec3 fragnorm;
+
+void main(void) {
+  fragpos = position;
+  fragnorm = normal;
+
+  gl_Position = proj * modelview * vec4(position, 1.0);
+}
+
+///FRAG
+#version 150
+precision highp float;
+
+in vec3 fragpos;
+in vec3 fragnorm;
+
+uniform vec3 lightpos;
+uniform vec4 material;
+uniform vec3 color;
+uniform mat4 modelview;
+
+out vec3 outcolor;
+
+// assume lightpos is at infinity, eye is at origin
+void main(void) {
+  mat3 invtrans = transpose(inverse(mat3(modelview)));
+
+  vec3 transposition = vec3(modelview * vec4(fragpos,1));
+  vec3 transnormal = normalize(invtrans * fragnorm);
+
+  vec3 lightdir = normalize(lightpos);
+
+  float ambient = material[0];
+
+  float diffcmp = max(0.0, dot(transnormal, lightdir));
+  float diffuse = material[1] * diffcmp;
+
+  vec3 eyedir = normalize(-transposition);
+  vec3 halfvec = normalize(eyedir + lightdir);
+  float specdot = max(0.0,dot(halfvec,transnormal));
+  float speccmp = pow(specdot,material[3]);
+  vec3 specclr = vec3(diffcmp > 0);
+  float specular = material[2] * speccmp;
+
+  outcolor = clamp(color * (ambient + diffuse) + specclr * specular,0,1);
+}
+
+///END

@@ -1,0 +1,114 @@
+///VERT
+#version 410
+
+precision highp float;
+
+layout(location=0) in vec3 position;
+layout(location=1) in vec3 normal;
+layout(location=2) in float tag;
+
+uniform mat4 proj;
+uniform mat4 modelview;
+
+out vec3 fragpos;
+out vec3 fragnorm;
+out float fragtag;
+out vec3 bary;
+
+void main(void) {
+  fragpos = position;
+  fragnorm = normal;
+  fragtag = tag;
+  bary = vec3(tag == 0,tag == 1,tag == 2);
+
+  gl_Position = proj * modelview * vec4(position, 1.0);
+}
+
+
+
+///FRAG
+#version 410
+precision highp float;
+
+in vec3 fragpos;
+in vec3 fragnorm;
+in float fragtag;
+in vec3 bary;
+
+uniform vec3 lightpos;
+uniform vec4 material;
+uniform vec3 color;
+uniform mat4 modelview;
+uniform int shaderoption;
+
+out vec3 outcolor;
+
+// assume lightpos is at infinity, eye is at origin
+void main(void) {
+  vec3 transposition = vec3(modelview * vec4(fragpos,1));
+  vec3 transnormal = normalize(transpose(inverse(mat3(modelview))) * fragnorm);
+
+  float ambient = material[0];
+
+  float diffcmp = max(0.0, dot(transnormal, normalize(lightpos)));
+  float diffuse = material[1] * diffcmp;
+
+  vec3 reflvec = reflect(-normalize(lightpos),transnormal);
+  vec3 eyedir = normalize(-transposition);
+  float specdot = max(0.0, dot(eyedir,reflvec));
+  float speccmp = pow(specdot,material[3]);
+  vec3 specclr = vec3(diffuse > 0);
+  float specular = material[2] * speccmp;
+
+  vec3 tagcolor;
+
+  switch (shaderoption) {
+    case 0:
+      tagcolor = color;
+      break;
+    case 1:
+      // smoothly shades color over face
+      tagcolor = max(0.0,(1 - fragtag)) * vec3(1,0,0)
+               + min(1.0,fragtag) * vec3(0,1,0)
+               + max(0.0,fragtag - 1) * vec3(0,0,1);
+      break;
+    case 2:
+      tagcolor = vec3( (fragtag <= 0.5) , (fragtag > 0.5) && (fragtag < 1.5) , (fragtag > 1.5) );
+      break;
+    case 3:
+      tagcolor = bary;
+      break;
+    case 4:
+      tagcolor = bary[0] * color;
+      break;
+    case 5:
+      tagcolor = 27 * (bary[0] * bary[1] * bary[2]) * color;
+      break;
+    case 6:
+      float a = bary[0] * bary[1] * bary[2];
+      tagcolor = int(a > 0.01) * color + int(a <= 0.01) * vec3(0,0,0);
+      break;
+    case 7:
+      int b = int(bary[0] > 0.05) * int(bary[1] > 0.05) * int(bary[2] > 0.05);
+      tagcolor = b * color + (1-b) * vec3(0,0,0);
+      break;
+    case 8:
+      float c = bary[0] * bary[1] * bary[2];
+      tagcolor = int(c > 0.01 && c < 0.015) * color + int(c <= 0.01 || c >= 0.015) * vec3(0,0,0);
+      break;
+    case 9:
+      float d = bary[0] * bary[1] * bary[2];
+      tagcolor = int(d > 0.01 && d < 0.02) * vec3(0,0,0) + int(d <= 0.01 || d >= 0.02) * color;
+      break;
+    case 10:
+      float e0 = fract(6 * bary[0]);
+      float e1 = fract(6 * bary[1]);
+      float e2 = fract(6 * bary[2]);
+      tagcolor = vec3(e0 <= 0.05 || e0 >= 0.95, e1 <= 0.05 || e1 >= 0.95, e2 <= 0.05 || e2 >= 0.95);
+      break;
+  }
+
+  outcolor = clamp(tagcolor * (ambient + diffuse) + specclr * specular,0,1);
+}
+
+///END

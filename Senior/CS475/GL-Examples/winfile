@@ -1,0 +1,75 @@
+
+CPPFLAGS=/I ..\SDL2-2.0.5\include /I ..\glew-2.1.0\include /D Windows /EHsc
+
+
+dll:
+    copy ..\SDL2-2.0.5\lib\x86\SDL2.dll
+    copy ..\glew-2.1.0\bin\Release\Win32\glew32.dll
+
+ex-1.exe: main.obj appCtl-1.obj draw-1.obj trackball.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-2.exe:	main.obj appCtl-2.obj trackball.obj draw-2.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-3.exe:	main.obj appCtl-3.obj trackball.obj draw-3.obj model.obj stdModels.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-4.exe:	main.obj appCtl-4.obj trackball.obj draw-4.obj model.obj stdModels.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-5.exe:	main.obj appCtl-5.obj trackball.obj draw-5.obj model.obj stdModels.obj OBJModel.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-6.exe:	main.obj appCtl-6.obj trackball.obj draw-6.obj model.obj stdModels.obj OBJModel.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-7.exe:	main.obj appCtl-7.obj trackball.obj draw-7.obj model.obj stdModels.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-8.exe:	main.obj appCtl-8.obj trackball.obj draw-8.obj shaderUtil.obj matrixUtil.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-9.exe:	main.obj appCtl-9.obj trackball.obj draw-9.obj shaderUtil.obj matrixUtil.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-10.exe:	main.obj appCtl-10.obj trackball.obj draw-10.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-11.exe:	main.obj appCtl-11.obj trackball.obj draw-11.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj
+    link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-12.exe:	main.obj appCtl-12.obj trackball.obj draw-12.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-13.exe:	main.obj appCtl-13.obj trackball.obj draw-13.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-14.exe:	main.obj appCtl-14.obj trackball.obj draw-14.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-15.exe:	main.obj appCtl-15.obj trackball.obj draw-15.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-16.exe:	main.obj appCtl-16.obj trackball.obj draw-16.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj Matrices.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-17.exe:	main.obj appCtl-17.obj trackball.obj draw-17.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj Matrices.obj bezier.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-18.exe:	main.obj appCtl-18.obj trackball.obj draw-18.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj Matrices.obj dijkstra.obj minHeap.obj meshTables.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-19.exe:	main.obj appCtl-19.obj trackball.obj draw-19.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj Matrices.obj meshTables.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-20.exe:	main.obj appCtl-20.obj trackball.obj draw-20.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+ex-21.exe:	main.obj appCtl-21.obj trackball.obj draw-21.obj shaderUtil.obj matrixUtil.obj model.obj stdModels.obj OBJModel.obj modelVAO.obj scene.obj
+      link.exe $(ldebug) $(conflags) /SUBSYSTEM:CONSOLE /OUT:$@ /LIBPATH:..\SDL2-2.0.5\lib\x86 $** SDL2.lib /LIBPATH:..\glew-2.1.0\lib/Release/Win32 glew32.lib opengl32.lib SDL2main.lib
+
+all:  ex-1.exe ex-2.exe ex-3.exe ex-4.exe ex-5.exe ex-6.exe ex-7.exe ex-8.exe ex-9.exe ex-10.exe ex-11.exe ex-12.exe ex-13.exe ex-14.exe ex-15.exe ex-15.exe ex-16.exe ex-17.exe ex-18.exe ex-19.exe ex-20.exe ex-21.exe
+
+clean:
+    del *.obj *.exe SDL2.dll

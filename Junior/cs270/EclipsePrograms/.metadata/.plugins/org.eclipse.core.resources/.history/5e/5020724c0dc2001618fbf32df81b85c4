@@ -1,0 +1,97 @@
+/**
+ * Creates an array of ChaseBlock objects, then animates them.
+ *
+ * @author Jason Her
+ */
+import javax.swing.*;
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class Driver implements ActionListener
+{
+    private JFrame window;
+    private Timer timer;
+    private ChaseBlock[] blocks = new ChaseBlock[15];
+    
+    // constants for graphics
+    private final int windowSize = 500;
+    private int blockSize = 20;
+    
+    /**
+     * Simple initiating main().
+     *
+     * @param args Not used.
+     */
+    public static void main( String[] args )
+    {
+        Driver d = new Driver();
+        d.createWindow();
+    }
+    
+    /**
+     * Set up the basic graphical objects.
+     */
+    private void createWindow()
+    {
+        // create the window
+        window = new JFrame( "The Great Chase" );
+        window.setVisible( true );
+        window.setLayout( null );
+        window.getContentPane().setBackground( Color.white );
+        window.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+        window.setLocation( 50, 50 );
+        window.setSize(
+                       windowSize + window.getInsets().left + window.getInsets().right,
+                       windowSize + window.getInsets().top + window.getInsets().bottom );
+        window.setResizable( false );
+        
+        //add blocks
+        addBlocks();
+        window.repaint();
+        
+        timer = new Timer( 10, this );
+        timer.start();
+    }
+    
+    /**
+     * Add all the blocks to the window.
+     */
+    private void addBlocks()
+    {
+    	for( int i = 0; i < blocks.length; i++ )
+    	{
+    		int x = i * blockSize + 10 * ( i + 1);
+    		blocks[i] = new ChaseBlock( x, (windowSize / 2 - blockSize / 2), blockSize, windowSize);
+    	}
+    	
+    	for( int i = 0; i < blocks.length; i++ ){
+    		window.add(blocks[i]);
+    	}
+   
+    }
+    
+    /**
+     * checks if blocks collide with one another 
+     */
+    private void animate()
+    {
+    	for ( int i = 0; i < blocks.length; i++ ){
+    		blocks[i].move();
+    	}
+    	for( int b1 = 0; b1 < blocks.length; b1++ ){
+    		for( int b2 = 0; b2 < blocks.length; b2++ ){
+    			blocks[b1].checkCollision( blocks[b2]);
+    		}
+    	}
+    }
+    
+    /**
+     * 
+     */
+    public void actionPerformed( ActionEvent e )
+    {
+    	animate();
+    }
+}

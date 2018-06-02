@@ -1,0 +1,24 @@
+# Processing: cwashington$gbkQJpAHVMehg
+Error: Input line missing the ':' separator. Could not find username/hash
+#---------------------------------------------------
+# Processing: thayes$;1$7q.mRyzq:/1sr$.vpAX3twBreIHEabw0
+Error: Unknown hash ID (/1sr)
+#---------------------------------------------------
+# Processing: dgonzalez--$6$v$/k$g1BGw.SWxaj1H$.36/JI0ZMWvetkYPFHy6iVgm6AkXjjz.YyFPFpNtVu4AMnud03KoZYdD7QWqLvHKDTLAQu6WqnCnQWOh.h4Sd0
+Error: Input line missing the ':' separator. Could not find username/hash
+#---------------------------------------------------
+# Processing: jmartinez:$5$m1vmwHeAxws4TdMY$hc95/9udw8I6KDxGkPu3lu:5YDoyWwmSymao.2fmulo2$
+Error: Input line contains too many ':' separators.
+#---------------------------------------------------
+# Processing: pgray:poh$Dsgw1aTYjE
+Error: Unknown hash ID (poh)
+#---------------------------------------------------
+# Processing: nbailey$/wq1:eXdeR8TWo
+Error: DES Password length incorrect. Expected 11, Actual 7
+#---------------------------------------------------
+# Number of valid   : 0
+# Number of invalid : 6
+# Number of DES     : 0
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

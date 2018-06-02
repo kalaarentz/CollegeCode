@@ -1,0 +1,60 @@
+import java.awt.Color;
+
+import javax.swing.JTextField;
+
+public class Driver extends ThreeButtons {
+
+	private ThreeButtonFrame window;
+	private Oval spot;
+	
+	private int x = 250;
+	private int y = 200;
+	public static void main(String[] args ) {
+		Driver d = new Driver();
+	}
+	public Driver() {
+		
+		ClassA a = new ClassA(1);
+		ClassB b = new ClassB(2,3);
+		ClassA c = b;
+		
+		int x = a.getValue();
+		int y = b.getValue();
+		int z = c.getValue();
+		
+		System.out.println("x: " + x);
+		System.out.println("y: " + y);
+		System.out.println("z: " + z);
+//		window = new ThreeButtonFrame("Diamond Star");
+//		spot = new Oval( x,y, 100, 100);
+//		spot.setBackground( Color.green );
+//		window.add(spot, 0);
+//		window.repaint();
+//		
+//		JTextField text = new JTextField("Hello");
+//		text.setBounds(0,40,50,50);
+//		window.add(text,0);
+//		
+//		String s1 = text.getText();
+	}
+	@Override
+	public void leftAction() {
+		// TODO Auto-generated method stub
+		x = x-10;
+		spot.setBounds(x, 200,100,100);
+	}
+
+	@Override
+	public void midAction() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void rightAction() {
+		// TODO Auto-generated method stub
+		x = x+10;
+		spot.setBounds(x, 200,100,100);
+	}
+
+}

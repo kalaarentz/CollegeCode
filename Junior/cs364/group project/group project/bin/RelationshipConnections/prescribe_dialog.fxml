@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="450" prefWidth="450" xmlns="http://javafx.com/javafx/8.0.101"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="DrugzLLC.RelationshipConnections.PrescribeDialogController">
+    <children>
+        <HBox alignment="CENTER" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10">
+            <Label alignment="CENTER" fx:id="dialogTitle">
+                <font>
+                    <Font name="System Bold" size="18.0"/>
+                </font>
+            </Label>
+        </HBox>
+        <TableView AnchorPane.topAnchor="50" AnchorPane.leftAnchor="10" AnchorPane.rightAnchor="10" fx:id="prescriptionTableView" AnchorPane.bottomAnchor="60">
+
+        </TableView>
+
+        <HBox alignment="CENTER" spacing="10" AnchorPane.bottomAnchor="10.0" AnchorPane.rightAnchor="10.0">
+            <padding>
+                <Insets bottom="10" left="10" right="10" top="10"/>
+            </padding>
+            <Button onAction="#onCancelClicked" text="CANCEL">
+            </Button>
+            <Button onAction="#onCreateLink" text="LINK">
+            </Button>
+        </HBox>
+    </children>
+</AnchorPane>

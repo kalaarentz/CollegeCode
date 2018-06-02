@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Scene 4b</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<style>
+		body { font-family: Monospace; background-color: #000; color: #fff; margin: 0px; overflow: hidden; }
+		#info { color: #fff; position: absolute; top: 10px; width: 100%; text-align: center; z-index: 100; display:block; }
+		#info a, .button { color: #f00; font-weight: bold; text-decoration: underline; cursor: pointer }
+	</style>
+</head>
+
+<body>
+
+	<script src="three.js-master/build/three.min.js"></script>
+	<script src="three.js-master/examples/js/loaders/OBJLoader.js"></script>
+  <script src="three.js-master/examples/js/controls/OrbitControls.js"></script>
+	<script src="three.js-master/examples/js/Detector.js"></script>
+	<script src="three.js-master/examples/js/libs/stats.min.js"></script>
+  <script src="three.js-master/examples/js/renderers/Projector.js"></script>
+
+  <script>
+    function LinearInterpolationAnimation(target,start,end,steps,updateFunction) {
+      this.Target = target;
+      this.A = start;
+      this.B = end;
+      this.Step = 1.0 / steps;
+      this.u = 0.0;
+      this.loop = false;
+      this.cycle = false;
+      this.update = updateFunction;
+    }
+
+    LinearInterpolationAnimation.prototype.step = function () {
+      this.u += this.Step;
+      if (typeof this.A == "number") return (1 - this.u) * this.A + (this.u) * this.B;
+      if (this.A instanceof THREE.Vector3) return new THREE.Vector3((1 - this.u) * this.A.x + (this.u) * this.B.x,(1 - this.u) * this.A.y + (this.u) * this.B.y,(1 - this.u) * this.A.z + (this.u) * this.B.z);
+      return null;
+    }
+
+    LinearInterpolationAnimation.prototype.done = function() {
+      if (this.loop && this.u >= 1.0) this.u += -1.0;
+      if (this.cycle && (this.u < 0.0 || this.u > 1.0)) {
+        this.Step = -this.Step;
+        return false;
+      }
+      return this.u >= 1.0;
+    }
+  </script>
+
+	<script>
+    var g = {};
+
+    const PLANE_SIZE = 30.0;
+
+		init();
+		animate();
+
+		function init() {
+			// DOM container element
+      g.container = document.createElement('div');
+			document.body.appendChild(g.container);
+
+      // renderer
+      g.renderer = new THREE.WebGLRenderer({antialias: true});
+      g.renderer.setSize(window.innerWidth, window.innerHeight);
+      g.renderer.setClearColor(new THREE.Color(0x252530));
+      g.renderer.shadowMap.enabled = true;
+      g.renderer.shadowMap.type = THREE.PCFShadowMap;
+      g.renderer.shadowMapSoft = true;
+      g.renderer.sortObjects = false;
+      g.container.appendChild(g.renderer.domElement);
+
+      // projector
+      g.raycaster = new THREE.Raycaster();
+
+      // camera
+			g.camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 300 );
+			g.camera.position.z = 40;
+      g.camera.up = new THREE.Vector3(0,0,1);
+
+      // orbit controls
+      g.controls = new THREE.OrbitControls(g.camera,g.container);
+
+			// scene
+			g.scene = new THREE.Scene();
+
+      // animatables list
+      g.animations = [];
+
+      // lights
+			var ambient = new THREE.AmbientLight(0x304050);
+			g.scene.add(ambient);
+
+			var dirLight1 = new THREE.DirectionalLight(0xffffff,1.0);
+			dirLight1.position.set(30,-30,30);
+      dirLight1.castShadow = true;
+//      dirLight1 = true;
+      dirLight1.shadowCameraNear = 5;
+      dirLight1.shadowCameraFar = 100;
+//      dirLight1 = 75;
+      dirLight1.shadowCameraLeft = -15;
+      dirLight1.shadowCameraRight = 15;
+      dirLight1.shadowCameraTop = 15;
+      dirLight1.shadowCameraBottom = -15;
+      dirLight1.shadowMapBias = 0.0039;
+      dirLight1.shadowMapDarkness = 0.5;
+      dirLight1.shadowMapWidth = 1024;
+      dirLight1.shadowMapHeight = 1024;
+			g.scene.add(dirLight1);
+
+      // plane
+      var groundgeom = new THREE.PlaneGeometry(PLANE_SIZE,PLANE_SIZE);
+      var groundmat = new THREE.MeshPhongMaterial({color: "rgb(150,140,80)"});
+      var ground = new THREE.Mesh(groundgeom,groundmat);
+      ground.receiveShadow = true;
+      g.scene.add(ground);
+
+      // main nodes
+      g.plants = new THREE.Object3D();
+      g.scene.add(g.plants);
+
+      // model
+      var manager = new THREE.LoadingManager();
+      manager.onProgress = function(item,loaded,total) {console.log(item,loaded,total); };
+      var loader = new THREE.OBJLoader(manager);
+      loader.load('Plant.obj',function(mesh){console.log("plant %o",mesh); plantModel = mesh.children[0];});
+      loader.load('Bud.obj',function(mesh){console.log("bud %o",mesh); budModel = mesh.children[0];});
+
+      // events
+      document.addEventListener('mousedown', onDocumentMouseDown, true );
+      document.addEventListener('mouseup', onDocumentMouseUp, false );
+      document.addEventListener('mousemove', onDocumentMouseMove, false );
+      window.addEventListener('resize', onWindowResize, false );
+    }
+
+    function onWindowResize() {
+      g.camera.aspect = window.innerWidth / window.innerHeight;
+      g.camera.updateProjectionMatrix();
+
+      g.renderer.setSize( window.innerWidth, window.innerHeight );
+    }
+
+    function onDocumentMouseDown(event) {
+      //console.log("mouseDown");
+      g.mouseMotion = 0;
+    }
+
+    function onDocumentMouseUp(event) {
+      //console.log("mouseup");
+      if (g.mouseMotion >= 5) return;
+      var obj = testObjectIntersection();
+			//console.log("obj %o",obj);
+      if (obj) {
+        if (obj.name == "bud") {
+          //console.log("bud %o",obj);
+          obj.name = "node";
+          placePlantOn(obj);
+        }
+      }
+      else {
+        var pos = testPlaneIntersection();
+        if (pos) placePlantOn(pos);
+      }
+    }
+
+    function onDocumentMouseMove(event) {
+//     console.log("mouseMove");
+      g.mouseMotion += 1;
+      if (g.mouse == undefined) g.mouse = new THREE.Vector2();
+      g.mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+      g.mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+    }
+
+    function plantGrow() {
+      //console.log("target %o",this.Target);
+      var s = this.step();
+      if (s) this.Target.scale.set(s,s,s);
+    }
+
+    function budRotate() {
+      //console.log("target %o",this.Target);
+      var s = this.step();
+      if (s) this.Target.rotateY(s);
+    }
+
+    function placePlantOn(obj) {
+      //console.log("plant %o",obj);
+      var plant = plantModel.clone();
+      plant.material = new THREE.MeshPhongMaterial();
+      plant.material.shininess = 70;
+      plant.material.color.setRGB(0.1,1.0,0.1);
+      plant.castShadow = true;
+      plant.receiveShadow = true;
+
+      for (i = 0; i < 4; i++) {
+        var bud = budModel.clone();
+        bud.material = new THREE.MeshPhongMaterial();
+        bud.material.shininess = 70;
+        bud.material.color.setRGB(1.0,0.0,0.0);
+        bud.castShadow = true;
+        bud.receiveShadow = true;
+        var node = new THREE.Object3D();
+        node.rotation.z = i * Math.PI / 2.0;
+        bud.rotateZ(Math.PI / 4.0);
+        bud.rotateY(Math.PI / 6.0);
+        //bud.rotateOnAxis(new THREE.Vector3(0,0,1),Math.PI / 4.0);
+        //bud.rotateOnAxis(new THREE.Vector3(0,1,0),Math.PI / 6.0);
+        //var anim = new LinearInterpolationAnimation(bud,Math.PI / 6.0,Math.PI / 7.0, 100,budRotate);
+        //anim.cycle = true;
+        //g.animations.push(anim);
+        var pos = new THREE.Vector3(0.571,0.571,2.49);
+        bud.position.set(pos.x,pos.y,pos.z);
+				bud.name = "bud";
+        //bud.scale.set(1,1,1);
+        node.add(bud);
+        plant.add(node);
+        //console.log("bud placed %o %o",bud,pos);
+      }
+
+      if (obj instanceof THREE.Vector3) {
+        plant.position.set(obj.x,obj.y,obj.z);
+        var anim = new LinearInterpolationAnimation(plant,0.03,3.0,100,plantGrow);
+        g.plants.add(plant);
+      }
+      if (obj instanceof THREE.Object3D) {
+        var anim = new LinearInterpolationAnimation(plant,0.005,0.5,100,plantGrow);
+        obj.add(plant);
+      }
+
+      g.animations.push(anim);
+    }
+
+    function testPlaneIntersection() {
+      if (g.mouse == undefined) return;
+
+      var vec = new THREE.Vector3(g.mouse.x,g.mouse.y,1);
+      vec.unproject(g.camera);
+      vec.sub(g.camera.position);
+      vec.normalize();
+      var k = -g.camera.position.z / vec.z;
+      var pos = vec;
+      pos.multiplyScalar(k);
+      pos.add(g.camera.position);
+
+      if (pos.x > -PLANE_SIZE/2.0 && pos.x < PLANE_SIZE/2.0 && pos.y > -PLANE_SIZE/2.0 && pos.y < PLANE_SIZE/2.0) {
+        pos.z = 0.0;
+        return pos;
+      }
+
+      return null;
+    }
+
+    function testObjectIntersection() {
+      if (g.mouse == undefined) return;
+
+      var vec = new THREE.Vector3(g.mouse.x,g.mouse.y,1);
+      vec.unproject(g.camera);
+      g.raycaster.set(g.camera.position,vec.sub(g.camera.position).normalize());
+      var intersections = g.raycaster.intersectObjects(g.plants.children,true);
+      console.log("intersections %d",intersections.length);
+      return (intersections.length > 0) ? (intersections[0].object) : (null);
+    }
+
+    function updateAnimatables() {
+      for (var i = 0; i < g.animations.length; i++) {
+        var obj = g.animations[i];
+        //console.log("animate %o",obj);
+        obj.update();
+        if (obj.done()) g.animations.splice(i,1);
+      }
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+
+      updateAnimatables();
+      if (g.controls != undefined) g.controls.update();
+      render();
+   }
+
+    function render() {
+      g.renderer.render(g.scene,g.camera);
+    }
+
+  </script>
+
+</body>
+</html>

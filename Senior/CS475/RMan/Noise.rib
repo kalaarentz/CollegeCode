@@ -1,0 +1,60 @@
+##RenderMan RIB-Structure 1.0
+
+# When done programatically using Renderman library
+# we start with a
+#Begin
+
+# Image options
+# output will be in Demo.tiff as rgb data
+Display "Noise.png" "file" "rgb"
+#Display "Noise-frames/Noise-FRAME.png" "file" "rgb"
+Format 720 720 1.0
+#Format 300 300 1.0
+Exposure 1 1.8
+
+Declare "txtscale" "float"
+
+# camera options
+# Clipping ...
+# DepthOfField ...
+Projection "perspective" "fov" 40
+Translate -.275 -0.1  2.75
+Rotate -100 1 0 0
+Rotate 20 0 0 1
+
+# for animation done programatically several frames
+# can be computed. use FrameBegin/End
+
+# scene description
+WorldBegin
+  
+  LightSource "ambientlight" 1 "intensity" 1
+  LightSource "distantlight" 1 "from" [1 1 1] "to" [0 0 0] "intensity" 1.0
+
+  # begin an object or object group
+  AttributeBegin
+    # Color ...
+    # Surface ...
+    # begin another sequence - state is as before
+
+    TransformBegin
+#      Surface "noise" "txtscale" SCALE "Ka" 0.1 "Kd" 0.6 "Ks" 0.8
+      Surface "noise" "txtscale" 3.0 "Ka" 0.1 "Kd" 0.6 "Ks" 0.8
+      Translate .5 .5 .25
+      Color 1 1 1
+      SolidBegin "difference"
+        SolidBegin "primitive"
+          Sphere .5 -.5 .5 360
+        SolidEnd
+        SolidBegin "primitive"
+          Translate 0.3 0.3 0
+          Sphere .5 -.5 .5 360
+        SolidEnd
+      SolidEnd
+    TransformEnd
+    
+    
+  AttributeEnd
+  
+  
+WorldEnd

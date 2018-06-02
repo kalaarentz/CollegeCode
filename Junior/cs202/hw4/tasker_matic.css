@@ -1,0 +1,22 @@
+div.off {
+    display : none;
+}
+img.deleteButtonImage {
+    height : 20px;
+    width : 20px;
+}
+table.table-striped tr:nth-child(even) {
+    background-color : lightgrey;
+}
+table.table-striped td {
+    padding : 3px;
+}
+span.notCompletedInTime {
+    content : url("exclamation-mark-red-md.png");
+}
+table.table-striped td.due-Left-Align {
+    text-align: left;
+}
+table.table-striped td.complete-Left-Aligned {
+    text-align: left;
+}

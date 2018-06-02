@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="resources/css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular-route.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular-resource.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-animate.js"></script>
+
+    <title>Doc Star</title>
+</head>
+<body>
+<div class="container">
+
+    <nav id="topnav" class="navbar navbar-inverse navbar-static-top" role="navigation"  ng-controller="Docstar.Navigation.Controller">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#/" style="font-family: 'Fjalla One', sans-serif">DOCSTAR</a>
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                    <li ng-if="hasRole('ROLE_USER')">
+                        <a href="#/user/documents">User</a>
+
+                    </li>
+
+                    <li ng-if="hasRole('ROLE_ADMIN')" class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" role="button">Admin
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li role="presentation">
+                                <a role="menuitem" href="#/admin/users">Users</a>
+                            </li>
+                            <li role="presentation">
+                                <a role="menuitem" href="#/admin/documents">Documents</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown" ng-if="isAuthenticated()">
+                        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expand="false">Welcome {{username()}}
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li role="presentation">
+                                <a role="menuitem" href="#/profile">Profile</a></li>
+                            <li role="presentation" class="divider">
+                            </li>
+                            <li role="presentation">
+                                <a role="menuitem" href="#/" ng-click="logout()">Logout</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div id="content">
+        <!--------------------- LOGIN Page ---------------------->
+        <div id="login" style="display: none;">
+            <div class="wordgame-title">DOCSTAR</div>
+            <form class="form col-md-3 pull-right" name="loginForm" id="login-form">
+                <h3>Login</h3>
+                <span class="error-msg" id="warning" ng-show="hasError">Error with username/password</span>
+                <input type="text" class="form-control" placeholder="username" name="username" ng-model="username" required><br>
+                <input type="password" class="form-control" placeholder="password" name="password" ng-model="password" required><br>
+                <input class="pull-right btn btn btn-primary" type="submit" value="Sign In" ng-click="loginForm.$valid && login()" >
+            </form>
+        </div>
+
+        <!------------------------ USER PAGE -------------------------->
+        <div id="user" style="display: none;">
+            <div id="user-login-bar" class="well well-sm" style="overflow: hidden">
+                <span class="title-bar pull-left">DOCSTAR</span>
+                <button type="button" class="btn btn-primary glyphicon glyphicon-log-out pull-right">&nbsp;Log Out</button>
+                <button id="user-edit-email" type="button" class="btn btn-primary glyphicon glyphicon-edit pull-right">&nbsp;User Email</button>
+            </div>
+            <div id="user-search-bar" class="well well-sm" style="overflow: hidden;">
+                <input type="text" placeholder="search" class="pull-left input-group input-group-sm form control">
+                <button type="button" class="btn btn-primary glyphicon glyphicon-search pull-left"></button>
+                <button type="button" class="btn btn-primary glyphicon glyphicon-refresh pull-left"></button>
+            </div>
+            <div id="document-list">
+                <table id="document-table" class="table">
+                    <tr><th>Title</th><th>Review</th></tr>
+                    <tr ng-repeat="document in documents">
+                        <td>{{document.title}}</td>
+                        <td><input type="radio"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!--------------- Document Detail ---------------->
+        <div style="display: none;">
+            <div id="document-detail-view" class="well well-sm" style="overflow: hidden;">
+                <div>
+                    <h4 class="pull-left">Document Details</h4>
+                    <span class="btn btn-danger pull-right glyphicon glyphicon-remove"></span>
+                </div>
+                <div style="margin-top: 50px;">
+                    <div >Title</div>
+                    <div>Abstract</div>
+                    <div>Review</div>
+                    <div>Document Type</div>
+                    <div>zipcode</div>
+                    <div>signifcance</div>
+                </div>
+            </div>
+        </div>
+
+        <!--------------- User Profile ---------------->
+        <div style="display: none;">
+            <div id="user-edit-profile" class="well well-sm" style="overflow: hidden">
+                <div>
+                    <h4 class="pull-left">User Profile Details</h4>
+                    <span class="btn btn-danger pull-right glyphicon glyphicon-remove"></span>
+                </div>
+                <div style="margin-top: 50px;">
+                    <img id="profile-picture" src="resources/data/blank-profile-picture.png" alt="blank-profile-picture" class="pull-left">
+                    <div style="margin-left: 50px;">
+                        <div>
+                            <label for="user-first-name">First Name</label>
+                            <input type="text" id="user-first-name">
+                            <label for="user-last-name">Last Name</label>
+                            <input type="text" id="user-last-name">
+                            <label for="user-email">Email</label>
+                            <input type="text" id="user-email">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div style="display: none">
+        <h2 class="page-header">{{user.username}}</h2>
+        <form>
+            <div>
+                <img id="avatar" src="resources/data/blank-profile-picture.png" alt="avatar-image">
+                <form method="post" enctype="multipart/form-data">
+                    <input type="file" name="file-name">
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+            <div class="form-group">
+                <label>First Name</label> <input type="text" class="form-control" ng-model="user.firstName">
+            </div>
+
+            <div class="form-group">
+                <label>Last Name</label> <input type="text" class="form-control" ng-model="user.lastName">
+            </div>
+            <div class="form-group">
+                <label>Email</label> <input type="text" class="form-control" ng-model="user.email">
+            </div>
+            <div class="form-group">
+                <label>New Password</label><input type="password" class="form-control">
+                <label>Confirm Password</label><input type="password" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Enabled&nbsp;&nbsp;</label><input type="checkbox" ng-checked="user.isEnabled">
+            </div>
+            <div class="form-group">
+                <h4>Role</h4>
+                <label>Admin&nbsp;&nbsp;</label><input type="checkbox" ng-checked="hasRole( 'ROLE_ADMIN')">
+                <label>User&nbsp;&nbsp;</label><input type="checkbox" ng-checked="hasRole( 'ROLE_USER')">
+            </div>
+
+            <div>
+                <button type="button" class="btn btn-warning">Update</button>
+            </div>
+        </form>
+    </div>
+
+    <div style="display: none">
+        <div class="page-header">
+            <h2>Documents to Review</h2>
+        </div>
+
+        <div class="well well-sm">
+            <form>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search for...">
+                </div>
+                <div class="form-group">
+                    <label class="checkbox-inline"><input type="checkbox" > Reviewed</label>
+                    <label class="checkbox-inline"><input type="checkbox" > Significant</label>
+                    <label class="checkbox-inline"><input type="checkbox"> Rule</label>
+                    <label class="checkbox-inline"><input type="checkbox" > Prorule</label>
+                    <label class="checkbox-inline">
+                        <input type="checkbox" > Notice</label>
+                    <label class="checkbox-inline">
+                        <input type="checkbox"> Presdocu</label>
+                    <span class="pull-right btn btn-sm btn-primary" style="margin-left: 1em;">
+					    <span class="glyphicon glyphicon-search"></span>
+				    </span>
+                    <span class="pull-right btn btn-sm btn-primary" style="margin-left: 1em;">
+					    <span class="glyphicon glyphicon-refresh"></span>
+                    </span>
+                </div>
+            </form>
+        </div>
+        <table class="table">
+            <tr><th>Title</th><th>Review</th></tr>
+            <tr ng-repeat="document in documents">
+                <td>{{document.title}}</td>
+                <td><input type="number" min="1" max="5"></td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <h2 class="page-header">Document Detail</h2>
+        <div>
+            <div>
+                <h3><a href="{{document.html_url}}"></a>{{document.title}}</h3>
+            </div>
+
+            <div class="form-group">
+                <h5>{{document.type}}</h5>
+            </div>
+
+            <div class="form-group">
+                <h6>Abstract</h6>
+                <div>{{document.abstract}}</div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h2 class="page-header">Users</h2>
+
+        <div class="well well-sm">
+            <form>
+                <div class="form-group">
+                    <span class="pull-right btn btn-sm btn-primary" ng-click="" style="margin-left: 1em;">
+					    <span class="glyphicon glyphicon-plus"></span>
+                    </span>
+                </div>
+            </form>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>Last</th>
+                <th>First</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Enabled</th>
+                <th>Admin</th>
+                <th>User</th>
+            </tr>
+            <tr ng-repeat="user in users">
+                <td>{{user.lastName}}</td>
+                <td>{{user.firstName}}</td>
+                <td>{{user.username}}</td>
+                <td>{{user.email}}</td>
+                <td><input type="checkbox" ng-checked="user.isEnabled"></td>
+                <td><input type="checkbox" ng-checked="hasRole( user,'ROLE_ADMIN')"></td>
+                <td><input type="checkbox" ng-checked="hasRole( user,'ROLE_USER')"></td>
+            </tr>
+
+        </table>
+    </div>
+
+</div>
+</body>
+</html>

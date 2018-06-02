@@ -1,0 +1,115 @@
+##RenderMan RIB-Structure 1.0
+
+# When done programatically using Renderman library
+# we start with a
+#Begin
+
+# Image options
+# output will be in Demo.tiff as rgb data
+Display "Flute.png" "file" "rgb"
+#Display "Flute-frames/Flute-FRAME.png" "file" "rgb"
+#Format 1024 1024 1.0
+Format 720 720 1.0
+#Format 400 400 1.0
+Exposure 1 1.8
+PixelSamples 10 10
+
+Declare "freq" "float"
+Declare "Km" "float"
+Declare "graincolor" "color"
+Declare "shadowname" "string"
+Declare "samples" "float"
+
+# camera options
+# Clipping ...
+# DepthOfField ...
+Projection "perspective" "fov" 40
+Translate 0 0 25
+Rotate -105 1 0 0
+Rotate 45 0 0 1
+#Rotate ANGLE 0 0 1
+
+
+# for animation done programatically several frames
+# can be computed. use FrameBegin/End
+
+# scene description
+WorldBegin
+  
+  LightSource "ambientlight" 1 "intensity" 0.3
+#  LightSource "distantlight" 2 "from" [0 1 1] "to" [0 0 0] "intensity" 1.0
+  LightSource "shadowdistant" 2 "from" [-1 2 2] "to" [0 0 0] "intensity" 1.0 "shadowname" ["raytrace"] "samples" 16
+  LightSource "shadowspot" 3 "from" [2 2 0] "to" [0 0 4] "intensity" 10.0 "coneangle" 1.5 "shadowname" ["raytrace"] "samples" 16
+  LightSource "distantlight" 4 "from" [ 1 1 1] "to" [0 0 0] "intensity" .1
+
+  Attribute "shade" "transmissionhitmode" ["primitive"]
+  Attribute "visibility" "int transmission" [1]
+
+  # begin an object or object group
+  AttributeBegin
+    # Color ...
+    # Surface ...
+    # begin another sequence - state is as before
+
+
+    Surface "stone" "graincolor" [.9 .7 .4]
+    Color 1 1 1
+
+    ObjectBegin "column"
+      TransformBegin
+        Translate 0 0 -4
+        Torus 1 0.2 0 90 360
+      TransformEnd
+      TransformBegin
+        Translate 0 0 4
+        Torus 1 0.2 0 -90 360
+      TransformEnd
+      Attribute "displacementbound" "sphere" .1
+      Displacement "flute" "Km" 0.07 "freq" 20
+      TransformBegin
+        Scale 1 1 4
+        Cylinder 1 -1 1 360
+      TransformEnd
+    ObjectEnd
+
+    ObjectBegin "box"
+      # top
+      Polygon "P" [ .5 -.5 .5   .5 .5 .5   -.5 .5 .5   -.5 -.5 .5]
+      # front
+      Polygon "P" [ .5 -.5 -.5  .5 -.5 .5  .5 .5 .5   .5 .5 -.5 ]
+      # left
+      Polygon "P" [ -.5 .5 -.5  -.5 .5 .5  .5 .5 .5 .5 .5 -.5 ]
+      # back
+      Polygon "P" [ -.5 -.5 -.5  -.5 -.5 .5  -.5 .5 .5   -.5 .5 -.5 ]
+      # right
+      Polygon "P" [ -.5 -.5 -.5  -.5 -.5 .5  .5 -.5 .5  .5 -.5 -.5 ]
+      # bot
+      Polygon "P" [ .5 -.5 -.5   -.5 -.5 -.5   -.5 .5 -.5   .5 .5 -.5]
+    ObjectEnd
+
+    TransformBegin
+      Translate 0 -10 0
+      ObjectInstance "column"
+      Translate 0 5 0
+      ObjectInstance "column"
+      Translate 0 5 0
+      ObjectInstance "column"
+      Translate 0 5 0
+      ObjectInstance "column"
+    TransformEnd
+
+    TransformBegin
+      Translate 0 -2.5 -4.25
+      Scale 5 20 .5
+      ObjectInstance "box"
+    TransformEnd
+
+    TransformBegin
+      Translate 0 -2.5 5
+      Scale 2 20 2
+      ObjectInstance "box"
+    TransformEnd
+
+  AttributeEnd
+
+WorldEnd

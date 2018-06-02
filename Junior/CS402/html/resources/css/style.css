@@ -1,0 +1,67 @@
+#login-form {
+    max-width : 600px;
+    min-width: 300px;
+    padding: 15px;
+    background-color : #eee;
+    border-radius: .5em;
+    margin-top: 1em;
+}
+
+.wordgame-title {
+    font-size: 700%;
+    text-shadow : 3px 3px 3px black;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight : bold;
+    color : whitesmoke;
+    letter-spacing : 3px;
+}
+
+.background {
+    background-image: url(../data/adult-yellow-jacket.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; /* rescales the image to cover the window */
+    background-color: #464646; /* shown during image load */
+}
+
+#document-detail-view {
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+    margin-top: 25%;
+}
+
+#user-edit-profile {
+    max-width: 1200px;
+    min-width: 400px;
+    margin : 0 auto;
+    margin-top : 25%;
+}
+
+#profile-picture {
+    width : 100px;
+    height : 100px;
+}
+
+div.well.well-sm {
+    margin-top: 20px;
+}
+
+button.glyphicon {
+    margin-left: 5px;
+}
+span.title-bar {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: xx-large;
+    font-weight: 600;
+}
+#user-login-bar button {
+    font-size: large;
+    font-weight: 300;
+}
+
+#avatar {
+    width: 120px;
+    height: 120px;
+}

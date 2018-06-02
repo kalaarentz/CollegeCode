@@ -1,0 +1,74 @@
+shader_obj 5.0 1 0
+emboss 29 3 13 9 14 0 2 2 0 2 15 1
+9 123
+rgb
+current
+/Users/senger/Dropbox/Classes/cs475/F15/RMan
+.:
+emboss.sl
+
+displacement
+$meta_1900
+$meta___PRMAN_RELEASE__1900
+3
+0.1000000015
+0
+1
+0
+29
+$meta___PRMAN_RELEASE__ 6 2 -1 7 3 0 0 0 0 0 0
+$meta___PRMAN_RELEASE_TAG__ 6 2 -1 8 3 0 0 0 0 0 0
+$S0 6 2 -1 0 3 0 0 0 0 0 0
+$S2 6 2 -1 1 3 0 0 0 0 0 0
+$srcDir 6 2 -1 2 3 0 0 0 0 0 0
+$includePath 6 2 -1 3 3 0 0 0 0 0 0
+$S7 6 2 -1 4 3 0 0 0 0 1 14
+$C0 4 2 -1 0 3 0 0 0 0 1 1
+$S8 6 2 -1 5 3 0 0 14 14 2 4
+$C1 4 2 -1 1 3 0 0 0 0 6 6
+$S10 6 2 -1 6 3 0 0 3 3 0 0
+$C2 4 2 -1 2 3 0 0 0 0 6 6
+Km 4 5 -1 12 3 1 1 1 1 7 7
+texturename 6 5 -1 13 3 1 2 2 2 4 6
+$result_displacement 0 15 -1 0 3 0 0 0 0 0 0
+Ps 2 10 1 0 2 0 0 11 11 11 13
+N 22 10 1 0 2 0 0 13 13 8 8
+s 4 10 -1 0 2 0 0 0 0 6 6
+t 4 10 -1 0 2 0 0 0 0 6 6
+displacement 15 8 -1 0 2 1 14 0 0 2 14
+$T0 11 4 -1 0 3 0 0 4 13 5 13
+$Code0 9 8 -1 0 2 0 0 0 0 5 13
+$Code1 9 8 -1 0 2 0 0 0 0 14 14
+$Code2 9 8 -1 0 2 0 0 0 0 5 5
+$Cond0 10 11 -1 0 2 0 0 5 13 5 13
+$T1 4 4 -1 0 2 0 0 6 6 7 7
+$T2 4 4 -1 0 2 0 0 7 7 9 9
+$T3 22 4 1 0 2 0 0 8 8 9 9
+$T4 22 4 1 0 2 0 0 9 9 11 11
+33
+12 7 
+13 8 
+10 
+20 13 8 
+20 23 21 22 24 
+25 13 9 11 17 18 
+26 12 25 
+27 16 
+28 26 27 
+15 15 28 
+16 15 
+8 
+_assign 	2 0  4 6 0
+_assign 	2 2  4 8 0
+_enterproc 	1 4  4 5 1
+_ne		3 5  4 10 2
+_if		5 8  4 10 2
+texture 	6 13  4 11 3
+_multiply 	3 19  4 11 3
+normalize 	2 22  4 11 3
+_scale		3 24  4 11 3
+$Pprechg 	0 -1  4 11 3
+_subtract 	3 27  4 11 3
+$Nprechg 	0 -1  4 12 3
+calculatenormal 2 30  4 12 3
+_enterproc 	1 32  4 5 1

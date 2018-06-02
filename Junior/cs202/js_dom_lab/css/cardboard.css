@@ -1,0 +1,115 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+#container {
+    padding : 1em 2em;
+}
+
+body {
+    font: normal 100% Helvetica, Arial, sans-serif;
+    background-image : url('../assets/cork-wallet.png');
+}
+
+.footer {
+    min-height: 1em;
+    background-color: #fff4d3;    
+    color: darkgray;
+    padding: 1em;  
+    position: fixed;
+    bottom: 0px;   
+    width: 100%;
+    left: 0;
+    font-size : .75em;
+}
+
+.profile {
+    float : right;
+    color : gray;
+    font-size : .75em;
+}
+
+.header {
+    background-color: #fff4d3;
+    padding: .5em;
+    font-size: 1.5em;
+}
+
+.copyright {
+    float: right;
+    padding-right: 10px;
+}
+
+#topbar {
+    display : block;
+    background-color: #846d54;
+    border: 1px solid gray;
+    padding: .5em;
+}
+
+input[type=button] {
+    cursor : pointer;
+    height : 100%;
+    background-color : lightgray;
+    padding: .25em;
+    border : 1px solid gray;
+}
+
+#topbar > input.input {
+    width : 25%;
+    border : 1px solid gray;
+    border-radius : .25em;
+    padding: .25em;
+}
+
+div.card img {
+    margin-top : -.5em;
+    width : 100%;
+}
+
+div.deleter {
+    font-size: 1rem;
+    width : 1.25em;
+    height : 1.25em;
+    background-color: rgb(125, 0, 0);
+    color : #ccc;
+    cursor : pointer;
+    border-radius: .65em;
+    position : relative;
+    left : -1em;
+    top : -1em;
+    box-shadow : 2px 2px 2px black;
+    text-align : center;
+    overflow : hidden;
+}
+
+div.deleter:hover {
+    background-color : #F00;
+}
+
+div2.deleter > span {
+    display : inline-block;
+    border-radius : 37%;
+    width : 75%;
+    height : 75%;
+    background-color : blue;
+    margin : auto auto;
+}
+
+div.text {
+    background-color : white;
+    padding: 5px;
+}
+
+div.card {
+    display : inline-block;
+    width : 21%;
+    min-width: 150px;
+    padding: .5em;
+    margin : .75em .5em;
+    border : 1px solid gray;
+    box-shadow : 4px 4px 4px gray;
+    border-radius : 5px;
+    background-color: #fff4d3;        
+}

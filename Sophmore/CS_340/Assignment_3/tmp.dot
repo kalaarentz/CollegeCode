@@ -1,0 +1,21 @@
+digraph tallPrefixTree {
+//List of Nodes
+n_0[label=""];
+n_0_0[label="b"];
+n_0_0_0[label="l"];
+n_0_0_0_0[label="a"];
+n_0_0_0_0_0[label="h"];
+n_0_0_0_0_0_0[label=""];
+n_0_0_0_1[label="o"];
+n_0_0_0_1_0[label="g"];
+n_0_0_0_1_0_0[label=""];
+// A list of connections between the children
+n_0->n_0_0;
+n_0_0->n_0_0_0;
+n_0_0_0->n_0_0_0_0;
+n_0_0_0_0->n_0_0_0_0_0;
+n_0_0_0_0_0->n_0_0_0_0_0_0;
+n_0_0_0->n_0_0_0_1;
+n_0_0_0_1->n_0_0_0_1_0;
+n_0_0_0_1_0->n_0_0_0_1_0_0;
+}

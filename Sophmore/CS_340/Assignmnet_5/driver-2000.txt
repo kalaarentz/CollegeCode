@@ -1,0 +1,2274 @@
+Path from Milwaukee to New York City (740.02 miles flying vs 740.02 miles direct): 
+Milwaukee => New York City
+-----------------------------------
+Path from Milwaukee to Paris (9,232.90 miles flying vs 4,094.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Paris
+-----------------------------------
+Path from Milwaukee to Milwaukee (0.00 miles flying vs 0.00 miles direct): 
+Milwaukee
+-----------------------------------
+Path from Milwaukee to Morelia (1,786.79 miles flying vs 1,786.79 miles direct): 
+Milwaukee => Morelia
+
+-----------------------------------
+Path from Milwaukee to TOUR 
+Milwaukee => Portland => Memphis => Santo Domingo => Cuautitlan Izcalli => Morelia => Baltimore => New York City => Milwaukee
+-----------------------------------
+Path from Milwaukee to Belgrade (9,664.49 miles flying vs 4,943.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Belgrade
+-----------------------------------
+Path from Milwaukee to Taizhou (14,766.89 miles flying vs 6,930.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Taizhou
+-----------------------------------
+Path from Milwaukee to Guayaquil (3,174.17 miles flying vs 3,169.74 miles direct): 
+Milwaukee => Havanna => Guayaquil
+-----------------------------------
+Path from Milwaukee to Hermosillo (1,599.47 miles flying vs 1,599.47 miles direct): 
+Milwaukee => Hermosillo
+-----------------------------------
+Path from Milwaukee to Tabuk (10,335.55 miles flying vs 6,379.62 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Tabuk
+-----------------------------------
+Path from Milwaukee to Teresina (4,491.95 miles flying vs 4,362.54 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Teresina
+-----------------------------------
+Path from Milwaukee to Wenzhou (15,013.15 miles flying vs 7,204.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xinyang => Wenzhou
+-----------------------------------
+Path from Milwaukee to Nanchang (14,762.62 miles flying vs 7,257.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Nanchang
+-----------------------------------
+Path from Milwaukee to Austin (1,033.16 miles flying vs 1,033.16 miles direct): 
+Milwaukee => Austin
+-----------------------------------
+Path from Milwaukee to Indore (12,628.09 miles flying vs 7,781.25 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Jamnagar => Indore
+-----------------------------------
+Path from Milwaukee to Nova Iguacu (5,364.37 miles flying vs 5,356.72 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Nova Iguacu
+-----------------------------------
+Path from Milwaukee to San Jose (1,820.15 miles flying vs 1,820.15 miles direct): 
+Milwaukee => San Jose
+-----------------------------------
+Path from Milwaukee to Trujillo (3,586.43 miles flying vs 3,581.99 miles direct): 
+Milwaukee => Havanna => Guayaquil => Trujillo
+-----------------------------------
+Path from Milwaukee to Shihung (14,776.79 miles flying vs 6,462.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Shihung
+-----------------------------------
+Path from Milwaukee to Cangzhou (14,355.98 miles flying vs 6,606.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Cangzhou
+-----------------------------------
+Path from Milwaukee to Jaipur (12,616.19 miles flying vs 7,497.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Dubai => Jaipur
+-----------------------------------
+Path from Milwaukee to al-Basrah (11,021.03 miles flying vs 6,635.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Suez => al-Basrah
+-----------------------------------
+Path from Milwaukee to Koyang (14,765.43 miles flying vs 6,446.24 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Koyang
+-----------------------------------
+Path from Milwaukee to Matola (10,530.29 miles flying vs 8,930.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Matola
+-----------------------------------
+Path from Milwaukee to al-Hillah (10,823.46 miles flying vs 6,415.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => al-Hillah
+-----------------------------------
+Path from Milwaukee to Guangzhou (14,898.56 miles flying vs 7,673.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Guangzhou
+-----------------------------------
+Path from Milwaukee to Sakai (15,238.76 miles flying vs 6,417.52 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping => Sakai
+-----------------------------------
+Path from Milwaukee to Belo Horizonte (5,190.28 miles flying vs 5,174.93 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Belo Horizonte
+-----------------------------------
+Path from Milwaukee to Ottawa (628.05 miles flying vs 628.05 miles direct): 
+Milwaukee => Ottawa
+-----------------------------------
+Path from Milwaukee to Kaifeng (14,434.06 miles flying vs 6,876.58 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Kaifeng
+-----------------------------------
+Path from Milwaukee to Madras (13,006.96 miles flying vs 8,491.24 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras
+-----------------------------------
+Path from Milwaukee to Barranquilla (2,356.04 miles flying vs 2,356.04 miles direct): 
+Milwaukee => Jacksonville => Barranquilla
+-----------------------------------
+Path from Milwaukee to Durban (10,652.99 miles flying vs 9,008.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Durban
+-----------------------------------
+Path from Milwaukee to Bouake (7,194.78 miles flying vs 5,503.60 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Bouake
+-----------------------------------
+Path from Milwaukee to Chiba (15,356.52 miles flying vs 6,219.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Chiba
+-----------------------------------
+Path from Milwaukee to Seattle (1,685.69 miles flying vs 1,685.69 miles direct): 
+Milwaukee => Seattle
+-----------------------------------
+Path from Milwaukee to Qiqihar (14,197.22 miles flying vs 5,895.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Qiqihar
+-----------------------------------
+Path from Milwaukee to Nashville (480.50 miles flying vs 480.50 miles direct): 
+Milwaukee => Nashville
+-----------------------------------
+Path from Milwaukee to Nashik (12,508.81 miles flying vs 7,931.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Nashik
+-----------------------------------
+Path from Milwaukee to Yuanlong (14,966.48 miles flying vs 7,704.28 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Yuanlong
+-----------------------------------
+Path from Milwaukee to Malaga (8,338.68 miles flying vs 4,265.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Malaga
+-----------------------------------
+Path from Milwaukee to Hyderabad (12,150.75 miles flying vs 7,478.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Hyderabad
+-----------------------------------
+Path from Milwaukee to Santa Fe (5,443.99 miles flying vs 5,443.21 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba => Santa Fe
+-----------------------------------
+Path from Milwaukee to Cuautitlan Izcalli (1,746.17 miles flying vs 1,746.17 miles direct): 
+Milwaukee => Cuautitlan Izcalli
+-----------------------------------
+Path from Milwaukee to Leipzig (9,643.65 miles flying vs 4,368.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Meknes => Leipzig
+-----------------------------------
+Path from Milwaukee to Kawasaki (15,345.76 miles flying vs 6,236.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Kawasaki
+-----------------------------------
+Path from Milwaukee to Bucaramanga (2,642.82 miles flying vs 2,642.81 miles direct): 
+Milwaukee => Kingston => Bucaramanga
+-----------------------------------
+Path from Milwaukee to Oshogbo (7,849.25 miles flying vs 5,982.73 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Oshogbo
+-----------------------------------
+Path from Milwaukee to Hanover (9,621.05 miles flying vs 4,233.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Casablanca => Hanover
+-----------------------------------
+Path from Milwaukee to Aba (8,062.57 miles flying vs 6,248.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Aba
+-----------------------------------
+Path from Milwaukee to Yaounde (8,361.02 miles flying vs 6,515.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Yaounde
+-----------------------------------
+Path from Milwaukee to Soledad (2,359.29 miles flying vs 2,359.28 miles direct): 
+Milwaukee => Jacksonville => Soledad
+-----------------------------------
+Path from Milwaukee to Rajpur (13,429.24 miles flying vs 7,909.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Jamshedpur => Rajpur
+-----------------------------------
+Path from Milwaukee to Chongju (14,842.00 miles flying vs 6,499.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Chongju
+-----------------------------------
+Path from Milwaukee to Hachioji (15,325.55 miles flying vs 6,239.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Hachioji
+-----------------------------------
+Path from Milwaukee to Cebu (15,894.72 miles flying vs 8,241.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Bangkok => Cebu
+-----------------------------------
+Path from Milwaukee to Kananga (9,281.11 miles flying vs 7,524.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Abidjan => Kananga
+-----------------------------------
+Path from Milwaukee to Naberezhnyye Chelny (11,218.51 miles flying vs 5,232.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Naberezhnyye Chelny
+-----------------------------------
+Path from Milwaukee to Cordoba (5,366.07 miles flying vs 5,363.75 miles direct): 
+Milwaukee => Jacksonville => Cartagena => El Alto => Cordoba
+-----------------------------------
+Path from Milwaukee to Huangshi (14,657.69 miles flying vs 7,170.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Huangshi
+-----------------------------------
+Path from Milwaukee to Maceio (5,068.53 miles flying vs 4,903.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Teresina => Maceio
+-----------------------------------
+Path from Milwaukee to Mandalay (13,915.78 miles flying vs 7,940.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Mandalay
+-----------------------------------
+Path from Milwaukee to Salem (12,968.58 miles flying vs 8,559.89 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Salem
+-----------------------------------
+Path from Milwaukee to Londrina (5,152.48 miles flying vs 5,149.96 miles direct): 
+Milwaukee => Santiago DM => Manaus => Londrina
+-----------------------------------
+Path from Milwaukee to Guilin (14,659.33 miles flying vs 7,578.66 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Guilin
+-----------------------------------
+Path from Milwaukee to Changchun (14,399.87 miles flying vs 6,091.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Changchun
+-----------------------------------
+Path from Milwaukee to Fuxin (14,356.79 miles flying vs 6,281.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin
+-----------------------------------
+Path from Milwaukee to Calcutta (13,422.87 miles flying vs 7,900.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Jamshedpur => Calcutta
+-----------------------------------
+Path from Milwaukee to Kbenhavn (9,867.81 miles flying vs 4,200.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Madrid => Kbenhavn
+-----------------------------------
+Path from Milwaukee to Maanshan (14,752.46 miles flying vs 7,008.62 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Maanshan
+-----------------------------------
+Path from Milwaukee to Minsk (10,251.97 miles flying vs 4,736.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Minsk
+-----------------------------------
+Path from Milwaukee to Taian (14,470.61 miles flying vs 6,741.19 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Taian
+-----------------------------------
+Path from Milwaukee to San'a (10,537.85 miles flying vs 7,395.41 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a
+-----------------------------------
+Path from Milwaukee to La Paz (4,306.37 miles flying vs 4,305.64 miles direct): 
+Milwaukee => Jacksonville => Cartagena => La Paz
+-----------------------------------
+Path from Milwaukee to Dehra Dun (12,761.94 miles flying vs 7,292.54 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Multan => Dehra Dun
+-----------------------------------
+Path from Milwaukee to Changsha (14,655.23 miles flying vs 7,340.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Changsha
+-----------------------------------
+Path from Milwaukee to Khulna (13,494.80 miles flying vs 7,885.30 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Khulna
+-----------------------------------
+Path from Milwaukee to Jodhpur (12,442.93 miles flying vs 7,499.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Jodhpur
+-----------------------------------
+Path from Milwaukee to Managua (2,139.42 miles flying vs 2,139.31 miles direct): 
+Milwaukee => Cancun => Managua
+-----------------------------------
+Path from Milwaukee to Foshan (14,896.54 miles flying vs 7,681.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Foshan
+-----------------------------------
+Path from Milwaukee to Surabaya (15,643.62 miles flying vs 9,666.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Pekan Baru => Surabaya
+-----------------------------------
+Path from Milwaukee to Changzhou (14,806.93 miles flying vs 6,975.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Changzhou
+-----------------------------------
+Path from Milwaukee to Djibouti (10,469.35 miles flying vs 7,568.83 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Zaria => Niyala => Djibouti
+-----------------------------------
+Path from Milwaukee to Juarez (1,278.41 miles flying vs 1,278.41 miles direct): 
+Milwaukee => Juarez
+-----------------------------------
+Path from Milwaukee to Wrocaw (9,780.21 miles flying vs 4,536.82 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Wrocaw
+-----------------------------------
+Path from Milwaukee to Jakarta (15,266.33 miles flying vs 9,739.19 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Jakarta
+-----------------------------------
+Path from Milwaukee to Varanasi (13,064.94 miles flying vs 7,681.83 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Hyderabad => Varanasi
+-----------------------------------
+Path from Milwaukee to Fukuoka (15,109.43 miles flying vs 6,616.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Fukuoka
+-----------------------------------
+Path from Milwaukee to Xiamen (15,062.66 miles flying vs 7,491.06 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xining => Xiamen
+-----------------------------------
+Path from Milwaukee to Changwon (14,955.17 miles flying vs 6,557.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Changwon
+-----------------------------------
+Path from Milwaukee to Osaka (15,233.88 miles flying vs 6,410.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping => Osaka
+-----------------------------------
+Path from Milwaukee to Montreal (731.51 miles flying vs 731.51 miles direct): 
+Milwaukee => Montreal
+-----------------------------------
+Path from Milwaukee to Aurangabad (12,609.23 miles flying vs 7,963.96 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Nashik => Aurangabad
+-----------------------------------
+Path from Milwaukee to Port Elizabeth (10,706.45 miles flying vs 8,889.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Port Elizabeth
+-----------------------------------
+Path from Milwaukee to Benoni (10,353.31 miles flying vs 8,728.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Benoni
+-----------------------------------
+Path from Milwaukee to Mexico City (1,758.13 miles flying vs 1,758.13 miles direct): 
+Milwaukee => Mexico City
+-----------------------------------
+Path from Milwaukee to Mendoza (5,396.82 miles flying vs 5,388.52 miles direct): 
+Milwaukee => Havanna => Cali => Arequipa => Mendoza
+-----------------------------------
+Path from Milwaukee to Chimalhuacan (1,753.64 miles flying vs 1,753.64 miles direct): 
+Milwaukee => Chimalhuacan
+-----------------------------------
+Path from Milwaukee to Antananarivo (11,175.68 miles flying vs 9,371.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Pointe Noire => Lubumbashi => Antananarivo
+-----------------------------------
+Path from Milwaukee to Kota Kinabalu (15,471.13 miles flying vs 8,734.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur => Ho Chi Minh City => Kota Kinabalu
+-----------------------------------
+Path from Milwaukee to Gwalior (12,762.12 miles flying vs 7,573.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Gwalior
+-----------------------------------
+Path from Milwaukee to Johannesburg (10,343.33 miles flying vs 8,715.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Johannesburg
+-----------------------------------
+Path from Milwaukee to Mirat (12,739.08 miles flying vs 7,380.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Mirat
+-----------------------------------
+Path from Milwaukee to Marseille (9,014.07 miles flying vs 4,428.92 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Marseille
+-----------------------------------
+Path from Milwaukee to San Luis Potosi (1,626.85 miles flying vs 1,626.85 miles direct): 
+Milwaukee => San Luis Potosi
+-----------------------------------
+Path from Milwaukee to Glasgow (9,591.76 miles flying vs 3,622.50 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Glasgow
+-----------------------------------
+Path from Milwaukee to Nairobi (10,145.05 miles flying vs 7,991.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Yaounde => Nairobi
+-----------------------------------
+Path from Milwaukee to Rome (9,214.44 miles flying vs 4,775.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rome
+-----------------------------------
+Path from Milwaukee to Hengyang (14,704.27 miles flying vs 7,433.85 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Hengyang
+-----------------------------------
+Path from Milwaukee to Sargodha (12,433.01 miles flying vs 7,106.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil => Sargodha
+-----------------------------------
+Path from Milwaukee to Bombay (12,441.60 miles flying vs 7,985.58 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Bombay
+-----------------------------------
+Path from Milwaukee to Tokyo (15,340.91 miles flying vs 6,226.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Tokyo
+-----------------------------------
+Path from Milwaukee to Natal (4,958.46 miles flying vs 4,716.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal
+-----------------------------------
+Path from Milwaukee to Tanggu (14,354.64 miles flying vs 6,547.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Tanggu
+-----------------------------------
+Path from Milwaukee to Jilin (14,445.28 miles flying vs 6,067.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Jilin
+-----------------------------------
+Path from Milwaukee to Lubumbashi (9,750.89 miles flying vs 8,050.77 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Pointe Noire => Lubumbashi
+-----------------------------------
+Path from Milwaukee to Shiraz (11,252.61 miles flying vs 6,829.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Shiraz
+-----------------------------------
+Path from Milwaukee to Alexandria (9,989.09 miles flying vs 5,978.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi => Alexandria
+-----------------------------------
+Path from Milwaukee to Handan (14,351.25 miles flying vs 6,759.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Handan
+-----------------------------------
+Path from Milwaukee to Jacksonville (946.28 miles flying vs 946.28 miles direct): 
+Milwaukee => Jacksonville
+-----------------------------------
+Path from Milwaukee to Maturin (2,753.39 miles flying vs 2,745.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin
+-----------------------------------
+Path from Milwaukee to Wuhu (14,762.68 miles flying vs 7,035.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Wuhu
+-----------------------------------
+Path from Milwaukee to Jiamusi (14,460.69 miles flying vs 5,802.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Jiamusi
+-----------------------------------
+Path from Milwaukee to Barcelona (2,673.44 miles flying vs 2,672.29 miles direct): 
+Milwaukee => Santo Domingo => Barcelona
+-----------------------------------
+Path from Milwaukee to Vijayawada (12,956.81 miles flying vs 8,261.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Vijayawada
+-----------------------------------
+Path from Milwaukee to Perth (17,108.17 miles flying vs 10,937.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth
+-----------------------------------
+Path from Milwaukee to L'viv (9,977.39 miles flying vs 4,825.03 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => L'viv
+-----------------------------------
+Path from Milwaukee to Voronezh (10,640.07 miles flying vs 5,171.42 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rome => Voronezh
+-----------------------------------
+Path from Milwaukee to Neijiang (14,222.90 miles flying vs 7,354.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Neijiang
+-----------------------------------
+Path from Milwaukee to Bahawalpur (12,378.21 miles flying vs 7,271.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Bahawalpur
+-----------------------------------
+Path from Milwaukee to Prague (9,646.95 miles flying vs 4,492.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Prague
+-----------------------------------
+Path from Milwaukee to Valencia Kenya (8,618.96 miles flying vs 4,337.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Valencia Kenya
+-----------------------------------
+Path from Milwaukee to Ciudad Guayana (2,853.02 miles flying vs 2,846.91 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana
+-----------------------------------
+Path from Milwaukee to Sao Jose dos Campos (5,312.20 miles flying vs 5,305.16 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Aparecida de Goiania => Sao Jose dos Campos
+-----------------------------------
+Path from Milwaukee to Bagdad (10,815.29 miles flying vs 6,366.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Bagdad
+-----------------------------------
+Path from Milwaukee to Arequipa (4,243.73 miles flying vs 4,240.49 miles direct): 
+Milwaukee => Havanna => Cali => Arequipa
+-----------------------------------
+Path from Milwaukee to Ilorin (7,846.44 miles flying vs 5,948.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ilorin
+-----------------------------------
+Path from Milwaukee to Kazan (11,096.90 miles flying vs 5,167.21 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan
+-----------------------------------
+Path from Milwaukee to Tainan (15,227.70 miles flying vs 7,537.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Lanzhou => Tainan
+-----------------------------------
+Path from Milwaukee to Guwahati (13,603.12 miles flying vs 7,656.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Gorakhpur => Guwahati
+-----------------------------------
+Path from Milwaukee to Tembisa (10,340.53 miles flying vs 8,716.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Tembisa
+-----------------------------------
+Path from Milwaukee to Rajkot (12,304.76 miles flying vs 7,726.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot
+-----------------------------------
+Path from Milwaukee to Rangoon (13,980.71 miles flying vs 8,297.99 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pune => Rangoon
+-----------------------------------
+Path from Milwaukee to Kermanshah (10,955.54 miles flying vs 6,384.65 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Kermanshah
+-----------------------------------
+Path from Milwaukee to Bangui (8,832.49 miles flying vs 6,839.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Onitsha => Bangui
+-----------------------------------
+Path from Milwaukee to Sofia (9,746.90 miles flying vs 5,147.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Sofia
+-----------------------------------
+Path from Milwaukee to Madurai (13,069.07 miles flying vs 8,677.51 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madurai
+-----------------------------------
+Path from Milwaukee to Manila (15,623.47 miles flying vs 8,054.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Chattagam => Manila
+-----------------------------------
+Path from Milwaukee to Sangli-Miraj (12,557.67 miles flying vs 8,155.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Sangli-Miraj
+-----------------------------------
+Path from Milwaukee to Kuala Lumpur (14,625.00 miles flying vs 9,191.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Kuala Lumpur
+-----------------------------------
+Path from Milwaukee to Essen (9,498.30 miles flying vs 4,172.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Essen
+-----------------------------------
+Path from Milwaukee to Asuncion (5,123.08 miles flying vs 5,104.81 miles direct): 
+Milwaukee => Jacksonville => Cucuta => Santa Cruz => Asuncion
+-----------------------------------
+Path from Milwaukee to Semarang (15,500.81 miles flying vs 9,709.57 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Semarang
+-----------------------------------
+Path from Milwaukee to Bengbu (14,648.04 miles flying vs 6,950.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Anyang China => Bengbu
+-----------------------------------
+Path from Milwaukee to Mexicali (1,654.45 miles flying vs 1,654.45 miles direct): 
+Milwaukee => Mexicali
+-----------------------------------
+Path from Milwaukee to Rotterdam (9,463.44 miles flying vs 4,063.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Rotterdam
+-----------------------------------
+Path from Milwaukee to Vadodara (12,457.25 miles flying vs 7,768.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Jamnagar => Vadodara
+-----------------------------------
+Path from Milwaukee to Bremen (9,633.13 miles flying vs 4,175.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Madrid => Bremen
+-----------------------------------
+Path from Milwaukee to Saitama (15,325.67 miles flying vs 6,218.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Saitama
+-----------------------------------
+Path from Milwaukee to Funabashi (15,347.40 miles flying vs 6,217.60 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Funabashi
+-----------------------------------
+Path from Milwaukee to Huaiyin (14,677.20 miles flying vs 6,877.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Huaiyin
+-----------------------------------
+Path from Milwaukee to Pekan Baru (14,695.42 miles flying vs 9,372.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Pekan Baru
+-----------------------------------
+Path from Milwaukee to Abidjan (7,298.84 miles flying vs 5,664.66 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Abidjan
+-----------------------------------
+Path from Milwaukee to Tlalnepantla (1,752.03 miles flying vs 1,752.03 miles direct): 
+Milwaukee => Tlalnepantla
+-----------------------------------
+Path from Milwaukee to Santo Domingo (1,999.76 miles flying vs 1,999.76 miles direct): 
+Milwaukee => Santo Domingo
+-----------------------------------
+Path from Milwaukee to Nouakchott (6,871.42 miles flying vs 4,475.58 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Nouakchott
+-----------------------------------
+Path from Milwaukee to Nagoya (15,260.57 miles flying vs 6,341.70 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Changchun => Nagoya
+-----------------------------------
+Path from Milwaukee to Jiaozuo (14,365.16 miles flying vs 6,867.55 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Jiaozuo
+-----------------------------------
+Path from Milwaukee to Kobe (15,221.35 miles flying vs 6,419.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping => Kobe
+-----------------------------------
+Path from Milwaukee to Ghaziabad (12,719.69 miles flying vs 7,399.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Ghaziabad
+-----------------------------------
+Path from Milwaukee to Navi Mumbai (12,457.82 miles flying vs 7,979.73 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Navi Mumbai
+-----------------------------------
+Path from Milwaukee to Bikaner (12,468.06 miles flying vs 7,387.36 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Bikaner
+-----------------------------------
+Path from Milwaukee to Kinshasa (8,786.64 miles flying vs 7,095.64 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Kinshasa
+-----------------------------------
+Path from Milwaukee to Agra (12,752.38 miles flying vs 7,506.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Dubai => Agra
+-----------------------------------
+Path from Milwaukee to Klang (14,612.66 miles flying vs 9,203.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Klang
+-----------------------------------
+Path from Milwaukee to Almaty (12,406.15 miles flying vs 6,399.28 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty
+-----------------------------------
+Path from Milwaukee to Rostov-na-Donu (10,593.51 miles flying vs 5,432.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu
+-----------------------------------
+Path from Milwaukee to Jabalpur (12,886.26 miles flying vs 7,800.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Jabalpur
+-----------------------------------
+Path from Milwaukee to Mombasa (10,379.90 miles flying vs 8,264.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala => Mwanza => Mombasa
+-----------------------------------
+Path from Milwaukee to San Francisco (1,837.82 miles flying vs 1,837.82 miles direct): 
+Milwaukee => San Francisco
+-----------------------------------
+Path from Milwaukee to Gujranwala (12,515.40 miles flying vs 7,122.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => al-Mawsil => Gujranwala
+-----------------------------------
+Path from Milwaukee to Omsk (12,044.94 miles flying vs 5,576.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk
+-----------------------------------
+Path from Milwaukee to Cairo (10,048.18 miles flying vs 6,090.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Cairo
+-----------------------------------
+Path from Milwaukee to Kirkuk (10,798.23 miles flying vs 6,240.71 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Kirkuk
+-----------------------------------
+Path from Milwaukee to Tegucigalpa (2,004.25 miles flying vs 2,003.26 miles direct): 
+Milwaukee => Chicago => Tegucigalpa
+-----------------------------------
+Path from Milwaukee to Bhiwandi (12,457.94 miles flying vs 7,966.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Bhiwandi
+-----------------------------------
+Path from Milwaukee to Bamako (7,076.76 miles flying vs 5,124.36 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako
+-----------------------------------
+Path from Milwaukee to Sorocaba (5,276.46 miles flying vs 5,272.52 miles direct): 
+Milwaukee => Santiago DM => Manaus => Sorocaba
+-----------------------------------
+Path from Milwaukee to Niigata (15,199.08 miles flying vs 6,116.61 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Vladivostok => Niigata
+-----------------------------------
+Path from Milwaukee to Belem (4,025.50 miles flying vs 3,930.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Belem
+-----------------------------------
+Path from Milwaukee to Benin (7,931.43 miles flying vs 6,103.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Benin
+-----------------------------------
+Path from Milwaukee to Jinzhou (14,383.43 miles flying vs 6,348.96 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Jinzhou
+-----------------------------------
+Path from Milwaukee to Casablanca (8,061.92 miles flying vs 4,239.51 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Casablanca
+-----------------------------------
+Path from Milwaukee to Cucuta (2,607.52 miles flying vs 2,606.71 miles direct): 
+Milwaukee => Jacksonville => Cucuta
+-----------------------------------
+Path from Milwaukee to Maoming (14,841.63 miles flying vs 7,794.30 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Patna => Maoming
+-----------------------------------
+Path from Milwaukee to Bucharest (9,913.17 miles flying vs 5,158.41 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Bucharest
+-----------------------------------
+Path from Milwaukee to Inchon (14,767.01 miles flying vs 6,466.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Inchon
+-----------------------------------
+Path from Milwaukee to Yogyakarta (15,527.76 miles flying vs 9,762.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Yogyakarta
+-----------------------------------
+Path from Milwaukee to Campo Grande (4,880.58 miles flying vs 4,875.66 miles direct): 
+Milwaukee => Port-au-Prince => Valencia => Cuiaba => Campo Grande
+-----------------------------------
+Path from Milwaukee to Hangzhou (14,893.82 miles flying vs 7,070.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Changzhi => Hangzhou
+-----------------------------------
+Path from Milwaukee to Kabul (12,191.54 miles flying vs 6,889.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Kabul
+-----------------------------------
+Path from Milwaukee to Dalian (14,511.83 miles flying vs 6,480.50 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk => Ulaanbaatar => Dalian
+-----------------------------------
+Path from Milwaukee to Agadir (7,813.09 miles flying vs 4,271.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir
+-----------------------------------
+Path from Milwaukee to Guatemala (1,971.39 miles flying vs 1,971.39 miles direct): 
+Milwaukee => Guatemala
+-----------------------------------
+Path from Milwaukee to Banjarmasin (15,621.64 miles flying vs 9,367.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Subang Jaya => Banjarmasin
+-----------------------------------
+Path from Milwaukee to Genoa (9,190.59 miles flying vs 4,526.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa
+-----------------------------------
+Path from Milwaukee to Veracruz (1,717.46 miles flying vs 1,717.46 miles direct): 
+Milwaukee => Veracruz
+-----------------------------------
+Path from Milwaukee to Lusaka (9,913.46 miles flying vs 8,264.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Lusaka
+-----------------------------------
+Path from Milwaukee to Leon (1,711.17 miles flying vs 1,711.17 miles direct): 
+Milwaukee => Leon
+-----------------------------------
+Path from Milwaukee to Ulyanovsk (11,049.64 miles flying vs 5,236.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Ulyanovsk
+-----------------------------------
+Path from Milwaukee to Samara (11,108.60 miles flying vs 5,339.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Samara
+-----------------------------------
+Path from Milwaukee to Xianyang (14,186.53 miles flying vs 6,988.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xianyang
+-----------------------------------
+Path from Milwaukee to Sao Luis (4,304.39 miles flying vs 4,156.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Sao Luis
+-----------------------------------
+Path from Milwaukee to Narayanganj (13,545.21 miles flying vs 7,833.06 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Narayanganj
+-----------------------------------
+Path from Milwaukee to Fuzhou (15,038.97 miles flying vs 7,359.03 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Nanchang => Fuzhou
+-----------------------------------
+Path from Milwaukee to Matsuyama (15,179.13 miles flying vs 6,537.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fushun => Matsuyama
+-----------------------------------
+Path from Milwaukee to Shantou (15,051.86 miles flying vs 7,591.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chongqing => Shantou
+-----------------------------------
+Path from Milwaukee to Shenzhen (14,967.61 miles flying vs 7,696.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Shenzhen
+-----------------------------------
+Path from Milwaukee to Dnipropetrovs'k (10,394.54 miles flying vs 5,231.77 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Dnipropetrovs'k
+-----------------------------------
+Path from Milwaukee to Nantong (14,826.98 miles flying vs 6,942.42 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Nantong
+-----------------------------------
+Path from Milwaukee to Sao Goncalo (5,383.99 miles flying vs 5,376.01 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Sao Goncalo
+-----------------------------------
+Path from Milwaukee to Uijongbu (14,767.18 miles flying vs 6,441.21 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Dandong => Uijongbu
+-----------------------------------
+Path from Milwaukee to Bloemfontein (10,438.11 miles flying vs 8,741.92 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Bloemfontein
+-----------------------------------
+Path from Milwaukee to Ulsan (14,964.07 miles flying vs 6,523.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Dandong => Ulsan
+-----------------------------------
+Path from Milwaukee to Novokuznetsk (12,598.97 miles flying vs 5,744.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Naberezhnyye Chelny => Novokuznetsk
+-----------------------------------
+Path from Milwaukee to Chonju (14,873.42 miles flying vs 6,558.66 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Yingkou => Chonju
+-----------------------------------
+Path from Milwaukee to Cotonou (7,714.98 miles flying vs 5,942.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Cotonou
+-----------------------------------
+Path from Milwaukee to Bangkok (14,295.79 miles flying vs 8,481.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Bangkok
+-----------------------------------
+Path from Milwaukee to Benghazi (9,404.66 miles flying vs 5,539.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi
+-----------------------------------
+Path from Milwaukee to Santiago (5,408.06 miles flying vs 5,402.36 miles direct): 
+Milwaukee => Havanna => Quito => Lima => Santiago
+-----------------------------------
+Path from Milwaukee to Ranchi (13,223.58 miles flying vs 7,832.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Ranchi
+-----------------------------------
+Path from Milwaukee to Okayama (15,176.25 miles flying vs 6,455.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping => Okayama
+-----------------------------------
+Path from Milwaukee to Niamey (7,728.51 miles flying vs 5,591.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Niamey
+-----------------------------------
+Path from Milwaukee to Changde (14,559.05 miles flying vs 7,306.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Changde
+-----------------------------------
+Path from Milwaukee to Madrid (8,579.25 miles flying vs 4,155.60 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Madrid
+-----------------------------------
+Path from Milwaukee to San Pedro Sula (1,907.37 miles flying vs 1,907.37 miles direct): 
+Milwaukee => San Pedro Sula
+-----------------------------------
+Path from Milwaukee to Columbus (333.78 miles flying vs 333.78 miles direct): 
+Milwaukee => Columbus
+-----------------------------------
+Path from Milwaukee to Ahmadabad (12,422.79 miles flying vs 7,710.09 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Jamnagar => Ahmadabad
+-----------------------------------
+Path from Milwaukee to Toronto (433.52 miles flying vs 433.52 miles direct): 
+Milwaukee => Toronto
+-----------------------------------
+Path from Milwaukee to Cologne (9,468.80 miles flying vs 4,190.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Cologne
+-----------------------------------
+Path from Milwaukee to an-Najaf (10,821.20 miles flying vs 6,441.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Suez => an-Najaf
+-----------------------------------
+Path from Milwaukee to Hubli (12,642.62 miles flying vs 8,265.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Hubli
+-----------------------------------
+Path from Milwaukee to Resht (11,083.18 miles flying vs 6,283.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Gaziantep => Resht
+-----------------------------------
+Path from Milwaukee to Baotou (13,984.56 miles flying vs 6,551.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou
+-----------------------------------
+Path from Milwaukee to Zaria (8,068.24 miles flying vs 5,983.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Zaria
+-----------------------------------
+Path from Milwaukee to Khartoum (9,758.99 miles flying vs 6,913.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum
+-----------------------------------
+Path from Milwaukee to Ipoh (14,542.80 miles flying vs 9,100.78 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Ipoh
+-----------------------------------
+Path from Milwaukee to Portland (1,711.47 miles flying vs 1,711.47 miles direct): 
+Milwaukee => Portland
+-----------------------------------
+Path from Milwaukee to Johor Bahru (14,802.78 miles flying vs 9,279.62 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Medan => Johor Bahru
+-----------------------------------
+Path from Milwaukee to Adelaide (18,434.09 miles flying vs 9,913.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth => Adelaide
+-----------------------------------
+Path from Milwaukee to Taizhong (15,194.01 miles flying vs 7,452.62 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Lanzhou => Taizhong
+-----------------------------------
+Path from Milwaukee to Puyang (14,416.06 miles flying vs 6,810.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Puyang
+-----------------------------------
+Path from Milwaukee to Srinagar (12,508.60 miles flying vs 7,000.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Orumiyeh => Srinagar
+-----------------------------------
+Path from Milwaukee to Malang (15,666.35 miles flying vs 9,716.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Malang
+-----------------------------------
+Path from Milwaukee to Antipolo (15,637.38 miles flying vs 8,051.01 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Chattagam => Antipolo
+-----------------------------------
+Path from Milwaukee to Moscow (10,667.17 miles flying vs 4,910.57 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Vienna => Moscow
+-----------------------------------
+Path from Milwaukee to Makasar (15,975.34 miles flying vs 9,334.25 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Ampang Jaya => Makasar
+-----------------------------------
+Path from Milwaukee to Queretaro (1,711.94 miles flying vs 1,711.94 miles direct): 
+Milwaukee => Queretaro
+-----------------------------------
+Path from Milwaukee to Bangalore (12,873.02 miles flying vs 8,463.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Bangalore
+-----------------------------------
+Path from Milwaukee to Xianggangdao (14,980.05 miles flying vs 7,713.25 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Xianggangdao
+-----------------------------------
+Path from Milwaukee to Naucalpan (1,756.81 miles flying vs 1,756.81 miles direct): 
+Milwaukee => Naucalpan
+-----------------------------------
+Path from Milwaukee to Harare (10,147.80 miles flying vs 8,511.54 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Harare
+-----------------------------------
+Path from Milwaukee to Tabriz (10,900.20 miles flying vs 6,144.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Tabriz
+-----------------------------------
+Path from Milwaukee to Puebla (1,764.10 miles flying vs 1,764.10 miles direct): 
+Milwaukee => Puebla
+-----------------------------------
+Path from Milwaukee to Riga (10,255.36 miles flying vs 4,493.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Meknes => Stuttgart => Riga
+-----------------------------------
+Path from Milwaukee to Naples (9,264.44 miles flying vs 4,892.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Naples
+-----------------------------------
+Path from Milwaukee to Libreville (8,289.98 miles flying vs 6,577.73 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Libreville
+-----------------------------------
+Path from Milwaukee to Denver (903.48 miles flying vs 903.48 miles direct): 
+Milwaukee => Denver
+-----------------------------------
+Path from Milwaukee to Buenos Aires (5,687.48 miles flying vs 5,685.30 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba => Buenos Aires
+-----------------------------------
+Path from Milwaukee to Wahran (8,405.12 miles flying vs 4,479.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran
+-----------------------------------
+Path from Milwaukee to Lodz (9,891.29 miles flying vs 4,588.01 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Lodz
+-----------------------------------
+Path from Milwaukee to Diyarbakr (10,569.44 miles flying vs 5,971.57 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Diyarbakr
+-----------------------------------
+Path from Milwaukee to Mbuji-Mayi (9,364.60 miles flying vs 7,595.50 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Abidjan => Kananga => Mbuji-Mayi
+-----------------------------------
+Path from Milwaukee to Urumqi (12,884.67 miles flying vs 6,432.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Urumqi
+-----------------------------------
+Path from Milwaukee to San Antonio (1,106.61 miles flying vs 1,106.61 miles direct): 
+Milwaukee => San Antonio
+-----------------------------------
+Path from Milwaukee to Moradabad (12,802.21 miles flying vs 7,402.21 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Moradabad
+-----------------------------------
+Path from Milwaukee to Langfang (14,291.36 miles flying vs 6,530.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Langfang
+-----------------------------------
+Path from Milwaukee to Toluca (1,778.85 miles flying vs 1,778.85 miles direct): 
+Milwaukee => Toluca
+-----------------------------------
+Path from Milwaukee to Bandung (15,339.19 miles flying vs 9,771.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandung
+-----------------------------------
+Path from Milwaukee to Warangal (12,885.58 miles flying vs 8,148.35 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pune => Warangal
+-----------------------------------
+Path from Milwaukee to Peking (14,261.23 miles flying vs 6,507.85 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Peking
+-----------------------------------
+Path from Milwaukee to Hefei (14,690.47 miles flying vs 7,023.70 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Hefei
+-----------------------------------
+Path from Milwaukee to Zhangdian (14,476.48 miles flying vs 6,685.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Zhangdian
+-----------------------------------
+Path from Milwaukee to Shizuoka (15,324.44 miles flying vs 6,307.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Jilin => Shizuoka
+-----------------------------------
+Path from Milwaukee to Adana (10,295.15 miles flying vs 5,862.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Adana
+-----------------------------------
+Path from Milwaukee to Osasco (5,302.83 miles flying vs 5,296.43 miles direct): 
+Milwaukee => Santiago DM => Manaus => Osasco
+-----------------------------------
+Path from Milwaukee to Kalyan (12,464.89 miles flying vs 7,972.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kalyan
+-----------------------------------
+Path from Milwaukee to Gaziantep (10,409.32 miles flying vs 5,927.80 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Gaziantep
+-----------------------------------
+Path from Milwaukee to Volgograd (10,824.92 miles flying vs 5,474.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd
+-----------------------------------
+Path from Milwaukee to Tucuman (5,044.78 miles flying vs 5,043.66 miles direct): 
+Milwaukee => Jacksonville => Cartagena => El Alto => Tucuman
+-----------------------------------
+Path from Milwaukee to Allahabad (12,991.50 miles flying vs 7,663.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Hyderabad => Allahabad
+-----------------------------------
+Path from Milwaukee to Saratov (10,919.22 miles flying vs 5,345.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kharkiv => Saratov
+-----------------------------------
+Path from Milwaukee to Oklahoma City (731.21 miles flying vs 731.21 miles direct): 
+Milwaukee => Oklahoma City
+-----------------------------------
+Path from Milwaukee to Ulaanbaatar (13,547.41 miles flying vs 6,088.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk => Ulaanbaatar
+-----------------------------------
+Path from Milwaukee to at-Ta'if (10,354.50 miles flying vs 6,918.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if
+-----------------------------------
+Path from Milwaukee to Tucson (1,455.12 miles flying vs 1,455.12 miles direct): 
+Milwaukee => Tucson
+-----------------------------------
+Path from Milwaukee to Dublin (9,405.89 miles flying vs 3,620.89 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Dublin
+-----------------------------------
+Path from Milwaukee to Songnam (14,786.95 miles flying vs 6,457.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Songnam
+-----------------------------------
+Path from Milwaukee to Salvador (5,076.26 miles flying vs 4,975.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Belem => Salvador
+-----------------------------------
+Path from Milwaukee to Taejon (14,856.25 miles flying vs 6,520.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Panjin => Taejon
+-----------------------------------
+Path from Milwaukee to Riyadh (10,814.39 miles flying vs 6,949.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Riyadh
+-----------------------------------
+Path from Milwaukee to Surakarta (15,545.77 miles flying vs 9,738.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Surakarta
+-----------------------------------
+Path from Milwaukee to New York City (740.02 miles flying vs 740.02 miles direct): 
+Milwaukee => New York City
+-----------------------------------
+Path from Milwaukee to Palermo (9,171.40 miles flying vs 4,979.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Palermo
+-----------------------------------
+Path from Milwaukee to Accra (7,547.39 miles flying vs 5,847.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Accra
+-----------------------------------
+Path from Milwaukee to Kano (8,129.72 miles flying vs 5,979.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano
+-----------------------------------
+Path from Milwaukee to Subang Jaya (14,614.18 miles flying vs 9,194.70 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Subang Jaya
+-----------------------------------
+Path from Milwaukee to Zagreb (9,512.49 miles flying vs 4,734.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb
+-----------------------------------
+Path from Milwaukee to Shihezi (12,800.25 miles flying vs 6,393.08 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi
+-----------------------------------
+Path from Milwaukee to Novosibirsk (12,411.65 miles flying vs 5,640.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk
+-----------------------------------
+Path from Milwaukee to Qinhuangdao (14,385.60 miles flying vs 6,453.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk => Qinhuangdao
+-----------------------------------
+Path from Milwaukee to Joao Pessoa (5,028.73 miles flying vs 4,803.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Sao Luis => Joao Pessoa
+-----------------------------------
+Path from Milwaukee to Reynosa (1,309.96 miles flying vs 1,309.96 miles direct): 
+Milwaukee => Reynosa
+-----------------------------------
+Path from Milwaukee to Zhanjiang (14,823.32 miles flying vs 7,850.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Hyderabad => Varanasi => Zhanjiang
+-----------------------------------
+Path from Milwaukee to Hohhot (14,035.25 miles flying vs 6,517.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Hohhot
+-----------------------------------
+Path from Milwaukee to Berlin (9,730.72 miles flying vs 4,353.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Marrakesh => Berlin
+-----------------------------------
+Path from Milwaukee to Ouagadougou (7,470.09 miles flying vs 5,462.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou
+-----------------------------------
+Path from Milwaukee to Raipur (13,004.44 miles flying vs 7,949.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Raipur
+-----------------------------------
+Path from Milwaukee to Acapulco (1,943.46 miles flying vs 1,943.46 miles direct): 
+Milwaukee => Acapulco
+-----------------------------------
+Path from Milwaukee to Aguascalientes (1,680.39 miles flying vs 1,680.39 miles direct): 
+Milwaukee => Aguascalientes
+-----------------------------------
+Path from Milwaukee to Dar es Salaam (10,421.40 miles flying vs 8,388.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala => Kigali => Dar es Salaam
+-----------------------------------
+Path from Milwaukee to Bogota (2,790.29 miles flying vs 2,789.50 miles direct): 
+Milwaukee => Jacksonville => Bogota
+-----------------------------------
+Path from Milwaukee to Maiduguri (8,440.75 miles flying vs 6,213.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri
+-----------------------------------
+Path from Milwaukee to Sevilla (8,337.58 miles flying vs 4,168.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla
+-----------------------------------
+Path from Milwaukee to Saharanpur (12,732.42 miles flying vs 7,311.99 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Multan => Saharanpur
+-----------------------------------
+Path from Milwaukee to Caracas (2,580.15 miles flying vs 2,579.68 miles direct): 
+Milwaukee => Charlotte => Caracas
+-----------------------------------
+Path from Milwaukee to Soweto (10,339.81 miles flying vs 8,709.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Soweto
+-----------------------------------
+Path from Milwaukee to Shubra-El-Khema (10,050.20 miles flying vs 6,087.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Shubra-El-Khema
+-----------------------------------
+Path from Milwaukee to Sapporo (15,050.56 miles flying vs 5,752.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Hegang => Sapporo
+-----------------------------------
+Path from Milwaukee to Chelyabinsk (11,571.92 miles flying vs 5,420.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk
+-----------------------------------
+Path from Milwaukee to Edmonton (1,370.61 miles flying vs 1,370.61 miles direct): 
+Milwaukee => Edmonton
+-----------------------------------
+Path from Milwaukee to al-Hartum Bahri (9,759.40 miles flying vs 6,910.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => al-Hartum Bahri
+-----------------------------------
+Path from Milwaukee to # name longitude latitude Shanghai (14,893.20 miles flying vs 6,979.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => # name longitude latitude Shanghai
+-----------------------------------
+Path from Milwaukee to Nizhniy Novgorod (10,914.03 miles flying vs 5,026.09 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Vienna => Nizhniy Novgorod
+-----------------------------------
+Path from Milwaukee to Xinxiang (14,393.87 miles flying vs 6,852.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xinxiang
+-----------------------------------
+Path from Milwaukee to Shah Alam (14,618.51 miles flying vs 9,199.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Shah Alam
+-----------------------------------
+Path from Milwaukee to Santa Cruz (4,491.05 miles flying vs 4,490.02 miles direct): 
+Milwaukee => Jacksonville => Cucuta => Santa Cruz
+-----------------------------------
+Path from Milwaukee to Welkom (10,388.51 miles flying vs 8,720.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Welkom
+-----------------------------------
+Path from Milwaukee to Dhaka (13,537.54 miles flying vs 7,827.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Dhaka
+-----------------------------------
+Path from Milwaukee to Onitsha (8,012.29 miles flying vs 6,170.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Onitsha
+-----------------------------------
+Path from Milwaukee to Bhopal (12,725.59 miles flying vs 7,766.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Bhopal
+-----------------------------------
+Path from Milwaukee to Campinas (5,256.66 miles flying vs 5,249.75 miles direct): 
+Milwaukee => Santiago DM => Manaus => Campinas
+-----------------------------------
+Path from Milwaukee to Anyang (14,781.56 miles flying vs 6,465.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Anyang
+-----------------------------------
+Path from Milwaukee to Hamah (10,367.02 miles flying vs 6,011.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Hamah
+-----------------------------------
+Path from Milwaukee to Shaoyang (14,627.67 miles flying vs 7,449.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chongqing => Shaoyang
+-----------------------------------
+Path from Milwaukee to Delhi (12,707.65 miles flying vs 7,396.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Delhi
+-----------------------------------
+Path from Milwaukee to Nanning (14,668.73 miles flying vs 7,772.82 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Patna => Nanning
+-----------------------------------
+Path from Milwaukee to Frankfurt (9,471.23 miles flying vs 4,285.21 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Marrakesh => Frankfurt
+-----------------------------------
+Path from Milwaukee to Niyala (9,233.58 miles flying vs 6,757.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Zaria => Niyala
+-----------------------------------
+Path from Milwaukee to Lakhnau (12,931.89 miles flying vs 7,559.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Lakhnau
+-----------------------------------
+Path from Milwaukee to Dresden (9,670.03 miles flying vs 4,427.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Dresden
+-----------------------------------
+Path from Milwaukee to Lilongwe (10,205.71 miles flying vs 8,472.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Pointe Noire => Lilongwe
+-----------------------------------
+Path from Milwaukee to Damascus (10,348.23 miles flying vs 6,088.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Damascus
+-----------------------------------
+Path from Milwaukee to Petaling Jaya (14,621.28 miles flying vs 9,197.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Petaling Jaya
+-----------------------------------
+Path from Milwaukee to Zhuhai (14,952.91 miles flying vs 7,723.25 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Zhuhai
+-----------------------------------
+Path from Milwaukee to Recife (5,056.31 miles flying vs 4,852.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Sao Luis => Recife
+-----------------------------------
+Path from Milwaukee to Krasnodar (10,542.56 miles flying vs 5,534.65 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar
+-----------------------------------
+Path from Milwaukee to Hamilton (409.55 miles flying vs 409.55 miles direct): 
+Milwaukee => Hamilton
+-----------------------------------
+Path from Milwaukee to Vienna (9,629.49 miles flying vs 4,641.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Vienna
+-----------------------------------
+Path from Milwaukee to Gazzah (10,249.11 miles flying vs 6,129.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi => Gazzah
+-----------------------------------
+Path from Milwaukee to Lipetsk (10,670.33 miles flying vs 5,130.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Lipetsk
+-----------------------------------
+Path from Milwaukee to Pointe Noire (8,582.09 miles flying vs 6,943.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Pointe Noire
+-----------------------------------
+Path from Milwaukee to Montevideo (5,750.14 miles flying vs 5,748.95 miles direct): 
+Milwaukee => Jacksonville => Cucuta => Santa Cruz => Montevideo
+-----------------------------------
+Path from Milwaukee to Tehran (11,191.61 miles flying vs 6,430.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil => Tehran
+-----------------------------------
+Path from Milwaukee to Dusseldorf (9,480.13 miles flying vs 4,173.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Dusseldorf
+-----------------------------------
+Path from Milwaukee to Kerman (11,523.39 miles flying vs 6,908.99 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Kerman
+-----------------------------------
+Path from Milwaukee to Patna (13,195.83 miles flying vs 7,675.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Patna
+-----------------------------------
+Path from Milwaukee to Marrakesh (7,931.64 miles flying vs 4,299.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Marrakesh
+-----------------------------------
+Path from Milwaukee to Bareli (12,839.77 miles flying vs 7,441.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Bareli
+-----------------------------------
+Path from Milwaukee to Depok (15,275.52 miles flying vs 9,753.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Depok
+-----------------------------------
+Path from Milwaukee to Zhuzhou (14,680.96 miles flying vs 7,362.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Zhuzhou
+-----------------------------------
+Path from Milwaukee to Kumasi (7,435.37 miles flying vs 5,722.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kumasi
+-----------------------------------
+Path from Milwaukee to Yangzhou (14,753.74 miles flying vs 6,946.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Yangzhou
+-----------------------------------
+Path from Milwaukee to Chattagam (13,642.47 miles flying vs 7,923.25 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Chattagam
+-----------------------------------
+Path from Milwaukee to La Plata (5,716.61 miles flying vs 5,713.77 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba => La Plata
+-----------------------------------
+Path from Milwaukee to Qom (11,173.34 miles flying vs 6,479.08 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Hamah => Qom
+-----------------------------------
+Path from Milwaukee to Krasnoyarsk (12,757.76 miles flying vs 5,593.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk
+-----------------------------------
+Path from Milwaukee to Luoyang (14,350.58 miles flying vs 6,916.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Luoyang
+-----------------------------------
+Path from Milwaukee to Kolhapur (12,532.00 miles flying vs 8,160.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur
+-----------------------------------
+Path from Milwaukee to Mersin (10,255.80 miles flying vs 5,849.35 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin
+-----------------------------------
+Path from Milwaukee to Monrovia (6,840.02 miles flying vs 5,276.99 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia
+-----------------------------------
+Path from Milwaukee to Bhavnagar (12,397.84 miles flying vs 7,785.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Bhavnagar
+-----------------------------------
+Path from Milwaukee to Los Angeles (1,745.74 miles flying vs 1,745.74 miles direct): 
+Milwaukee => Los Angeles
+-----------------------------------
+Path from Milwaukee to Hiroshima (15,137.69 miles flying vs 6,513.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fushun => Hiroshima
+-----------------------------------
+Path from Milwaukee to Kaduna (8,046.86 miles flying vs 5,996.30 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kaduna
+-----------------------------------
+Path from Milwaukee to Tangshan (14,345.84 miles flying vs 6,498.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Naberezhnyye Chelny => Novokuznetsk => Tangshan
+-----------------------------------
+Path from Milwaukee to Paris (9,232.90 miles flying vs 4,094.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Paris
+-----------------------------------
+Path from Milwaukee to Calamba (15,644.80 miles flying vs 8,075.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Chattagam => Dasmarinas => Calamba
+-----------------------------------
+Path from Milwaukee to Houston (1,006.20 miles flying vs 1,006.20 miles direct): 
+Milwaukee => Houston
+-----------------------------------
+Path from Milwaukee to Turin (9,181.53 miles flying vs 4,449.58 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Turin
+-----------------------------------
+Path from Milwaukee to Sao Bernardo do Campo (5,321.67 miles flying vs 5,314.77 miles direct): 
+Milwaukee => Santiago DM => Manaus => Sao Bernardo do Campo
+-----------------------------------
+Path from Milwaukee to Antalya (10,042.05 miles flying vs 5,707.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Antalya
+-----------------------------------
+Path from Milwaukee to Maputo (10,534.67 miles flying vs 8,934.85 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Maputo
+-----------------------------------
+Path from Milwaukee to Datong (14,133.89 miles flying vs 6,544.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Datong
+-----------------------------------
+Path from Milwaukee to Gorakhpur (13,082.53 miles flying vs 7,585.60 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Gorakhpur
+-----------------------------------
+Path from Milwaukee to Warri (7,949.70 miles flying vs 6,149.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Warri
+-----------------------------------
+Path from Milwaukee to Tashkent (12,083.47 miles flying vs 6,441.80 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Tashkent
+-----------------------------------
+Path from Milwaukee to Sholapur (12,654.32 miles flying vs 8,121.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pune => Sholapur
+-----------------------------------
+Path from Milwaukee to Yancheng (14,728.93 miles flying vs 6,868.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Taian => Yancheng
+-----------------------------------
+Path from Milwaukee to Tianjin (14,330.09 miles flying vs 6,547.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Tianjin
+-----------------------------------
+Path from Milwaukee to Thana (12,452.31 miles flying vs 7,972.18 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Thana
+-----------------------------------
+Path from Milwaukee to Amravati (12,762.39 miles flying vs 7,926.42 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Amravati
+-----------------------------------
+Path from Milwaukee to 'Adan (10,593.89 miles flying vs 7,574.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Zaria => Niyala => 'Adan
+-----------------------------------
+Path from Milwaukee to Salta (4,906.20 miles flying vs 4,905.45 miles direct): 
+Milwaukee => Jacksonville => Cartagena => La Paz => Salta
+-----------------------------------
+Path from Milwaukee to Baku (11,095.80 miles flying vs 6,103.18 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Yerevan => Baku
+-----------------------------------
+Path from Milwaukee to Koyampattur (12,966.20 miles flying vs 8,586.49 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Koyampattur
+-----------------------------------
+Path from Milwaukee to Maisuru (12,876.30 miles flying vs 8,494.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Maisuru
+-----------------------------------
+Path from Milwaukee to Bandar Lampung (15,151.47 miles flying vs 9,720.09 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung
+-----------------------------------
+Path from Milwaukee to San Nicolas de los Garza (1,384.54 miles flying vs 1,384.54 miles direct): 
+Milwaukee => San Nicolas de los Garza
+-----------------------------------
+Path from Milwaukee to Uberlandia (4,977.21 miles flying vs 4,970.27 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Aparecida de Goiania => Uberlandia
+-----------------------------------
+Path from Milwaukee to Suwon (14,791.64 miles flying vs 6,472.01 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Suwon
+-----------------------------------
+Path from Milwaukee to Cuiaba (4,532.50 miles flying vs 4,531.98 miles direct): 
+Milwaukee => Port-au-Prince => Valencia => Cuiaba
+-----------------------------------
+Path from Milwaukee to Anshan (14,447.59 miles flying vs 6,313.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Anshan
+-----------------------------------
+Path from Milwaukee to Chisinau (10,092.54 miles flying vs 5,118.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Chisinau
+-----------------------------------
+Path from Milwaukee to Shaoguan (14,837.09 miles flying vs 7,556.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chongqing => Shaoguan
+-----------------------------------
+Path from Milwaukee to Warsaw (9,964.64 miles flying vs 4,616.06 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Warsaw
+-----------------------------------
+Path from Milwaukee to Donetsk (10,515.15 miles flying vs 5,337.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk
+-----------------------------------
+Path from Milwaukee to Addis Abeba (10,179.33 miles flying vs 7,529.61 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Garoua => Addis Abeba
+-----------------------------------
+Path from Milwaukee to Hegang (14,438.77 miles flying vs 5,766.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Hegang
+-----------------------------------
+Path from Milwaukee to Orenburg (11,307.33 miles flying vs 5,524.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kharkiv => Orenburg
+-----------------------------------
+Path from Milwaukee to Kisangani (9,332.81 miles flying vs 7,350.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala => Kisangani
+-----------------------------------
+Path from Milwaukee to Cagayan (15,974.58 miles flying vs 8,333.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Bangkok => Cagayan
+-----------------------------------
+Path from Milwaukee to Jiulong (14,979.15 miles flying vs 7,709.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Jiulong
+-----------------------------------
+Path from Milwaukee to Meknes (8,139.04 miles flying vs 4,324.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Meknes
+-----------------------------------
+Path from Milwaukee to Budapest (9,701.51 miles flying vs 4,768.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Budapest
+-----------------------------------
+Path from Milwaukee to Mira Bhayandar (12,444.87 miles flying vs 7,964.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Mira Bhayandar
+-----------------------------------
+Path from Milwaukee to Milan (9,253.66 miles flying vs 4,492.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Milan
+-----------------------------------
+Path from Milwaukee to Irkutsk (13,276.24 miles flying vs 5,809.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk
+-----------------------------------
+Path from Milwaukee to Soul (14,774.97 miles flying vs 6,453.65 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Soul
+-----------------------------------
+Path from Milwaukee to Barquisimeto (2,546.30 miles flying vs 2,544.17 miles direct): 
+Milwaukee => Port-au-Prince => Barquisimeto
+-----------------------------------
+Path from Milwaukee to Port Harcourt (8,043.41 miles flying vs 6,245.50 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Port Harcourt
+-----------------------------------
+Path from Milwaukee to Xuchang (14,440.00 miles flying vs 6,940.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xuchang
+-----------------------------------
+Path from Milwaukee to London (9,350.88 miles flying vs 3,908.62 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => London
+-----------------------------------
+Path from Milwaukee to Hamamatsu (15,313.34 miles flying vs 6,342.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Jilin => Hamamatsu
+-----------------------------------
+Path from Milwaukee to Liuzhou (14,666.21 miles flying vs 7,661.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Liuzhou
+-----------------------------------
+Path from Milwaukee to Villa Nueva (1,978.47 miles flying vs 1,978.47 miles direct): 
+Milwaukee => Villa Nueva
+-----------------------------------
+Path from Milwaukee to Sydney (19,156.63 miles flying vs 9,245.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth => Adelaide => Sydney
+-----------------------------------
+Path from Milwaukee to Zhenjiang (14,763.33 miles flying vs 6,957.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Zhenjiang
+-----------------------------------
+Path from Milwaukee to Gizeh (10,044.22 miles flying vs 6,091.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Gizeh
+-----------------------------------
+Path from Milwaukee to Guadalupe (1,387.72 miles flying vs 1,387.72 miles direct): 
+Milwaukee => Guadalupe
+-----------------------------------
+Path from Milwaukee to Xiangtan (14,669.09 miles flying vs 7,365.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xiangtan
+-----------------------------------
+Path from Milwaukee to Faisalabad (12,472.21 miles flying vs 7,157.69 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil => Faisalabad
+-----------------------------------
+Path from Milwaukee to Shatian (14,977.34 miles flying vs 7,705.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Shatian
+-----------------------------------
+Path from Milwaukee to Qingdao (14,601.49 miles flying vs 6,690.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Cangzhou => Qingdao
+-----------------------------------
+Path from Milwaukee to Palembang (15,026.55 miles flying vs 9,565.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Palembang
+-----------------------------------
+Path from Milwaukee to Wuxi (14,829.95 miles flying vs 6,981.71 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Wuxi
+-----------------------------------
+Path from Milwaukee to Hamburg (9,689.29 miles flying vs 4,198.03 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Hamburg
+-----------------------------------
+Path from Milwaukee to Peshawar (12,331.62 miles flying vs 6,960.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Kabul => Peshawar
+-----------------------------------
+Path from Milwaukee to Amritsar (12,565.18 miles flying vs 7,166.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => al-Mawsil => Amritsar
+-----------------------------------
+Path from Milwaukee to Santiago DM (1,914.81 miles flying vs 1,914.81 miles direct): 
+Milwaukee => Santiago DM
+-----------------------------------
+Path from Milwaukee to Louisville (354.42 miles flying vs 354.42 miles direct): 
+Milwaukee => Louisville
+-----------------------------------
+Path from Milwaukee to Shijiazhuang (14,277.70 miles flying vs 6,662.24 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Shijiazhuang
+-----------------------------------
+Path from Milwaukee to Luancheng (14,292.59 miles flying vs 6,670.90 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Luancheng
+-----------------------------------
+Path from Milwaukee to Dubai (11,341.58 miles flying vs 7,174.96 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Dubai
+-----------------------------------
+Path from Milwaukee to Ahvaz (11,074.28 miles flying vs 6,618.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Suez => Ahvaz
+-----------------------------------
+Path from Milwaukee to Washington (638.72 miles flying vs 638.72 miles direct): 
+Milwaukee => Washington
+-----------------------------------
+Path from Milwaukee to Port Said (10,125.57 miles flying vs 6,065.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi => Port Said
+-----------------------------------
+Path from Milwaukee to Cracow (9,835.70 miles flying vs 4,681.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Cracow
+-----------------------------------
+Path from Milwaukee to Eskisehir (10,086.66 miles flying vs 5,548.68 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Eskisehir
+-----------------------------------
+Path from Milwaukee to Nezahualcoyotl (1,757.09 miles flying vs 1,757.09 miles direct): 
+Milwaukee => Nezahualcoyotl
+-----------------------------------
+Path from Milwaukee to Yekaterinburg (11,542.41 miles flying vs 5,299.73 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Budapest => Yekaterinburg
+-----------------------------------
+Path from Milwaukee to al-Madinah (10,378.51 miles flying vs 6,708.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah
+-----------------------------------
+Path from Milwaukee to as-Sulaymaniyah (10,856.27 miles flying vs 6,266.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => as-Sulaymaniyah
+-----------------------------------
+Path from Milwaukee to Nuremberg (9,507.78 miles flying vs 4,398.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Nuremberg
+-----------------------------------
+Path from Milwaukee to Dallas (855.84 miles flying vs 855.84 miles direct): 
+Milwaukee => Dallas
+-----------------------------------
+Path from Milwaukee to Helsinki (10,410.84 miles flying vs 4,369.43 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Casablanca => Hanover => Helsinki
+-----------------------------------
+Path from Milwaukee to Jaboatao (5,051.47 miles flying vs 4,849.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Sao Luis => Jaboatao
+-----------------------------------
+Path from Milwaukee to Xingtai (14,326.11 miles flying vs 6,727.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Xingtai
+-----------------------------------
+Path from Milwaukee to Jammu (12,541.29 miles flying vs 7,093.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Mashhad => Jammu
+-----------------------------------
+Path from Milwaukee to Lome (7,643.22 miles flying vs 5,896.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Lome
+-----------------------------------
+Path from Milwaukee to Puente Alto (5,419.16 miles flying vs 5,413.37 miles direct): 
+Milwaukee => Havanna => Quito => Lima => Puente Alto
+-----------------------------------
+Path from Milwaukee to Duque de Caxias (5,371.57 miles flying vs 5,363.84 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Duque de Caxias
+-----------------------------------
+Path from Milwaukee to Chiclayo (3,488.75 miles flying vs 3,481.84 miles direct): 
+Milwaukee => Havanna => Guayaquil => Chiclayo
+-----------------------------------
+Path from Milwaukee to Cali (2,831.06 miles flying vs 2,827.99 miles direct): 
+Milwaukee => Havanna => Cali
+-----------------------------------
+Path from Milwaukee to Rosario (5,531.58 miles flying vs 5,530.70 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba => Rosario
+-----------------------------------
+Path from Milwaukee to Chandigarh (12,686.77 miles flying vs 7,250.28 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Quetta => Chandigarh
+-----------------------------------
+Path from Milwaukee to Bhubaneswar (13,283.96 miles flying vs 8,048.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Bhubaneswar
+-----------------------------------
+Path from Milwaukee to Mykolayiv (10,234.28 miles flying vs 5,220.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Mykolayiv
+-----------------------------------
+Path from Milwaukee to Rio de Janeiro (5,383.50 miles flying vs 5,375.76 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Rio de Janeiro
+-----------------------------------
+Path from Milwaukee to Shiliguri (13,394.44 miles flying vs 7,613.63 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Dubai => Agra => Shiliguri
+-----------------------------------
+Path from Milwaukee to Sao Paulo (5,308.18 miles flying vs 5,301.14 miles direct): 
+Milwaukee => Santiago DM => Manaus => Sao Paulo
+-----------------------------------
+Path from Milwaukee to Ibadan (7,808.19 miles flying vs 5,969.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ibadan
+-----------------------------------
+Path from Milwaukee to Birmingham (9,387.34 miles flying vs 3,809.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Birmingham
+-----------------------------------
+Path from Milwaukee to Havanna (1,414.34 miles flying vs 1,414.34 miles direct): 
+Milwaukee => Havanna
+-----------------------------------
+Path from Milwaukee to Tbilisi (10,838.42 miles flying vs 5,888.34 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Istanbul => Tbilisi
+-----------------------------------
+Path from Milwaukee to Douala (8,236.17 miles flying vs 6,416.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala
+-----------------------------------
+Path from Milwaukee to Kampala (9,835.32 miles flying vs 7,712.77 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Warri => Kampala
+-----------------------------------
+Path from Milwaukee to Baltimore (645.01 miles flying vs 645.01 miles direct): 
+Milwaukee => Baltimore
+-----------------------------------
+Path from Milwaukee to Muqdisho (10,686.98 miles flying vs 8,188.52 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Onitsha => Bangui => Muqdisho
+-----------------------------------
+Path from Milwaukee to Abeokuta (7,770.00 miles flying vs 5,950.78 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Abeokuta
+-----------------------------------
+Path from Milwaukee to Bayrut (10,299.37 miles flying vs 6,038.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Bayrut
+-----------------------------------
+Path from Milwaukee to Torreon (1,492.87 miles flying vs 1,492.87 miles direct): 
+Milwaukee => Torreon
+-----------------------------------
+Path from Milwaukee to Umm Durman (9,756.83 miles flying vs 6,908.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Umm Durman
+-----------------------------------
+Path from Milwaukee to Philadelphia (696.28 miles flying vs 696.28 miles direct): 
+Milwaukee => Philadelphia
+-----------------------------------
+Path from Milwaukee to Zhangjiakou (14,162.06 miles flying vs 6,471.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Zhangjiakou
+-----------------------------------
+Path from Milwaukee to Kumamoto (15,163.46 miles flying vs 6,656.83 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Panjin => Kumamoto
+-----------------------------------
+Path from Milwaukee to Jamnagar (12,258.15 miles flying vs 7,702.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Jamnagar
+-----------------------------------
+Path from Milwaukee to Detroit (251.74 miles flying vs 251.74 miles direct): 
+Milwaukee => Detroit
+-----------------------------------
+Path from Milwaukee to Charlotte (664.16 miles flying vs 664.16 miles direct): 
+Milwaukee => Charlotte
+-----------------------------------
+Path from Milwaukee to Kyoto (15,225.26 miles flying vs 6,383.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Changchun => Kyoto
+-----------------------------------
+Path from Milwaukee to Cape Town (10,566.66 miles flying vs 8,540.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Cape Town
+-----------------------------------
+Path from Milwaukee to Jamshedpur (13,284.26 miles flying vs 7,876.36 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Jamshedpur
+-----------------------------------
+Path from Milwaukee to Lagos (7,775.43 miles flying vs 5,981.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Lagos
+-----------------------------------
+Path from Milwaukee to Davao (16,063.21 miles flying vs 8,385.11 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Bangkok => Davao
+-----------------------------------
+Path from Milwaukee to Kiev (10,251.02 miles flying vs 4,997.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev
+-----------------------------------
+Path from Milwaukee to Melbourne (18,800.89 miles flying vs 9,681.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth => Melbourne
+-----------------------------------
+Path from Milwaukee to Padang (14,691.44 miles flying vs 9,487.55 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang
+-----------------------------------
+Path from Milwaukee to Suez (10,108.47 miles flying vs 6,143.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Suez
+-----------------------------------
+Path from Milwaukee to Hai Phong (14,597.30 miles flying vs 7,927.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Dhaka => Hai Phong
+-----------------------------------
+Path from Milwaukee to Jiangmen (14,915.98 miles flying vs 7,712.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Jiangmen
+-----------------------------------
+Path from Milwaukee to Curitiba (5,335.95 miles flying vs 5,334.89 miles direct): 
+Milwaukee => Santiago DM => Manaus => Curitiba
+-----------------------------------
+Path from Milwaukee to Brisbane (19,429.41 miles flying vs 8,917.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth => Adelaide => Brisbane
+-----------------------------------
+Path from Milwaukee to Kitakyushu (15,109.27 miles flying vs 6,586.54 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Dandong => Kitakyushu
+-----------------------------------
+Path from Milwaukee to Tiruchchirappalli (13,037.77 miles flying vs 8,625.52 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Tiruchchirappalli
+-----------------------------------
+Path from Milwaukee to Kwangju (14,900.37 miles flying vs 6,606.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk => Ulaanbaatar => Kwangju
+-----------------------------------
+Path from Milwaukee to Thiruvananthapuram (13,126.73 miles flying vs 8,754.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Thiruvananthapuram
+-----------------------------------
+Path from Milwaukee to Ludhiana (12,631.35 miles flying vs 7,228.03 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Zahedan => Ludhiana
+-----------------------------------
+Path from Milwaukee to Guadalajara (1,785.32 miles flying vs 1,785.32 miles direct): 
+Milwaukee => Guadalajara
+-----------------------------------
+Path from Milwaukee to Tlaquepaque (1,786.32 miles flying vs 1,786.32 miles direct): 
+Milwaukee => Tlaquepaque
+-----------------------------------
+Path from Milwaukee to Changzhi (14,296.03 miles flying vs 6,891.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Changzhi
+-----------------------------------
+Path from Milwaukee to Dandong (14,549.36 miles flying vs 6,347.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Dandong
+-----------------------------------
+Path from Milwaukee to Oslo (10,059.82 miles flying vs 3,984.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Oslo
+-----------------------------------
+Path from Milwaukee to Ribeirao das Neves (5,175.98 miles flying vs 5,160.73 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Ribeirao das Neves
+-----------------------------------
+Path from Milwaukee to Gaoxiong (15,249.74 miles flying vs 7,559.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Lanzhou => Gaoxiong
+-----------------------------------
+Path from Milwaukee to Hims (10,366.79 miles flying vs 6,034.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Hims
+-----------------------------------
+Path from Milwaukee to Calgary (1,337.97 miles flying vs 1,337.97 miles direct): 
+Milwaukee => Calgary
+-----------------------------------
+Path from Milwaukee to Jerusalem (10,292.94 miles flying vs 6,144.35 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi => Jerusalem
+-----------------------------------
+Path from Milwaukee to Barnaul (12,477.81 miles flying vs 5,759.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul
+-----------------------------------
+Path from Milwaukee to Saint Petersburg (10,555.11 miles flying vs 4,516.52 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Marrakesh => Berlin => Saint Petersburg
+-----------------------------------
+Path from Milwaukee to Surat (12,455.26 miles flying vs 7,836.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Jamnagar => Surat
+-----------------------------------
+Path from Milwaukee to Taegu (14,921.89 miles flying vs 6,521.05 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Irkutsk => Taegu
+-----------------------------------
+Path from Milwaukee to Karaj (11,164.95 miles flying vs 6,409.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil => Karaj
+-----------------------------------
+Path from Milwaukee to Lanzhou (13,889.71 miles flying vs 6,925.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Lanzhou
+-----------------------------------
+Path from Milwaukee to Kuching (15,216.51 miles flying vs 9,156.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Ipoh => Kuching
+-----------------------------------
+Path from Milwaukee to Pingdingshan (14,426.68 miles flying vs 6,967.54 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Pingdingshan
+-----------------------------------
+Path from Milwaukee to Zaragoza (8,727.87 miles flying vs 4,231.78 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Rabat => Zaragoza
+-----------------------------------
+Path from Milwaukee to Medan (14,422.83 miles flying vs 9,192.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Medan
+-----------------------------------
+Path from Milwaukee to Sendai (15,255.90 miles flying vs 6,042.24 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Qiqihar => Sendai
+-----------------------------------
+Path from Milwaukee to Ribeirao Preto (5,131.45 miles flying vs 5,122.32 miles direct): 
+Milwaukee => Santiago DM => Manaus => Ribeirao Preto
+-----------------------------------
+Path from Milwaukee to Culiacan (1,675.04 miles flying vs 1,675.04 miles direct): 
+Milwaukee => Culiacan
+-----------------------------------
+Path from Milwaukee to Pune (12,507.07 miles flying vs 8,031.66 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pune
+-----------------------------------
+Path from Milwaukee to Guarulhos (5,309.23 miles flying vs 5,301.35 miles direct): 
+Milwaukee => Santiago DM => Manaus => Guarulhos
+-----------------------------------
+Path from Milwaukee to Enugu (8,059.33 miles flying vs 6,193.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Enugu
+-----------------------------------
+Path from Milwaukee to Jiddah (10,284.36 miles flying vs 6,859.24 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah
+-----------------------------------
+Path from Milwaukee to Petare (2,584.28 miles flying vs 2,583.88 miles direct): 
+Milwaukee => Charlotte => Petare
+-----------------------------------
+Path from Milwaukee to Yerevan (10,813.79 miles flying vs 5,970.99 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Yerevan
+-----------------------------------
+Path from Milwaukee to Indianapolis (245.58 miles flying vs 245.58 miles direct): 
+Milwaukee => Indianapolis
+-----------------------------------
+Path from Milwaukee to Maracaibo (2,446.02 miles flying vs 2,440.69 miles direct): 
+Milwaukee => Jacksonville => Maracaibo
+-----------------------------------
+Path from Milwaukee to Mwanza (9,900.99 miles flying vs 7,871.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala => Mwanza
+-----------------------------------
+Path from Milwaukee to Singapore (14,814.05 miles flying vs 9,290.35 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Medan => Singapore
+-----------------------------------
+Path from Milwaukee to Tuxtla Gutierrez (1,843.96 miles flying vs 1,843.96 miles direct): 
+Milwaukee => Tuxtla Gutierrez
+-----------------------------------
+Path from Milwaukee to Sagamihara (15,331.60 miles flying vs 6,243.09 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Sagamihara
+-----------------------------------
+Path from Milwaukee to Ife (7,850.67 miles flying vs 5,996.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ife
+-----------------------------------
+Path from Milwaukee to Kingston (1,852.39 miles flying vs 1,852.39 miles direct): 
+Milwaukee => Kingston
+-----------------------------------
+Path from Milwaukee to al-Mawsil (10,726.11 miles flying vs 6,152.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => al-Mawsil
+-----------------------------------
+Path from Milwaukee to Pimpri (12,504.66 miles flying vs 8,024.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pimpri
+-----------------------------------
+Path from Milwaukee to Goteborg (9,962.53 miles flying vs 4,103.82 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Goteborg
+-----------------------------------
+Path from Milwaukee to Aparecida de Goiania (4,820.15 miles flying vs 4,813.95 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Aparecida de Goiania
+-----------------------------------
+Path from Milwaukee to Kota (12,616.67 miles flying vs 7,614.89 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Kota
+-----------------------------------
+Path from Milwaukee to Winnipeg (642.64 miles flying vs 642.64 miles direct): 
+Milwaukee => Winnipeg
+-----------------------------------
+Path from Milwaukee to Zahedan (11,729.97 miles flying vs 7,050.78 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Zahedan
+-----------------------------------
+Path from Milwaukee to Taiyuan (14,214.57 miles flying vs 6,702.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Taiyuan
+-----------------------------------
+Path from Milwaukee to Xian (14,199.83 miles flying vs 6,992.64 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xian
+-----------------------------------
+Path from Milwaukee to Chongqing (14,295.05 miles flying vs 7,338.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chongqing
+-----------------------------------
+Path from Milwaukee to Phoenix (1,456.59 miles flying vs 1,456.59 miles direct): 
+Milwaukee => Phoenix
+-----------------------------------
+Path from Milwaukee to Aracaju (5,047.41 miles flying vs 4,918.14 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Belem => Aracaju
+-----------------------------------
+Path from Milwaukee to Pyongyang (14,654.48 miles flying vs 6,389.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Pyongyang
+-----------------------------------
+Path from Milwaukee to Luanda (8,799.27 miles flying vs 7,202.55 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda
+-----------------------------------
+Path from Milwaukee to Zaporizhzhya (10,392.96 miles flying vs 5,269.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zaporizhzhya
+-----------------------------------
+Path from Milwaukee to Boma (8,687.99 miles flying vs 7,054.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Boma
+-----------------------------------
+Path from Milwaukee to Goiania (4,813.45 miles flying vs 4,807.27 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Goiania
+-----------------------------------
+Path from Milwaukee to Kolwezi (9,611.43 miles flying vs 7,914.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Pointe Noire => Kolwezi
+-----------------------------------
+Path from Milwaukee to Xuzhou (14,571.24 miles flying vs 6,866.83 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Xuzhou
+-----------------------------------
+Path from Milwaukee to Ampang Jaya (14,629.02 miles flying vs 9,191.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Ampang Jaya
+-----------------------------------
+Path from Milwaukee to Quebec (857.48 miles flying vs 857.48 miles direct): 
+Milwaukee => Quebec
+-----------------------------------
+Path from Milwaukee to Chihuahua (1,417.09 miles flying vs 1,417.09 miles direct): 
+Milwaukee => Chihuahua
+-----------------------------------
+Path from Milwaukee to Pietermaritzburg (10,615.65 miles flying vs 8,968.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Pietermaritzburg
+-----------------------------------
+Path from Milwaukee to Liaoyang (14,447.51 miles flying vs 6,299.00 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Liaoyang
+-----------------------------------
+Path from Milwaukee to Orumiyeh (10,828.73 miles flying vs 6,138.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Orumiyeh
+-----------------------------------
+Path from Milwaukee to Blantyre (10,326.45 miles flying vs 8,616.08 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Boma => Blantyre
+-----------------------------------
+Path from Milwaukee to Zamboanga (15,832.55 miles flying vs 8,507.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur => Phnum Penh => Zamboanga
+-----------------------------------
+Path from Milwaukee to Ankara (10,206.47 miles flying vs 5,620.80 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Ankara
+-----------------------------------
+Path from Milwaukee to Yantai (14,570.65 miles flying vs 6,575.02 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Naberezhnyye Chelny => Novokuznetsk => Yantai
+-----------------------------------
+Path from Milwaukee to Haora (13,420.89 miles flying vs 7,899.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn => Jamshedpur => Haora
+-----------------------------------
+Path from Milwaukee to Tunis (8,995.01 miles flying vs 4,906.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Tunis
+-----------------------------------
+Path from Milwaukee to Zhunmen (14,965.96 miles flying vs 7,707.02 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Zhunmen
+-----------------------------------
+Path from Milwaukee to Fushun (14,442.66 miles flying vs 6,247.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fushun
+-----------------------------------
+Path from Milwaukee to Pusan (14,978.12 miles flying vs 6,557.64 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Pusan
+-----------------------------------
+Path from Milwaukee to Huainan (14,644.87 miles flying vs 6,978.08 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Huainan
+-----------------------------------
+Path from Milwaukee to Fort Worth (875.81 miles flying vs 875.81 miles direct): 
+Milwaukee => Fort Worth
+-----------------------------------
+Path from Milwaukee to Monterrey (1,390.03 miles flying vs 1,390.03 miles direct): 
+Milwaukee => Monterrey
+-----------------------------------
+Path from Milwaukee to Yaroslavl (10,794.29 miles flying vs 4,862.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl
+-----------------------------------
+Path from Milwaukee to Xigong (14,982.51 miles flying vs 7,707.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Xigong
+-----------------------------------
+Path from Milwaukee to San Diego (1,729.69 miles flying vs 1,729.69 miles direct): 
+Milwaukee => San Diego
+-----------------------------------
+Path from Milwaukee to Brazzaville (8,781.25 miles flying vs 7,089.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Brazzaville
+-----------------------------------
+Path from Milwaukee to Kathmandu (13,199.63 miles flying vs 7,532.71 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Kathmandu
+-----------------------------------
+Path from Milwaukee to Lopez Mateos (1,751.60 miles flying vs 1,751.60 miles direct): 
+Milwaukee => Lopez Mateos
+-----------------------------------
+Path from Milwaukee to Jinan (14,442.32 miles flying vs 6,712.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Hohhot => Jinan
+-----------------------------------
+Path from Milwaukee to Akure (7,895.04 miles flying vs 6,038.82 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Akure
+-----------------------------------
+Path from Milwaukee to Istanbul (10,019.75 miles flying vs 5,427.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Istanbul
+-----------------------------------
+Path from Milwaukee to Las Vegas (1,518.26 miles flying vs 1,518.26 miles direct): 
+Milwaukee => Las Vegas
+-----------------------------------
+Path from Milwaukee to Boston (861.14 miles flying vs 861.14 miles direct): 
+Milwaukee => Boston
+-----------------------------------
+Path from Milwaukee to Munich (9,461.42 miles flying vs 4,471.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Munich
+-----------------------------------
+Path from Milwaukee to Maracay (2,578.15 miles flying vs 2,577.11 miles direct): 
+Milwaukee => Charlotte => Maracay
+-----------------------------------
+Path from Milwaukee to Shashi (14,522.95 miles flying vs 7,211.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Shashi
+-----------------------------------
+Path from Milwaukee to Kunming (14,289.59 miles flying vs 7,686.50 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Dubai => Agra => Kunming
+-----------------------------------
+Path from Milwaukee to Mecca (10,323.04 miles flying vs 6,887.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca
+-----------------------------------
+Path from Milwaukee to Irbil (10,774.83 miles flying vs 6,187.91 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil
+-----------------------------------
+Path from Milwaukee to Xinyang (14,527.85 miles flying vs 7,061.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xinyang
+-----------------------------------
+Path from Milwaukee to Freetown (6,630.15 miles flying vs 5,051.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown
+-----------------------------------
+Path from Milwaukee to Bogor (15,281.94 miles flying vs 9,766.41 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bogor
+-----------------------------------
+Path from Milwaukee to Athens (9,702.19 miles flying vs 5,395.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Athens
+-----------------------------------
+Path from Milwaukee to Abu Dhabi (11,272.43 miles flying vs 7,196.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi
+-----------------------------------
+Path from Milwaukee to Ta'izz (10,525.13 miles flying vs 7,490.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => N'Djamena => Ta'izz
+-----------------------------------
+Path from Milwaukee to Karachi (12,063.80 miles flying vs 7,485.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi
+-----------------------------------
+Path from Milwaukee to Barcelona Spain (8,806.42 miles flying vs 4,372.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Barcelona Spain
+-----------------------------------
+Path from Milwaukee to Ningbo (14,968.08 miles flying vs 7,064.56 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Ningbo
+-----------------------------------
+Path from Milwaukee to Ajmer (12,543.58 miles flying vs 7,512.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Ajmer
+-----------------------------------
+Path from Milwaukee to Bursa (10,021.32 miles flying vs 5,477.20 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Bursa
+-----------------------------------
+Path from Milwaukee to Perm (11,385.42 miles flying vs 5,159.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Vienna => Perm
+-----------------------------------
+Path from Milwaukee to N'Djamena (8,569.62 miles flying vs 6,292.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => N'Djamena
+-----------------------------------
+Path from Milwaukee to Garoua (8,449.46 miles flying vs 6,347.46 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Garoua
+-----------------------------------
+Path from Milwaukee to Nagpur (12,842.95 miles flying vs 7,928.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Nagpur
+-----------------------------------
+Path from Milwaukee to Faridabad (12,711.67 miles flying vs 7,417.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Faridabad
+-----------------------------------
+Path from Milwaukee to ad-Dammam (11,048.05 miles flying vs 6,950.30 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => ad-Dammam
+-----------------------------------
+Path from Milwaukee to Guntur (12,945.15 miles flying vs 8,273.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur
+-----------------------------------
+Path from Milwaukee to Zhangzhou (15,041.02 miles flying vs 7,495.16 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xining => Zhangzhou
+-----------------------------------
+Path from Milwaukee to Izhevsk (11,265.49 miles flying vs 5,179.01 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => L'viv => Izhevsk
+-----------------------------------
+Path from Milwaukee to Tangier (8,244.06 miles flying vs 4,238.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Tangier
+-----------------------------------
+Path from Milwaukee to Saltillo (1,424.93 miles flying vs 1,424.93 miles direct): 
+Milwaukee => Saltillo
+-----------------------------------
+Path from Milwaukee to Vancouver (1,720.42 miles flying vs 1,720.42 miles direct): 
+Milwaukee => Vancouver
+-----------------------------------
+Path from Milwaukee to Sharjah (11,347.81 miles flying vs 7,171.02 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah
+-----------------------------------
+Path from Milwaukee to Algiers (8,597.64 miles flying vs 4,598.87 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers
+-----------------------------------
+Path from Milwaukee to Haikou (14,839.60 miles flying vs 7,928.35 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Dhaka => Haikou
+-----------------------------------
+Path from Milwaukee to Gulbarga (12,709.47 miles flying vs 8,157.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Gulbarga
+-----------------------------------
+Path from Milwaukee to Porto Alegre (5,576.85 miles flying vs 5,565.37 miles direct): 
+Milwaukee => Port-au-Prince => Valencia => Cuiaba => Porto Alegre
+-----------------------------------
+Path from Milwaukee to Abuja (8,046.86 miles flying vs 6,067.96 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Abuja
+-----------------------------------
+Path from Milwaukee to Quito (3,047.58 miles flying vs 3,047.11 miles direct): 
+Milwaukee => Havanna => Quito
+-----------------------------------
+Path from Milwaukee to Benxi (14,465.12 miles flying vs 6,284.52 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Benxi
+-----------------------------------
+Path from Milwaukee to Rajshahi (13,419.11 miles flying vs 7,777.10 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Rajshahi
+-----------------------------------
+Path from Milwaukee to Tyumen (11,728.26 miles flying vs 5,347.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => L'viv => Tyumen
+-----------------------------------
+Path from Milwaukee to Cancun (1,514.74 miles flying vs 1,514.74 miles direct): 
+Milwaukee => Cancun
+-----------------------------------
+Path from Milwaukee to Taibei (15,186.98 miles flying vs 7,378.80 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Wuhan => Taibei
+-----------------------------------
+Path from Milwaukee to Amsterdam (9,498.47 miles flying vs 4,062.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Amsterdam
+-----------------------------------
+Path from Milwaukee to Izmir (9,884.03 miles flying vs 5,499.39 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Izmir
+-----------------------------------
+Path from Milwaukee to Mudanjiang (14,527.07 miles flying vs 5,957.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Mudanjiang
+-----------------------------------
+Path from Milwaukee to Suzhou (14,856.89 miles flying vs 6,993.12 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Suzhou
+-----------------------------------
+Path from Milwaukee to Nanjing (14,749.09 miles flying vs 6,981.89 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Omsk => Baotou => Nanjing
+-----------------------------------
+Path from Milwaukee to Xining (13,781.20 miles flying vs 6,901.37 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Xining
+-----------------------------------
+Path from Milwaukee to Ha Noi (14,541.83 miles flying vs 7,926.78 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Dhaka => Ha Noi
+-----------------------------------
+Path from Milwaukee to Asgabat (11,557.46 miles flying vs 6,458.63 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Antalya => Asgabat
+-----------------------------------
+Path from Milwaukee to Asmara (10,187.10 miles flying vs 7,192.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => Asmara
+-----------------------------------
+Path from Milwaukee to Jalandhar (12,611.20 miles flying vs 7,196.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => al-Mawsil => Jalandhar
+-----------------------------------
+Path from Milwaukee to Kryvyy Rih (10,312.45 miles flying vs 5,211.95 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kryvyy Rih
+-----------------------------------
+Path from Milwaukee to Fortaleza (4,687.55 miles flying vs 4,462.92 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza
+-----------------------------------
+Path from Milwaukee to Islamabad (12,420.98 miles flying vs 7,002.07 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Mashhad => Islamabad
+-----------------------------------
+Path from Milwaukee to Bekasi (15,275.58 miles flying vs 9,738.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bekasi
+-----------------------------------
+Path from Milwaukee to Kataka (13,283.97 miles flying vs 8,034.45 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Kataka
+-----------------------------------
+Path from Milwaukee to Multan (12,367.81 miles flying vs 7,213.51 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Multan
+-----------------------------------
+Path from Milwaukee to Siping (14,395.43 miles flying vs 6,155.75 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping
+-----------------------------------
+Path from Milwaukee to Joinville (5,404.12 miles flying vs 5,402.96 miles direct): 
+Milwaukee => Santiago DM => Manaus => Joinville
+-----------------------------------
+Path from Milwaukee to Biskek (12,305.91 miles flying vs 6,405.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek
+-----------------------------------
+Path from Milwaukee to Quetta (12,104.27 miles flying vs 7,135.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => al-Madinah => Quetta
+-----------------------------------
+Path from Milwaukee to Fez (8,165.14 miles flying vs 4,344.71 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez
+-----------------------------------
+Path from Milwaukee to Bhilai (12,988.79 miles flying vs 7,949.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Rajkot => Bhilai
+-----------------------------------
+Path from Milwaukee to Panjin (14,413.11 miles flying vs 6,327.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Panjin
+-----------------------------------
+Path from Milwaukee to Yingkou (14,447.46 miles flying vs 6,355.65 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Yingkou
+-----------------------------------
+Path from Milwaukee to Brasilia (4,802.82 miles flying vs 4,795.17 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia
+-----------------------------------
+Path from Milwaukee to Zapopan (1,783.67 miles flying vs 1,783.67 miles direct): 
+Milwaukee => Zapopan
+-----------------------------------
+Path from Milwaukee to Rawalpindi (12,422.29 miles flying vs 7,009.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Kabul => Rawalpindi
+-----------------------------------
+Path from Milwaukee to El Alto (4,306.01 miles flying vs 4,305.26 miles direct): 
+Milwaukee => Jacksonville => Cartagena => El Alto
+-----------------------------------
+Path from Milwaukee to Merida (1,530.11 miles flying vs 1,530.11 miles direct): 
+Milwaukee => Merida
+-----------------------------------
+Path from Milwaukee to Harbin (14,364.44 miles flying vs 5,946.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin
+-----------------------------------
+Path from Milwaukee to Albuquerque (1,137.73 miles flying vs 1,137.73 miles direct): 
+Milwaukee => Albuquerque
+-----------------------------------
+Path from Milwaukee to Feira de Santana (5,017.99 miles flying vs 4,916.81 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Belem => Feira de Santana
+-----------------------------------
+Path from Milwaukee to Cartagena (2,379.97 miles flying vs 2,379.41 miles direct): 
+Milwaukee => Jacksonville => Cartagena
+-----------------------------------
+Path from Milwaukee to Tolyatti (11,084.34 miles flying vs 5,309.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Tolyatti
+-----------------------------------
+Path from Milwaukee to Vladivostok (14,679.35 miles flying vs 5,993.94 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Vladivostok
+-----------------------------------
+Path from Milwaukee to Puchon (14,771.52 miles flying vs 6,463.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Puchon
+-----------------------------------
+Path from Milwaukee to San Salvador (2,033.82 miles flying vs 2,031.72 miles direct): 
+Milwaukee => Chicago => San Salvador
+-----------------------------------
+Path from Milwaukee to Nanded (12,734.02 miles flying vs 8,040.73 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Bombay => Nanded
+-----------------------------------
+Path from Milwaukee to Hamhung (14,672.53 miles flying vs 6,293.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Hamhung
+-----------------------------------
+Path from Milwaukee to Banqiao (15,186.52 miles flying vs 7,379.03 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Wuhan => Banqiao
+-----------------------------------
+Path from Milwaukee to 'Amman (10,333.38 miles flying vs 6,160.42 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Ouagadougou => Benghazi => 'Amman
+-----------------------------------
+Path from Milwaukee to Yueyang (14,605.16 miles flying vs 7,260.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Yueyang
+-----------------------------------
+Path from Milwaukee to Visakhapatnam (13,130.98 miles flying vs 8,204.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Pune => Visakhapatnam
+-----------------------------------
+Path from Milwaukee to Kayseri (10,322.05 miles flying vs 5,772.84 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Kayseri
+-----------------------------------
+Path from Milwaukee to Yokohama (15,346.06 miles flying vs 6,242.23 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Harbin => Yokohama
+-----------------------------------
+Path from Milwaukee to Memphis (560.35 miles flying vs 560.35 miles direct): 
+Milwaukee => Memphis
+-----------------------------------
+Path from Milwaukee to Zhengzhou (14,405.15 miles flying vs 6,893.93 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Zhengzhou
+-----------------------------------
+Path from Milwaukee to Mar del Plata (5,920.27 miles flying vs 5,919.43 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba => Mar del Plata
+-----------------------------------
+Path from Milwaukee to Rongcheng (15,028.05 miles flying vs 7,586.61 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chongqing => Rongcheng
+-----------------------------------
+Path from Milwaukee to Gold Coast (19,427.55 miles flying vs 8,920.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Bandar Lampung => Perth => Adelaide => Gold Coast
+-----------------------------------
+Path from Milwaukee to Phnum Penh (14,618.77 miles flying vs 8,580.19 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur => Phnum Penh
+-----------------------------------
+Path from Milwaukee to Brussels (9,395.37 miles flying vs 4,098.33 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Brussels
+-----------------------------------
+Path from Milwaukee to Dasmarinas (15,627.89 miles flying vs 8,074.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Chattagam => Dasmarinas
+-----------------------------------
+Path from Milwaukee to El Paso (1,271.08 miles flying vs 1,271.08 miles direct): 
+Milwaukee => El Paso
+-----------------------------------
+Path from Milwaukee to Cochabamba (4,402.71 miles flying vs 4,401.98 miles direct): 
+Milwaukee => Kingston => Bucaramanga => Cochabamba
+-----------------------------------
+Path from Milwaukee to Santo Andre (5,318.60 miles flying vs 5,311.49 miles direct): 
+Milwaukee => Santiago DM => Manaus => Santo Andre
+-----------------------------------
+Path from Milwaukee to Kigali (9,702.04 miles flying vs 7,707.28 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Douala => Kigali
+-----------------------------------
+Path from Milwaukee to Konya (10,150.71 miles flying vs 5,717.66 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Konya
+-----------------------------------
+Path from Milwaukee to Contagem (5,182.75 miles flying vs 5,168.87 miles direct): 
+Milwaukee => Santo Domingo => Ciudad Guayana => Brasilia => Contagem
+-----------------------------------
+Path from Milwaukee to Medellin (2,653.34 miles flying vs 2,652.59 miles direct): 
+Milwaukee => Atlanta => Medellin
+-----------------------------------
+Path from Milwaukee to Ecatepec (1,745.10 miles flying vs 1,745.10 miles direct): 
+Milwaukee => Ecatepec
+-----------------------------------
+Path from Milwaukee to Bulawayo (10,089.74 miles flying vs 8,490.72 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Bulawayo
+-----------------------------------
+Path from Milwaukee to Mashhad (11,637.64 miles flying vs 6,591.31 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Mersin => Mashhad
+-----------------------------------
+Path from Milwaukee to Manaus (3,637.24 miles flying vs 3,636.76 miles direct): 
+Milwaukee => Santiago DM => Manaus
+-----------------------------------
+Path from Milwaukee to Ho Chi Minh City (14,748.72 miles flying vs 8,608.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur => Ho Chi Minh City
+-----------------------------------
+Path from Milwaukee to Stockholm (10,191.40 miles flying vs 4,219.48 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Stockholm
+-----------------------------------
+Path from Milwaukee to Jos (8,143.32 miles flying vs 6,096.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Jos
+-----------------------------------
+Path from Milwaukee to Conakry (6,635.89 miles flying vs 4,980.74 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry
+-----------------------------------
+Path from Milwaukee to Ansan (14,781.61 miles flying vs 6,469.82 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Fuxin => Ansan
+-----------------------------------
+Path from Milwaukee to Shenyang (14,430.84 miles flying vs 6,260.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Shenyang
+-----------------------------------
+Path from Milwaukee to Aligarh (12,756.32 miles flying vs 7,459.13 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Jiddah => Sharjah => Aligarh
+-----------------------------------
+Path from Milwaukee to Lahore (12,537.99 miles flying vs 7,164.86 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Irbil => Lahore
+-----------------------------------
+Path from Milwaukee to Vilnius (10,203.59 miles flying vs 4,632.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Munich => Vilnius
+-----------------------------------
+Path from Milwaukee to Aleppo (10,393.39 miles flying vs 5,967.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Aleppo
+-----------------------------------
+Path from Milwaukee to Huaibei (14,573.29 miles flying vs 6,895.53 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Taiyuan => Huaibei
+-----------------------------------
+Path from Milwaukee to Baoding (14,275.70 miles flying vs 6,592.42 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Baoding
+-----------------------------------
+Path from Milwaukee to Kagoshima (15,224.73 miles flying vs 6,735.17 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Zagreb => Kazan => Novosibirsk => Ulaanbaatar => Kagoshima
+-----------------------------------
+Path from Milwaukee to Anyang China (14,373.05 miles flying vs 6,794.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Anyang China
+-----------------------------------
+Path from Milwaukee to Mixco (1,970.93 miles flying vs 1,970.93 miles direct): 
+Milwaukee => Mixco
+-----------------------------------
+Path from Milwaukee to Stuttgart (9,417.03 miles flying vs 4,356.88 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Meknes => Stuttgart
+-----------------------------------
+Path from Milwaukee to Khabarovsk (14,583.13 miles flying vs 5,599.01 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Khabarovsk
+-----------------------------------
+Path from Milwaukee to Dortmund (9,512.97 miles flying vs 4,187.98 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Agadir => Dortmund
+-----------------------------------
+Path from Milwaukee to Ryazan (10,719.44 miles flying vs 5,023.67 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Budapest => Ryazan
+-----------------------------------
+Path from Milwaukee to Bhatpara (13,422.70 miles flying vs 7,878.77 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Bhatpara
+-----------------------------------
+Path from Milwaukee to Dadiangas (16,057.41 miles flying vs 8,458.97 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Guntur => Phnum Penh => Dadiangas
+-----------------------------------
+Path from Milwaukee to Ufa (11,356.94 miles flying vs 5,356.15 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Ufa
+-----------------------------------
+Path from Milwaukee to Kanpur (12,895.71 miles flying vs 7,579.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => Mecca => Abu Dhabi => Kanpur
+-----------------------------------
+Path from Milwaukee to Ulhasnagar (12,464.16 miles flying vs 7,973.27 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Ulhasnagar
+-----------------------------------
+Path from Milwaukee to Lima (3,874.88 miles flying vs 3,873.40 miles direct): 
+Milwaukee => Havanna => Quito => Lima
+-----------------------------------
+Path from Milwaukee to Atlanta (670.90 miles flying vs 670.90 miles direct): 
+Milwaukee => Atlanta
+-----------------------------------
+Path from Milwaukee to Odesa (10,167.14 miles flying vs 5,207.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Odesa
+-----------------------------------
+Path from Milwaukee to Wuhan (14,603.71 miles flying vs 7,161.04 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Donetsk => Volgograd => Shihezi => Wuhan
+-----------------------------------
+Path from Milwaukee to Rabat (8,108.76 miles flying vs 4,259.70 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Rabat
+-----------------------------------
+Path from Milwaukee to Tripoli (9,011.47 miles flying vs 5,213.32 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli
+-----------------------------------
+Path from Milwaukee to Pretoria (10,327.29 miles flying vs 8,706.38 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Natal => Monrovia => Luanda => Pretoria
+-----------------------------------
+Path from Milwaukee to Durgapur (13,346.32 miles flying vs 7,832.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => Karachi => Durgapur
+-----------------------------------
+Path from Milwaukee to Poznan (9,832.83 miles flying vs 4,476.44 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Fez => Poznan
+-----------------------------------
+Path from Milwaukee to Colombo (13,307.20 miles flying vs 8,904.22 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Colombo
+-----------------------------------
+Path from Milwaukee to Dushanbe (12,109.78 miles flying vs 6,615.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Konya => Dushanbe
+-----------------------------------
+Path from Milwaukee to Kharkiv (10,476.87 miles flying vs 5,184.80 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kharkiv
+-----------------------------------
+Path from Milwaukee to Guiyang (14,445.73 miles flying vs 7,539.59 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Guiyang
+-----------------------------------
+Path from Milwaukee to Chicago (85.63 miles flying vs 85.63 miles direct): 
+Milwaukee => Chicago
+-----------------------------------
+Path from Milwaukee to al-'Ayn (11,354.50 miles flying vs 7,250.76 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Maiduguri => at-Ta'if => al-'Ayn
+-----------------------------------
+Path from Milwaukee to Zunyi (14,392.84 miles flying vs 7,461.26 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong => Zunyi
+-----------------------------------
+Path from Milwaukee to Tijuana (1,734.34 miles flying vs 1,734.34 miles direct): 
+Milwaukee => Tijuana
+-----------------------------------
+Path from Milwaukee to Morelia (1,786.79 miles flying vs 1,786.79 miles direct): 
+Milwaukee => Morelia
+-----------------------------------
+Path from Milwaukee to Dakar (6,618.10 miles flying vs 4,550.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar
+-----------------------------------
+Path from Milwaukee to Chengdu (14,130.07 miles flying vs 7,289.79 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Rostov-na-Donu => Almaty => Chengdu
+-----------------------------------
+Path from Milwaukee to Higashiosaka (15,237.84 miles flying vs 6,408.40 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Wahran => Genoa => Yaroslavl => Krasnoyarsk => Siping => Higashiosaka
+-----------------------------------
+Path from Milwaukee to Port-au-Prince (1,925.11 miles flying vs 1,925.11 miles direct): 
+Milwaukee => Port-au-Prince
+-----------------------------------
+Path from Milwaukee to Hyderabad India (12,817.68 miles flying vs 8,176.29 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Hyderabad India
+-----------------------------------
+Path from Milwaukee to Esfahan (11,237.19 miles flying vs 6,618.77 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Conakry => Bamako => Tripoli => Bayrut => Esfahan
+-----------------------------------
+Path from Milwaukee to Tangerang (15,255.67 miles flying vs 9,743.23 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Freetown => Kano => Khartoum => San'a => Kolhapur => Madras => Padang => Tangerang
+-----------------------------------
+Path from Milwaukee to Zigong (14,217.63 miles flying vs 7,369.47 miles direct): 
+Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Krasnodar => Biskek => Zigong
+-----------------------------------
+Path from Milwaukee to Valencia (2,569.39 miles flying vs 2,568.89 miles direct): 
+Milwaukee => Port-au-Prince => Valencia

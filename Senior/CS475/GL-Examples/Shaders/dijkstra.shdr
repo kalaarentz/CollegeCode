@@ -1,0 +1,78 @@
+///VERT
+#version 410
+
+precision highp float;
+
+layout(location=0) in vec3 position;
+layout(location=1) in vec3 normal;
+layout(location=2) in vec2 uv;
+
+uniform mat4 proj;
+uniform mat4 modelview;
+
+out vec3 fragpos;
+out vec3 fragnorm;
+out vec2 fraguv;
+
+void main(void) {
+  fragpos = position;
+  fragnorm = normal;
+  fraguv = uv;
+
+  gl_Position = proj * modelview * vec4(position, 1.0);
+}
+
+///FRAG
+#version 410
+precision highp float;
+
+in vec3 fragpos;
+in vec3 fragnorm;
+in vec2 fraguv;
+
+uniform vec3 lightpos;
+uniform vec4 material;
+uniform vec3 color;
+uniform vec3 srcpos;
+uniform vec3 sinkpos;
+uniform mat4 modelview;
+
+out vec3 outcolor;
+
+// assume lightpos is at infinity, eye is at origin
+void main(void) {
+  vec3 transposition = vec3(modelview * vec4(fragpos,1));
+  vec3 transnormal = normalize(transpose(inverse(mat3(modelview))) * fragnorm);
+
+  float ambient = material[0];
+
+  float diffcmp = max(0.0, dot(transnormal, normalize(lightpos)));
+  float diffuse = material[1] * diffcmp;
+
+  vec3 reflvec = reflect(-normalize(lightpos),transnormal);
+  vec3 eyedir = normalize(-transposition);
+  float specdot = max(0.0, dot(eyedir,reflvec));
+  float speccmp = pow(specdot,material[3]);
+  vec3 specclr = vec3(diffuse > 0);
+  float specular = material[2] * speccmp;
+
+  // ---------------------
+  // use fraguv[1] to construct banding pattern
+  // if near to src of sink vertices override color to be green or red
+  float frac = fract(10 * fraguv[1]);
+  float b = (1 - smoothstep(0.0,0.2,frac)) + smoothstep(0.8,1.0,frac);
+  vec3 visitcolor = (1-b) * color + (b) * vec3(0,0,1);
+
+  vec3 fragcolor = (1-fraguv[0]) * color + (fraguv[0]) * visitcolor;
+
+  vec3 transsrcpos = vec3(modelview * vec4(srcpos,1));
+  vec3 transsinkpos = vec3(modelview * vec4(sinkpos,1));
+  if (distance(transposition,transsrcpos) < 0.04) {
+    fragcolor = vec3(0,1,0);
+  }
+  if (distance(transposition,transsinkpos) < 0.04) {
+    fragcolor = vec3(1,0,0);
+  }
+
+  outcolor = clamp(fragcolor * (ambient + diffuse) + specclr * specular,0,1);
+}

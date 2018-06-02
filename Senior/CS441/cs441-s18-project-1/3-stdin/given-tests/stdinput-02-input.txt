@@ -1,0 +1,9 @@
+Testing 123, Testing 123
+123 aZc ?$; AbE
+Let's check some spaces!
+  
+The following has some tabs!
+		
+The following is an empty line...
+
+!@#$%^&*()_+-=`~<>,./?;:'"{[}]|\ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890

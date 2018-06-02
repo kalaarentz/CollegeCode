@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Your Books</title></head>
+    <body>
+        <div>
+            <a href="index.html">
+                <img src="resources/oldBooks.jpg" alt="Old Books"/>
+            </a>
+            <h1>Booktracker</h1>
+            <span><a href="">Your Books</a></span>
+            <span>&nbsp;|&nbsp;</span>
+            <span><a href="about.html">About</a></span>
+        </div>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Book Title</th>
+                        <th>Author</th>
+                        <th>Bookmark</th>
+                        <th>Book's Rating</th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    <tr>
+                        <td>
+                            <a href="https://www.gutenberg.org/files/53145/53145-h/53145-h.htm">
+                                The Great Taxicab Robbery
+                            </a>
+                        </td>
+                        <td>James H. Collins</td>
+                        <td>Page 123</td>
+                        <td>
+                            <img src="resources/fourStar.png" alt="four star">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.gutenberg.org/files/53151/53151-h/53151-h.htm">In The Firing Lane
+                            </a>
+                        </td>
+                        <td>A. St. John Adcock</td>
+                        <td>Page 233</td>
+                        <td>
+                            <img src="resources/4.5stars.png" 
+                                 alt="four and half star">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.gutenberg.org/files/4358/4358-h/4358-h.htm" >The Sea Fairies
+                            </a>
+                        </td>
+                        <td>L. Frank Baum</td>
+                        <td>Page 59</td>
+                        <td>
+                            <img src="resources/threeStar.png" 
+                                 alt="three star">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.gutenberg.org/files/17987/17987-h/17987-h.htm">
+                                The Mound Builders
+                            </a>
+                        </td>
+                        <td>George Byrce</td>
+                        <td>Page 64</td>
+                        <td> 
+                            <img src="resources/twoStar.png" alt="two star">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.gutenberg.org/files/345/345-h/345-h.htm">Dracula</a>
+                        </td>
+                        <td>Bram Stoker</td>
+                        <td>Page 32</td>
+                        <td>
+                            <img src="resources/fiveStar.png" alt="five star">
+                        </td>
+                    </tr>
+                </tbody>
+                <tfoot></tfoot>
+            </table>
+            <br>
+        </div>
+        <hr>
+        <div>
+            <form action="http://138.49.184.126:3000/booktracker" 
+                  method="post">
+                <label for="bookTitle">Book Title</label><br>
+                <input type="text" name="title" id="bookTitle" 
+                       placeholder="book title"><br>
+                <label for="writer">Author</label><br>
+                <input type="text" name="author" id="writer" 
+                       placeholder="author"><br>
+                <label for="rated">Rating</label><br>
+                <input type="number" name="rating" id="rated"
+                       placeholder="rating" max="5" min="1"><br>
+                <label for="link">URL</label><br>
+                <input type="url" name="url" id="link" 
+                       placeholder="book url"><br>
+                    
+                <input type="submit">
+            </form>
+        </div>
+    </body>
+</html>

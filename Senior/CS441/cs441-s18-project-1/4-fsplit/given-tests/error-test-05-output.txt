@@ -1,0 +1,24 @@
+# Processing: dlee:$60$1d6:XGXma6JeIzaEd$5K7q4F3.yCZVx7vTvVduDjAZxyxtSIF4d.dr6Bgs20hk0qGj5tSa2UUpJTIzALFd8pz2v31KFCPv0fgOXKPJy1
+Error: Input line contains too many ':' separators.
+#---------------------------------------------------
+# Processing: nlee:$61yd5pEb34J5tfFox$j3XKZ8mp4o8T/Xz33F2yxYtm2aRT0xJ2e7/Yx.ncqMy4mAuduLrn1HmP6BzAbAzMpzTivUWCmdm8VhTp4V3Jh.
+Error: Unknown hash ID (61yd5pEb34J5tfFox)
+#---------------------------------------------------
+# Processing: gpeterson:a$-12lGzSU69yzosBg
+Error: Unknown hash ID (a)
+#---------------------------------------------------
+# Processing: fdiaz$:55:nrfjXUw1kwIJNVyC:VMFv5WwJZl/dOG0J0VBZtz1ijf63BpmsdHwpO1BowJvL/ksqQBdgiU5mrFE.hC8e3USncydWfSdFi5FA3sLz40
+Error: Input line contains too many ':' separators.
+#---------------------------------------------------
+# Processing: bevans:$10:pi1rPqWW$wympHqBnpgVDJRzMdEYd80
+Error: Input line contains too many ':' separators.
+#---------------------------------------------------
+# Processing: lmartinez$kpCVtsGTyhzuQ
+Error: Input line missing the ':' separator. Could not find username/hash
+#---------------------------------------------------
+# Number of valid   : 0
+# Number of invalid : 6
+# Number of DES     : 0
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 0

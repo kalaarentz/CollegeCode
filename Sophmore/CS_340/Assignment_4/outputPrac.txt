@@ -1,0 +1,3 @@
+{apple=+a, pples=+d, heology=+b, theo=+c}
+
+t+b +a +as +c

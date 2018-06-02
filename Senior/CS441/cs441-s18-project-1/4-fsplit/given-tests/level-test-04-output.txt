@@ -1,0 +1,21 @@
+# Processing: arogers:$6$P.beGQ9myrCE.i7o$FpiPP8bMqOBGVA3gTmefxTmyiJvQWK55doyMPoUQW96jGafwEmoU3tRls7YPU4w1MFqzuEoMDvW9hUqIuwZOo1
+# arogers / SHA-512 / P.beGQ9myrCE.i7o / FpiPP8bMqOBGVA3gTmefxTmyiJvQWK55doyMPoUQW96jGafwEmoU3tRls7YPU4w1MFqzuEoMDvW9hUqIuwZOo1
+#---------------------------------------------------
+# Processing: fmorris:$6$CI//HEo2aGRbzR/E$7DSKPWp0p1t4EaMr4N.cvJ.O0vEiLPkLhkrrqe.uCSTer9kQDP3EKJpS02t2MxgO1EW//wp/pYdUPRrpHJ5vd0
+# fmorris / SHA-512 / CI//HEo2aGRbzR/E / 7DSKPWp0p1t4EaMr4N.cvJ.O0vEiLPkLhkrrqe.uCSTer9kQDP3EKJpS02t2MxgO1EW//wp/pYdUPRrpHJ5vd0
+#---------------------------------------------------
+# Processing: npatterson:$6$9St5Edt4eH6Plarh$wqJ/kBu5tGgKhC3.7.7mw5PQGddp9P.Y8.m6C1bxADeU0NzVf4NX9v5di2WxAVjzC1IIxjdV4pg1cuRM1TC9N/
+# npatterson / SHA-512 / 9St5Edt4eH6Plarh / wqJ/kBu5tGgKhC3.7.7mw5PQGddp9P.Y8.m6C1bxADeU0NzVf4NX9v5di2WxAVjzC1IIxjdV4pg1cuRM1TC9N/
+#---------------------------------------------------
+# Processing: vsanders:$6$gevP.9Bb9mRMMNtb$gvdtVlo4MHNPDcvNthKVyUtI5VhEPRMoNqjX5AcB3cStRgY1NcaMY51VSv7c0DS6Kt.qASRZtF86w1Ttsac3V1
+# vsanders / SHA-512 / gevP.9Bb9mRMMNtb / gvdtVlo4MHNPDcvNthKVyUtI5VhEPRMoNqjX5AcB3cStRgY1NcaMY51VSv7c0DS6Kt.qASRZtF86w1Ttsac3V1
+#---------------------------------------------------
+# Processing: hhill:$6$.neQprlm1fbEe5e3$8yw7k9EEyF76BoPXiWet4zytE1j2662ia393YwWM8Fb/JdjIhafkX03lZYUSTnhbwrH1uB2T/7dP7z1DpWqZ.0
+# hhill / SHA-512 / .neQprlm1fbEe5e3 / 8yw7k9EEyF76BoPXiWet4zytE1j2662ia393YwWM8Fb/JdjIhafkX03lZYUSTnhbwrH1uB2T/7dP7z1DpWqZ.0
+#---------------------------------------------------
+# Number of valid   : 5
+# Number of invalid : 0
+# Number of DES     : 0
+# Number of MD5     : 0
+# Number of SHA-256 : 0
+# Number of SHA-512 : 5

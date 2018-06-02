@@ -1,0 +1,231 @@
+body {
+    position : relative;
+    padding : 10px;
+    height : 120vh;
+}
+header>a[href="home.html"] {
+    background-color :#F6DA9E;
+    height : 11vh;
+    padding : 7px;
+    border-radius : 58px;
+    display : block;   
+}
+header>a[href="home.html"] div.logo {
+    content : url(spa.png);
+    display : block;
+    background-color : rgb(129,99,40);
+    background-size : 80px;
+    border-radius : 50%;
+    height : 80px;
+    width : 80px;
+}
+header ul {
+    margin : 0;
+    padding : 0 !important;
+    list-style-type : none;
+}
+header ul li {
+    display : inline;
+}
+header ul li:nth-of-type(even)::before {
+    content : "|";
+}
+header ul li:nth-of-type(even)::after {
+    content : "|";
+}
+footer {
+    background-color : #F6DA9E;
+    padding : 10px;
+    position : absolute;
+    bottom : 0;
+    width : 95vw;
+    border-top : 2px solid grey;
+}
+section h1 {
+    border-bottom : 2px solid silver;
+}
+section h2 {
+    border-bottom : 2px solid silver;
+}
+div.tabs {
+    position : relative;
+}
+div.tabs>ul li.tab a {
+    text-decoration : none;
+    color : black;
+}
+div.tabs>ul:first-of-type li.tab {
+    list-style-type : none;
+    display : inline;
+    background-color : #FFF8DC;
+    padding : 10px;
+    border-top-left-radius : 5px;
+    border-top-right-radius : 5px;
+    border-bottom : 1px solid #FFF8DC; 
+}
+
+div.tabs>ul li.tab:hover {
+    background-color : #B8860B;
+}
+div.tabs>ul li.tab a:hover {
+    color : white;
+    text-decoration : none;
+}
+div.tabs>ul li.tab.active {
+    background-color : #F6DA9E;
+    border-top : 1px solid black;
+    border-left : 1px solid black;
+    border-right : 1px solid black;
+    border-bottom : 5px solid #F6DA9E;
+}
+div.tab-content {
+    background-color : #FFF8DC;
+    display : none;
+    border-radius : 6px;
+    width : 80vw;
+    height : 120vh;
+    z-index : -1;
+    overflow : auto;
+}
+div.content.active {
+    display : block;
+}
+/*
+div.tab-content#tabs-1 {
+    position : absolute;
+    top : 27px;
+    left : 56px;
+    display : inline-block;
+    top : 18px;
+    left : -23px;
+}
+div.tab-content#tabs-2 {
+    position : absolute;
+    top : 18px;
+    left : -20px;
+    display : inline-block;
+    height : 40vh;
+    width : 80vw;
+}
+div.tab-content#tabs-3 {
+    position : absolute;
+    top : 18px;
+    left : -20px;
+    display : inline-block;
+    height : 40vh;
+    width : 80vw;
+}
+*/
+div.tab-content img {
+    border-top-right-radius : 10px;
+    border-bottom-right-radius : 10px; 
+    float : right;
+}
+div.tab-content p {
+    left : 0;
+    width : 60vh;
+}
+div.tab-content.active {
+    background-color : #F6DA9E;
+    border-top-right-radius : 5px; 
+    border-bottom-left-radius : 5px;
+    border-bottom-right-radius : 5px;
+    border-top : 1px solid black;
+    border-left : 1px solid black;
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+    padding : 4px;
+    display : block;
+    height : 37vh;
+    width : 80vw;
+}
+div.tab-content p::first-letter {
+    color : red;
+    font-size : 400%;
+    text-shadow : 5px 5px 5px black;
+}
+div.business-card {
+    height : 35vh;
+    width : 80vw;
+}
+div.business-card-body p::first-letter {
+    color : red;
+    font-size : 400%;
+    text-shadow : 5px 5px 5px black;
+}
+div.business-card-body p {
+    width : 60vw;
+    height : 20vh;
+    position : absolute;
+    left : 90px
+}
+div.business-card header.business-card-header {
+    background-color : rgb(129,99,40);
+    color : white;
+    text-align : center;
+    padding-bottom : 4px;
+    padding-top : 1px;
+}
+div.business-card header.business-card-header h1 {
+    border : 0;
+}
+div.business-card div.business-card-body {
+    background-color : white;
+    padding-top : 3px;
+    padding-bottom :3px;
+    height : 30vh;
+    width : 80vw;
+}
+button {
+    background-color :  rgb(129,99,40);
+    padding : 4px;
+    height : 5vh;
+    width : 80vw;
+    display : block;
+    color : white;
+    border : 0;
+}
+img.avatar {
+    border-radius : 50%;
+    width : 80px;
+    height : 80px;
+}
+img.avatar.shadowed {
+    border-radius : 50%;
+    width : 80px;
+    height : 80px;
+    box-shadow : 5px 5px 15px black;
+    position : absolute;
+    top : 30%;
+    left : 10px;
+}
+div.contact ul li {
+    display : inline-block;
+    background-color : rgb(129,99,40);
+    margin : 10px;
+    padding : 10px;
+    position : relative;
+    bottom : -120px;
+    border : 3px solid grey;
+    right : 0;
+}
+div.contact ul li span.phone {
+    content : "ph:";
+    display : block;
+}
+div.contact ul li span.email {
+    content : "em:";
+    display : block;
+}
+#tabs-1 div.business-card-body.active {
+    height: 35vh;
+    width : 80vh;
+}
+span.spa:after {
+    display : inline-block;
+    height : 5vh;
+    width : 3vw;
+    content : "SPA";
+    font-weight : 600;
+    color : black;
+}

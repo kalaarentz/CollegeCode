@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<BorderPane prefHeight="500" prefWidth="800" xmlns="http://javafx.com/javafx/8.0.112"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="DrugzLLC.Controller">
+    <top>
+        <AnchorPane>
+            <children>
+                <TextField fx:id="searchBarTextField" onAction="#onSearchComplete" AnchorPane.leftAnchor="10.0"
+                           AnchorPane.rightAnchor="70.0"
+                           AnchorPane.topAnchor="10"/>
+                <HBox AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="10" onMouseClicked="#onSearchComplete">
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/search.png"/>
+                    </ImageView>
+                </HBox>
+                <HBox AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10" onMouseClicked="#onAdvancedSearchComplete">
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/searchplus.png"/>
+                    </ImageView>
+                </HBox>
+            </children>
+        </AnchorPane>
+    </top>
+
+    <left>
+        <VBox spacing="10">
+            <padding>
+                <Insets bottom="10" left="10" right="10" top="10"/>
+            </padding>
+
+            <HBox>
+                <Button minWidth="150" onAction="#onPatientsClicked" text="PATIENTS">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+            <HBox>
+                <Button minWidth="150" onAction="#onDoctorsClicked" text="DOCTORS">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+            <HBox>
+                <Button minWidth="150" onAction="#onPrescriptionsClicked" text="PRESCRIPTIONS">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+
+            <HBox>
+                <Button fx:id="seeButton" minWidth="150" onAction="#onSeeClicked" text="SEE" visible="false">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+
+            <HBox>
+                <Button fx:id="haveButton" minWidth="150" onAction="#onHaveClicked" text="HAVE" visible="false">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+
+            <HBox>
+                <Button fx:id="prescribeButton" minWidth="150" onAction="#onPrescribeClicked" text="PRESCRIBE"
+                        visible="false">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+            </HBox>
+
+        </VBox>
+    </left>
+
+    <center>
+        <StackPane>
+            <padding>
+                <Insets bottom="10" left="10" right="10" top="10"/>
+            </padding>
+            <TableView fx:id="doctorTableView" visible="false">
+            </TableView>
+            <TableView fx:id="prescriptionTableView" visible="false">
+            </TableView>
+            <TableView fx:id="patientTableView" visible="false">
+            </TableView>
+        </StackPane>
+    </center>
+
+    <bottom>
+        <StackPane>
+            <padding>
+                <Insets top="10"/>
+            </padding>
+            <Label fx:id="userFeedBackLabel" alignment="CENTER_LEFT" prefWidth="Infinity">
+                <padding>
+                    <Insets bottom="10" left="10" right="10" top="10"/>
+                </padding>
+                <font>
+                    <Font size="16.0"/>
+                </font>
+            </Label>
+            <HBox alignment="BOTTOM_RIGHT" spacing="15">
+                <padding>
+                    <Insets bottom="10" left="10" right="10"/>
+                </padding>
+
+                <VBox fx:id="addHaveButton" alignment="CENTER" onMouseClicked="#onAddHaveClicked" spacing="5" visible="false">
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/doc.png">
+                        </Image>
+                    </ImageView>
+                    <Label text="Have">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+                <VBox fx:id="addPrescribeButton" alignment="CENTER" onMouseClicked="#onAddPrescribeClicked" spacing="5" visible="false">
+
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/prescribe.png">
+                        </Image>
+                    </ImageView>
+                    <Label text="Prescribe">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+                <VBox fx:id="addSeeButton" alignment="CENTER" onMouseClicked="#onAddSeeClicked" spacing="5" visible="false">
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/see.png">
+                        </Image>
+                    </ImageView>
+                    <Label text="See">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+
+                <VBox fx:id="editButton" alignment="CENTER" onMouseClicked="#onEditClicked" spacing="5" visible="false">
+                    <ImageView fitHeight="25" fitWidth="25">
+                        <Image url="@Images/edit.png">
+                        </Image>
+                    </ImageView>
+                    <Label text="Edit">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+                <VBox fx:id="deleteButton" alignment="CENTER" onMouseClicked="#onDeleteClicked" spacing="5" visible="false">
+                    <Label alignment="CENTER" prefHeight="25" prefWidth="25" text="-">
+                        <font>
+                            <Font size="18.0"/>
+                        </font>
+                    </Label>
+                    <Label text="Delete">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+                <VBox alignment="CENTER" onMouseClicked="#onAddClicked" spacing="5">
+                    <Label alignment="CENTER" prefHeight="25" prefWidth="25" text="+">
+                        <font>
+                            <Font size="18.0"/>
+                        </font>
+                    </Label>
+                    <Label text="Add">
+                        <font>
+                            <Font size="12.0"/>
+                        </font>
+
+                    </Label>
+                </VBox>
+            </HBox>
+        </StackPane>
+    </bottom>
+</BorderPane>

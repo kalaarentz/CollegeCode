@@ -1,0 +1,136 @@
+import java.text.DecimalFormat;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * A sample driver for the FlightPath program
+ * ** This is no a comprehensive test, just an example to get you started **
+ * 
+ * @author J. Hursey
+ *
+ */
+public class Driver {
+
+    public static void main(String[] args) {
+        Driver d = new Driver();
+    }
+    
+    public Driver() {
+    	FlightPath flight = new CityGraph();
+        String source, dest;
+        
+        List<String> route;
+        Map<String, List<String>> allRoutes;
+        
+        double dist, trueDist;
+      
+        
+        /*
+         * Create a graph
+         */
+        //flight.loadCities("cities.txt");
+        flight.loadCities("cities.txt", 1000);
+
+        //System.out.println( flight.getHaversineFormula( 51.5072, .1275, 55.7500, 37.6167 ) );
+        
+        /*
+         * Calculate the path between two end-points
+         */
+        source = "Milwaukee";
+        dest   = "New York City";
+        
+        route = flight.getPath(source, dest);
+        dist  = flight.getPathDistance(source, dest);
+        trueDist = flight.getTrueDistance(source, dest);
+        displayRoute( source, dest, route, dist, trueDist );
+
+        
+        System.out.println("-----------------------------------");
+        source = "Milwaukee";
+        dest   = "Paris";
+        
+        route = flight.getPath(source, dest);
+        dist  = flight.getPathDistance(source, dest);
+        trueDist = flight.getTrueDistance(source, dest);
+        displayRoute( source, dest, route, dist, trueDist );
+
+        
+        System.out.println("-----------------------------------");
+        source = "Milwaukee";
+        dest   = "Milwaukee";
+        
+        route = flight.getPath(source, dest);
+        dist  = flight.getPathDistance(source, dest);
+        trueDist = flight.getTrueDistance(source, dest);
+        displayRoute( source, dest, route, dist, trueDist );
+
+        System.out.println("-----------------------------------");
+        source = "Milwaukee";
+        dest   = "Morelia";
+        
+        route = flight.getPath(source, dest);
+        dist  = flight.getPathDistance(source, dest);
+        trueDist = flight.getTrueDistance(source, dest);
+        displayRoute( source, dest, route, dist, trueDist );
+
+
+//        /*
+//         * Get a simple tour
+//         */
+//        System.out.println();
+//        System.out.println("-----------------------------------");
+//        source = "Milwaukee";
+//        List<String> visiting = new LinkedList<>();
+//        visiting.add("Portland");
+//        visiting.add("Santo Domingo");
+//        visiting.add("Morelia");
+//        visiting.add("New York City");
+//        
+//        route = flight.getTour(source, visiting);
+//        displayRoute( source, "TOUR", route, 0, 0, false);
+//
+//        
+//        /*
+//         * Calculate all routes from a single city
+//         */
+//        source = "Milwaukee";
+//        allRoutes = flight.getAllPaths(source);
+//        for( String rdest : allRoutes.keySet() ) {
+//            System.out.println("-----------------------------------");
+//            route = allRoutes.get(rdest);
+//            dist = flight.getPathDistance(source, rdest);
+//            trueDist = flight.getTrueDistance(source, rdest);
+//            displayRoute( source, rdest, route, dist, trueDist );
+//        }
+    }
+
+    private void displayRoute(String source, String dest, List<String> route, double dist, double trueDist) {
+        displayRoute( source, dest, route, dist, trueDist, true );
+    }
+
+    private void displayRoute(String source, String dest, List<String> route, double dist, double trueDist, boolean withMiles) {
+        DecimalFormat df = new DecimalFormat("#,##0.00");
+        System.out.print("Path from " + source + " to " + dest + " ");
+        if( withMiles ) {
+            System.out.print("(" + df.format(dist) + " miles flying vs "+ df.format(trueDist)+" miles direct): ");
+        }
+        System.out.println();
+        
+        if( route.size() == 0 ) {
+            System.out.println("NO SUCH ROUTE");
+            return;
+        }
+        
+        Iterator<String> iter = route.iterator();
+        while( iter.hasNext() ) {
+            System.out.print( iter.next() );
+            if( iter.hasNext() ) {
+                System.out.print(" => ");
+            }
+        }
+        System.out.println();
+    }
+
+}
